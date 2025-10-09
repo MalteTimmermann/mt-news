@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>MT Daily AI News</title>
-    <link>https://malte.github.io/news-feed/∏.xml</link>
-    <description>Zweimal täglich neue KI-News für Malte Timmermann.</description>
+    <title>MT RSS Feed</title>
+    <link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
+    <description>Täglich neue News</description>
     <language>de-DE</language>
     <lastBuildDate>Thu, 09 Oct 2025 14:42:43 GMT</lastBuildDate>
 
