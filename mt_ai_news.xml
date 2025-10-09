@@ -5,7 +5,13 @@
     <link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
     <description>Täglich neue News</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 09 Oct 2025 15:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 15:25:52 GMT</lastBuildDate>
 
-    </channel>
+    <item>
+         <title>GAME OVER FÜR ENTWICKLER? MUSKS KI-PLAN</title>
+         <link>https://www.all-ai.de/news/news24/musk-gamining-ki</link>
+         <description>All-AI.de: Elon Musk kündigt an, dass sein Unternehmen xAI bis Ende 2026 ein vollständig KI-generiertes Videospiel veröffentlichen wird. Diese Ankündigung stößt auf massive Kritik aus der Gaming-Branche.
+
+Elon Musk kündigt an, dass sein Unternehmen xAI bis Ende 2026 ein vollständig KI-generiertes Videospiel veröffentlichen wird. Diese Ankündigung stößt auf massive Kritik aus der Gaming-Branche, die vor seelenlosen, mathematisch erzeugten Inhalten warnt. Zweifel werden durch Musks Historie gebrochener Versprechen und die Tatsache genährt, dass xAI menschliche Tutoren sucht, um die KI zu trainieren. Aktuelle KI-Demos von xAI zeigen eine geringe Qualität, was die ambitionierte Deadline als unrealistisch erscheinen lässt. Die Gaming-Community blickt mit großer Zurückhaltung auf die weitere Entwicklung.</description>
+      </item></channel>
 </rss>
