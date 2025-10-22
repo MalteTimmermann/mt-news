@@ -6,7 +6,7 @@
     <description>Täglich neue News</description>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 15:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 15:11:32 GMT</lastBuildDate>
 
     <item>
          <title>GAME OVER FÜR ENTWICKLER? MUSKS KI-PLAN</title>
@@ -71,5 +71,12 @@ Das neue AWS S3 zu Azure Blob Migrationstool von Azure Storage Mover ist jetzt a
 
 Azure Storage Mover bietet jetzt allgemein verfügbar eine neue Funktion zur Migration von AWS S3 zu Azure Blob. Diese ermöglicht es, Daten direkt von AWS nach Azure zu übertragen, und eliminiert somit manuelle Pipelines.</description>
 <pubDate>Wed, 22 Oct 2025 15:08:32 GMT</pubDate>
+      </item><item>
+         <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
+         <link>https://azure.microsoft.com/updates?id=514653</link>
+         <description>Azure Storage Mover’s new AWS S3 to Azure Blob migration feature is now generally available, empowering organizations to move data directly from AWS to Azure securely, reliably, and at scale.
+
+Die neue AWS S3 zu Azure Blob Migrationsfunktion von Azure Storage Mover ist jetzt allgemein verfügbar. Sie ermöglicht es Organisationen, Daten direkt von AWS nach Azure sicher, zuverlässig und in großem Umfang zu übertragen. Dadurch können manuelle Pipelines eliminiert werden.</description>
+<pubDate>Wed, 22 Oct 2025 15:11:32 GMT</pubDate>
       </item></channel>
 </rss>
