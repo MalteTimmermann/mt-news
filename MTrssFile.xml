@@ -6,7 +6,7 @@
     <description>Täglich neue News</description>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 15:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 16:10:56 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -64,5 +64,12 @@ Vom 18. bis 20. November ist es wieder so weit, die Microsoft Ignite geht in die
 
 Microsoft kündigt die Einstellung des Azure Computer Vision – Image Analysis Service zum 25. September 2028 an. Support wird bis dahin weitergeleistet.</description>
 <pubDate>Thu, 23 Oct 2025 15:09:46 GMT</pubDate>
+      </item><item>
+         <title>Consensus accelerates research with GPT-5 and Responses API</title>
+         <link>https://openai.com/index/consensus/</link>
+         <description>Consensus nutzt GPT-5 und die Responses API, um einen Multi-Agenten-Forschungsassistenten zu betreiben, der wissenschaftliche Erkenntnisse in Minuten zusammenfasst und analysiert.
+
+Consensus verwendet GPT-5 und die Responses API, um ein Multi-Agenten-System namens Scholar Agent zu betreiben, welches den Forschungsprozess beschleunigt, indem es wissenschaftliche Artikel plant, liest und synthetisiert. Dies ermöglicht über 8 Millionen Forschern, schneller zu Erkenntnissen zu kommen und unterstützt insbesondere Forscher, Kliniker und Studenten mit verifizierten und nachvollziehbaren Forschungsantworten.</description>
+<pubDate>Thu, 23 Oct 2025 16:10:56 GMT</pubDate>
       </item></channel>
 </rss>
