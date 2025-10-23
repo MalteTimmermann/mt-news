@@ -6,7 +6,7 @@
     <description>Täglich neue News</description>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 16:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 17:10:56 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -71,5 +71,12 @@ Microsoft kündigt die Einstellung des Azure Computer Vision – Image Analysis 
 
 Consensus verwendet GPT-5 und die Responses API, um ein Multi-Agenten-System namens Scholar Agent zu betreiben, welches den Forschungsprozess beschleunigt, indem es wissenschaftliche Artikel plant, liest und synthetisiert. Dies ermöglicht über 8 Millionen Forschern, schneller zu Erkenntnissen zu kommen und unterstützt insbesondere Forscher, Kliniker und Studenten mit verifizierten und nachvollziehbaren Forschungsantworten.</description>
 <pubDate>Thu, 23 Oct 2025 16:10:56 GMT</pubDate>
+      </item><item>
+         <title>OpenAI acquires Software Applications Incorporated, maker of Sky</title>
+         <link>https://openai.com/index/openai-acquires-software-applications-incorporated</link>
+         <description>OpenAI hat Software Applications Incorporated, Hersteller von Sky, einer natürlichen Sprachschnittstelle für Mac, übernommen. Ziel ist die Integration der tiefgehenden macOS-Fähigkeiten von Sky in ChatGPT.
+
+OpenAI hat Software Applications Incorporated übernommen, den Entwickler von Sky, einer natürlichen Sprachschnittstelle für Mac, die KI direkt in den Desktop bringt. Die Fusion zielt darauf ab, Sky's macOS-Fähigkeiten in ChatGPT zu integrieren, um KI intuitiver, kontextbezogener und handlungsorientierter zu machen.</description>
+<pubDate>Thu, 23 Oct 2025 17:10:56 GMT</pubDate>
       </item></channel>
 </rss>
