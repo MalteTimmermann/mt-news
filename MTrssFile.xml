@@ -6,7 +6,7 @@
     <description>Täglich neue News</description>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 07:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 15:09:46 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -57,5 +57,12 @@ OpenAI's Korea Economic Blueprint skizziert, wie Südkorea vertrauenswürdige KI
 
 Vom 18. bis 20. November ist es wieder so weit, die Microsoft Ignite geht in die nächste Runde. Wirf einen Blick auf die geplante Agenda und sichere dir deinen Platz!</description>
 <pubDate>Thu, 23 Oct 2025 07:39:57 GMT</pubDate>
+      </item><item>
+         <title>Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028</title>
+         <link>https://azure.microsoft.com/updates?id=502909</link>
+         <description>Microsoft kündigt die geplante Einstellung des Azure Computer Vision – Image Analysis Dienstes an.
+
+Microsoft kündigt die Einstellung des Azure Computer Vision – Image Analysis Service zum 25. September 2028 an. Support wird bis dahin weitergeleistet.</description>
+<pubDate>Thu, 23 Oct 2025 15:09:46 GMT</pubDate>
       </item></channel>
 </rss>
