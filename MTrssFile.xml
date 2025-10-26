@@ -6,8 +6,10 @@
     <description>Täglich neue News</description>
     <image>
 <url>https://www.all-ai.de/images/Grafiken/logo-allai1.png</url>
-<link>https://github.com/MalteTimmermann/mt-news/blob/5e49dfd1c2f7146e8b6262a168494e2e41179b5c/ChatGPT%20Image%2026.%20Okt.%202025,%2021_09_35.png?raw=true</link>
+<link>https://github.com/MalteTimmermann/mt-news/blob/main/Logo.png?raw=true</link>
 <title>MT RSS Feed</title>
+      <width>144</width>
+      <height>144</height>
 </image>
     <language>de-DE</language>
     <generator>MT</generator>
