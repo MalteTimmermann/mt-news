@@ -5,8 +5,8 @@
     <link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
     <description>Täglich neue News</description>
     <image>
-<url>https://www.all-ai.de/images/Grafiken/logo-allai1.png</url>
-<link>https://github.com/MalteTimmermann/mt-news/blob/main/Logo.png?raw=true</link>
+<url>https://github.com/MalteTimmermann/mt-news/blob/main/Logo.png?raw=true</url>
+<link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
 <title>MT RSS Feed</title>
       <width>144</width>
       <height>144</height>
