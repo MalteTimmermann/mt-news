@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 17:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 17:42:30 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -104,5 +104,12 @@ Nicht mehr lange bis zum 6. November – dann bringt die Microsoft AI Tour einen
 
 OpenAI hat mit über 170 Experten für psychische Gesundheit zusammengearbeitet, um ChatGPTs Fähigkeit zu verbessern, Belastung zu erkennen, einfühlsam zu antworten und Nutzer zu realer Unterstützung zu leiten. Dadurch wurden unsichere Antworten um bis zu 80 % reduziert. Der Artikel beschreibt die eingesetzten Maßnahmen, Verbesserungen in Modellen wie GPT-5 und die Zusammenarbeit mit Fachleuten zur weitergehenden Sicherstellung der Sicherheit und Unterstützung in sensiblen Momenten.</description>
 <pubDate>Mon, 27 Oct 2025 17:13:16 GMT</pubDate>
+      </item><item>
+         <title>[Launched] Generally Available: RHEL Software Reservations Now Available on Azure with Updated Pricing</title>
+         <link>https://azure.microsoft.com/updates?id=519526</link>
+         <description>Red Hat Enterprise Linux (RHEL) Software-Reservierungen sind jetzt auf Azure mit aktualisierten Preisen verfügbar.
+
+Red Hat Enterprise Linux (RHEL) Software-Reservierungen sind jetzt wieder auf Azure käuflich nach wichtigen Aktualisierungen bei Abrechnungsmessgeräten und Preisgestaltung, welche Probleme mit früheren Messgeräten beheben und die neue Preisgestaltung von Red Hat berücksichtigen.</description>
+<pubDate>Mon, 27 Oct 2025 17:42:30 GMT</pubDate>
       </item></channel>
 </rss>
