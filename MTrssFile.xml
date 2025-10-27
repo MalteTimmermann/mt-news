@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 17:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 19:12:37 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -111,5 +111,12 @@ OpenAI hat mit über 170 Experten für psychische Gesundheit zusammengearbeitet,
 
 Red Hat Enterprise Linux (RHEL) Software-Reservierungen sind jetzt wieder auf Azure käuflich nach wichtigen Aktualisierungen bei Abrechnungsmessgeräten und Preisgestaltung, welche Probleme mit früheren Messgeräten beheben und die neue Preisgestaltung von Red Hat berücksichtigen.</description>
 <pubDate>Mon, 27 Oct 2025 17:42:30 GMT</pubDate>
+      </item><item>
+         <title>Generally Available: PgBouncer 1.23.1 support in Azure Database for PostgreSQL – Flexible Server</title>
+         <link>https://azure.microsoft.com/updates?id=513254</link>
+         <description>PgBouncer 1.23.1 ist jetzt allgemein verfügbar in Azure Database for PostgreSQL – Flexible Server. Es ist eine integrierte Verbindungs-Pooling-Funktion zur effizienten Verwaltung von Verbindungen.
+
+PgBouncer 1.23.1 ist nun allgemein verfügbar in Azure Database for PostgreSQL – Flexible Server. Als integrierte Verbindungs-Pooling-Funktion hilft PgBouncer, tausende von Verbindungen mit geringem Overhead zu skalieren, indem es Leerlauf- und kurzlebige Verbindungen effizient verwaltet.</description>
+<pubDate>Mon, 27 Oct 2025 19:12:37 GMT</pubDate>
       </item></channel>
 </rss>
