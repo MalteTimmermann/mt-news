@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 19:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 19:13:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -118,5 +118,12 @@ Red Hat Enterprise Linux (RHEL) Software-Reservierungen sind jetzt wieder auf Az
 
 PgBouncer 1.23.1 ist nun allgemein verfügbar in Azure Database for PostgreSQL – Flexible Server. Als integrierte Verbindungs-Pooling-Funktion hilft PgBouncer, tausende von Verbindungen mit geringem Overhead zu skalieren, indem es Leerlauf- und kurzlebige Verbindungen effizient verwaltet.</description>
 <pubDate>Mon, 27 Oct 2025 19:12:37 GMT</pubDate>
+      </item><item>
+         <title>Seizing the AI opportunity - OpenAI</title>
+         <link>https://openai.com/global-affairs/seizing-the-ai-opportunity</link>
+         <description>Strategische Investitionen in Energie und Infrastruktur zur Unterstützung von KI-Führung und Wirtschaftswachstum in den USA.
+
+Die Anforderungen des Informationszeitalters zu erfüllen erfordert strategische Investitionen in Energie und Infrastruktur. Die Einreichung von OpenAI im Weißen Haus beschreibt, wie die Kapazitätsausweitung und die Bereitschaft der Arbeitskräfte die amerikanische Führungsrolle in KI und Wirtschaftswachstum sichern können.</description>
+<pubDate>Mon, 27 Oct 2025 19:13:23 GMT</pubDate>
       </item></channel>
 </rss>
