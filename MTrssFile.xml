@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 13:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 14:42:58 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -146,5 +146,12 @@ Das GitHub Universe’25 Recap am 17. November in München bietet dir exklusive 
 
 Microsoft und OpenAI vertiefen ihre langjährige Partnerschaft durch eine neue Vereinbarung, die den Aufbau einer Public Benefit Corporation (PBC) unterstützt, Microsofts Investitionen und Exklusivrechte erweitert sowie neue Bestimmungen für die gemeinsame Entwicklung von Produkten und die Verfolgung von AGI (Artificial General Intelligence) festlegt. Diese Partnerschaft zielt darauf ab, Innovation und Wachstum zu fördern und den verantwortlichen Fortschritt in der KI zu gewährleisten.</description>
 <pubDate>Tue, 28 Oct 2025 13:13:38 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - [Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation</title>
+         <link>https://azure.microsoft.com/updates?id=519310</link>
+         <description>Azure Sphere OS Version 25.10 steht im Retail Eval Feed zur 14-tägigen Evaluierung bereit.
+
+Die Version bietet eine 14-tägige Testphase, in der die Kompatibilität der Anwendungen und Geräte überprüft werden soll.</description>
+<pubDate>Tue, 28 Oct 2025 14:42:58 GMT</pubDate>
       </item></channel>
 </rss>
