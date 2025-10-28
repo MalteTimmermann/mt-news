@@ -5,7 +5,7 @@
     <link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
     <description>Täglich neue News</description>
     <image>
-      <url>https://logoeps.com/wp-content/uploads/2014/05/21601-news-logo-icon-vector-icon-vector-eps.png</url>
+      <url>https://raw.githubusercontent.com/MalteTimmermann/mt-news/refs/heads/main/assets/Logo.png</url>
       <link>https://malte.github.io/news-feed/mt_ai_news.xml</link>
       <title>MT RSS Feed</title>
     </image>
