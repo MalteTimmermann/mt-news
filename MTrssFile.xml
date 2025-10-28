@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 14:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 17:43:02 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -153,5 +153,12 @@ Microsoft und OpenAI vertiefen ihre langjährige Partnerschaft durch eine neue V
 
 Die Version bietet eine 14-tägige Testphase, in der die Kompatibilität der Anwendungen und Geräte überprüft werden soll.</description>
 <pubDate>Tue, 28 Oct 2025 14:42:58 GMT</pubDate>
+      </item><item>
+         <title>Azure - [Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door</title>
+         <link>https://azure.microsoft.com/updates?id=512751</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit von CAPTCHA für Azure Web Application Firewall (WAF) mit Azure Front Door.
+
+Moderne Webanwendungen stehen vor sich entwickelnden Bedrohungen wie Bots, Web-Scrapern und Brute-Force-Angriffen, die traditionelle Sicherheitssysteme oft umgehen können.</description>
+<pubDate>Tue, 28 Oct 2025 17:43:02 GMT</pubDate>
       </item></channel>
 </rss>
