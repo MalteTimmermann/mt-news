@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 19:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 10:42:47 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -132,5 +132,12 @@ Die Anforderungen des Informationszeitalters zu erfüllen erfordert strategische
 
 Azure Storage Mover ermöglicht die Migration von NFS-Dateifreigaben zu Azure File Shares (NFS 4.1). Der Dienst minimiert Ausfallzeiten während der Migration von lokalem Dateisystem zu Azure Storage.</description>
 <pubDate>Mon, 27 Oct 2025 19:42:40 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - GitHub Universe’25 Recap: KI-gestützte Softwareentwicklung im Fokus</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/github-universe25-recap-ki-gestuetzte-softwareentwicklung-im-fokus.aspx</link>
+         <description>Das GitHub Universe’25 Recap am 17. November in München bietet exklusive Einblicke, praxisnahe Beispiele und die Chance zum direkten Austausch mit der Community.
+
+Das GitHub Universe’25 Recap am 17. November in München bietet dir exklusive Einblicke, praxisnahe Beispiele und die Chance zum direkten Austausch mit der Community.</description>
+<pubDate>Tue, 28 Oct 2025 10:42:47 GMT</pubDate>
       </item></channel>
 </rss>
