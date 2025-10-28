@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 17:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:43:01 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -160,5 +160,12 @@ Die Version bietet eine 14-tägige Testphase, in der die Kompatibilität der Anw
 
 Moderne Webanwendungen stehen vor sich entwickelnden Bedrohungen wie Bots, Web-Scrapern und Brute-Force-Angriffen, die traditionelle Sicherheitssysteme oft umgehen können.</description>
 <pubDate>Tue, 28 Oct 2025 17:43:02 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Public Preview: Signed request on Azure Front Door</title>
+         <link>https://azure.microsoft.com/updates?id=501169</link>
+         <description>Ankündigung der öffentlichen Vorschau von Azure Front Door signed request, einem Feature zur verbesserten Zugriffskontrolle beim Content Delivery.
+
+Azure Front Door signed request ermöglicht es Organisationen, den Zugriff auf ihre Inhalte wie Medienströme und Dateien gezielt zu beschränken, um die Sicherheit und Kontrolle zu erhöhen. Die Funktion befindet sich aktuell in der öffentlichen Vorschau für alle Azure-Kunden.</description>
+<pubDate>Tue, 28 Oct 2025 18:43:01 GMT</pubDate>
       </item></channel>
 </rss>
