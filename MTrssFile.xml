@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 04:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 22:14:39 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -181,5 +181,12 @@ Dai Nippon Printing (DNP) ist eines der größten Druckunternehmen der Welt. Im 
 
 gpt-oss-safeguard sind Sicherheitsmodelle von OpenAI, die Entwicklern ermöglichen, eigene Richtlinien zur Klassifikation und zum Schutz von Internetinhalten anzuwenden. Sie bieten eine Vorschau auf diese Technologie.</description>
 <pubDate>Wed, 29 Oct 2025 04:13:58 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Retirement: Remove dependency on these preview features before March 31, 2026</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=501663</link>
+         <description>Einstellung wichtiger Vorschaufunktionen in Azure am 31. März 2026, um Abhängigkeiten zu entfernen.
+
+Am 31. März 2026 werden Vorschaufunktionen wie Gruppierung von Pipelineschritten, Vergleich von Jobs, Datenimport in Data-Labeling-Projekte und Nutzung von v2-Daten eingestellt. Nutzer sollten Abhängigkeiten auflösen.</description>
+<pubDate>Wed, 29 Oct 2025 22:14:38 GMT</pubDate>
       </item></channel>
 </rss>
