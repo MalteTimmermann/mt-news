@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 18:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 00:13:53 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -167,5 +167,12 @@ Moderne Webanwendungen stehen vor sich entwickelnden Bedrohungen wie Bots, Web-S
 
 Azure Front Door signed request ermöglicht es Organisationen, den Zugriff auf ihre Inhalte wie Medienströme und Dateien gezielt zu beschränken, um die Sicherheit und Kontrolle zu erhöhen. Die Funktion befindet sich aktuell in der öffentlichen Vorschau für alle Azure-Kunden.</description>
 <pubDate>Tue, 28 Oct 2025 18:43:01 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Knowledge preservation powered by ChatGPT</title>
+         <link>https://openai.com/index/dai-nippon-printing/</link>
+         <description>Dai Nippon Printing (DNP) nutzt ChatGPT Enterprise, um Produktivität zu steigern und Wissen zu bewahren. Erfolge: 95% schnellere Patentforschung, 10x Volumensteigerung, 100% aktive Nutzung, 87% Automatisierung, 70% Wissenswiederverwendung.
+
+Dai Nippon Printing (DNP) ist eines der größten Druckunternehmen der Welt. Im Februar 2025 führte DNP ChatGPT Enterprise in zehn Kernabteilungen ein. Innerhalb von drei Monaten erzielte das Unternehmen beeindruckende Ergebnisse: 95% schnellere Patentforschung, 10-fache Steigerung des Bearbeitungsvolumens, 100% wöchentliche aktive Nutzung, 87% Automatisierungsrate und 70% Wiederverwendung von Wissen mittels benutzerdefinierter GPTs. DNP nutzt ChatGPT Enterprise zur Automatisierung und Optimierung von Arbeitsabläufen, zum Beispiel in der Patentforschung, IT-Compliance und Wissensbewahrung. Das Ziel ist die Schaffung einer AI-nativen Unternehmenskultur und die nachhaltige Sicherung von Know-how.</description>
+<pubDate>Wed, 29 Oct 2025 00:13:53 GMT</pubDate>
       </item></channel>
 </rss>
