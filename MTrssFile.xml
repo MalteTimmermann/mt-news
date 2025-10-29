@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 00:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 04:13:58 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -174,5 +174,12 @@ Azure Front Door signed request ermöglicht es Organisationen, den Zugriff auf i
 
 Dai Nippon Printing (DNP) ist eines der größten Druckunternehmen der Welt. Im Februar 2025 führte DNP ChatGPT Enterprise in zehn Kernabteilungen ein. Innerhalb von drei Monaten erzielte das Unternehmen beeindruckende Ergebnisse: 95% schnellere Patentforschung, 10-fache Steigerung des Bearbeitungsvolumens, 100% wöchentliche aktive Nutzung, 87% Automatisierungsrate und 70% Wiederverwendung von Wissen mittels benutzerdefinierter GPTs. DNP nutzt ChatGPT Enterprise zur Automatisierung und Optimierung von Arbeitsabläufen, zum Beispiel in der Patentforschung, IT-Compliance und Wissensbewahrung. Das Ziel ist die Schaffung einer AI-nativen Unternehmenskultur und die nachhaltige Sicherung von Know-how.</description>
 <pubDate>Wed, 29 Oct 2025 00:13:53 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Introducing gpt-oss-safeguard</title>
+         <link>https://openai.com/index/introducing-gpt-oss-safeguard</link>
+         <description>Eine Vorschau auf gpt-oss-safeguard, OpenAIs Open-Weight-Sicherheitsmodelle, die Entwicklern erlauben, benutzerdefinierte Richtlinien anzuwenden, um Online-Inhalte zu klassifizieren und zu schützen.
+
+gpt-oss-safeguard sind Sicherheitsmodelle von OpenAI, die Entwicklern ermöglichen, eigene Richtlinien zur Klassifikation und zum Schutz von Internetinhalten anzuwenden. Sie bieten eine Vorschau auf diese Technologie.</description>
+<pubDate>Wed, 29 Oct 2025 04:13:58 GMT</pubDate>
       </item></channel>
 </rss>
