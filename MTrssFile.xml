@@ -2,11 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>MT RSS Feed</title>
-    <link>https://raw.githubusercontent.com/MalteTimmermann/mt-news/refs/heads/main/MTrssFile.xml</link>
+    <link>https://github.com/MalteTimmermann/mt-news</link>
     <description>Täglich neue News</description>
     <image>
       <url>https://www.all-ai.de/images/Grafiken/logo-allai1.png</url>
-      <link>https://raw.githubusercontent.com/MalteTimmermann/mt-news/refs/heads/main/MTrssFile.xml</link>
+      <link>https://github.com/MalteTimmermann/mt-news</link>
       <title>MT RSS Feed</title>
     </image>
     <language>de-DE</language>
