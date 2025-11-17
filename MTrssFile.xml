@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:14:20 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -258,5 +258,12 @@ eBPF host routing in ACNS for AKS is now available in public preview. As contain
 
 Azure WAF führt eine neue Sicherheitsfunktion ein: die JavaScript (JS) Challenge, die jetzt allgemein verfügbar ist. Diese Funktion stärkt die Bot-Mitigation-Strategien, indem sie eine JS Challenge einsetzt, um schädliche Bot-Aktivitäten im Azure Front Door Netzwerk zu vermindern.</description>
 <pubDate>Mon, 17 Nov 2025 05:14:17 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Allgemeine Verfügbarkeit: Query Advisor in Azure Cosmos DB</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=520696</link>
+         <description>Der Query Advisor in Azure Cosmos DB für NoSQL ist jetzt allgemein verfügbar in der .NET SDK. Er hilft bei der Erstellung schnellerer und effizienterer Abfragen durch Analyse und Empfehlungen.
+
+Azure Cosmos DB für NoSQL enthält den Query Advisor, der nun in der .NET SDK allgemein verfügbar ist. Dieses Tool analysiert die Struktur Ihrer Abfragen und bietet klare, umsetzbare Empfehlungen zur Optimierung der Abfragen, um schnellere und effizientere Ergebnisse zu erzielen.</description>
+<pubDate>Mon, 17 Nov 2025 05:14:20 GMT</pubDate>
       </item></channel>
 </rss>
