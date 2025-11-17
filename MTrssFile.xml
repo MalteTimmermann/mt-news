@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:13:52 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -230,5 +230,12 @@ Die Object Replication Priority Replication ermöglicht es Nutzern, eine prioris
 
 Azure Virtual Network Manager peering compliance ist jetzt allgemein verfügbar und bietet einen sicheren und konformen Mechanismus zum Schutz der Netzwerkkonnektivität, die durch Azure Virtual Network Manager verwaltet wird. In groß angelegten Umgebungen ist es wichtig, unautorisierte Verbindungen zu verhindern.</description>
 <pubDate>Mon, 17 Nov 2025 05:13:51 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: DNS flow trace logs for Azure Firewall</title>
+         <link>https://azure.microsoft.com/updates?id=526720</link>
+         <description>Azure Firewall unterstützt nun DNS Flow Trace Logs, ein neues Protokollierungs-Feature für tiefere Einblicke in DNS-Verkehr und Namensauflösungspfade.
+
+Azure Firewall bietet jetzt DNS Flow Trace Logs, die end-to-end Sichtbarkeit in DNS-Traffic und Namensauflösungspfade gewähren. Damit können Nutzer ihre DNS-Daten besser überwachen, Fehler beheben und die Sicherheit verbessern.</description>
+<pubDate>Mon, 17 Nov 2025 05:13:52 GMT</pubDate>
       </item></channel>
 </rss>
