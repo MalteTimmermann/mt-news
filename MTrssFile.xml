@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:30:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -272,5 +272,12 @@ Azure Cosmos DB für NoSQL enthält den Query Advisor, der nun in der .NET SDK a
 
 Azure Virtual Network Manager IP Address Management (IPAM) – Pool Association Recommendation ist ab sofort allgemein verfügbar. Die Funktion unterstützt Unternehmen dabei, ihre Netzwerke in Azure intelligent und automatisiert zu verwalten und zu skalieren.</description>
 <pubDate>Mon, 17 Nov 2025 05:14:21 GMT</pubDate>
+      </item><item>
+         <title>openai.com - From Pilot to Practice: How BBVA Is Scaling AI Across the Organization</title>
+         <link>https://openai.com/index/bbva-2025</link>
+         <description>BBVA nutzt ChatGPT Enterprise und hat erhebliche Effizienzsteigerungen erzielt.
+
+BBVA reimaginiert die Arbeitsweise der Mitarbeiter durch die Einbettung von ChatGPT Enterprise in die täglichen Abläufe. Das Unternehmen hat pro Mitarbeiter mehrere Stunden pro Woche eingespart, über 20.000 Custom GPTs erstellt und Effizienzsteigerungen von bis zu 80 % erreicht.</description>
+<pubDate>Mon, 17 Nov 2025 05:30:10 GMT</pubDate>
       </item></channel>
 </rss>
