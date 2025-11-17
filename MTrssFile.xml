@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:14:02 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -244,5 +244,12 @@ Azure Firewall bietet jetzt DNS Flow Trace Logs, die end-to-end Sichtbarkeit in 
 
 Azure Database for PostgreSQL flexible server unterstützt nun read replicas (in-region und geo-replicas) mit dem Premium SSD v2 Speichertyp, um leseintensive Workloads besser skalieren und die Performance verbessern zu können.</description>
 <pubDate>Mon, 17 Nov 2025 05:13:54 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: eBPF host routing in Advanced Container Networking Services (ACNS) for AKS</title>
+         <link>https://azure.microsoft.com/updates?id=523100</link>
+         <description>eBPF host routing in ACNS für AKS ist jetzt in der öffentlichen Vorschau verfügbar. Mit dem Skalieren containerisierter Anwendungen in verteilten Umgebungen können traditionelle Netzwerkansätze Latenz verursachen und Durchsatz reduzieren.
+
+eBPF host routing in ACNS for AKS is now available in public preview. As containerized applications scale across distributed environments, traditional networking approaches can introduce latency and reduce throughput. To address this, Azure CNI powered by</description>
+<pubDate>Mon, 17 Nov 2025 05:14:02 GMT</pubDate>
       </item></channel>
 </rss>
