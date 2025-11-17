@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 08:12:44 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -293,5 +293,12 @@ GPT-5.1 bringt wichtige Verbesserungen für Entwickler, darunter schnellere adap
 
 OpenAI stellt U.S. Dienstmitgliedern und Veteranen, die sich innerhalb von 12 Monaten vor Ruhestand oder Ausscheiden befinden, ein kostenloses Jahr ChatGPT Plus zur Verfügung, um den Übergang ins zivile Leben zu erleichtern. Die Tools unterstützen bei Lebensläufen, Vorstellungsgesprächen, Bildung und Zukunftsplanung.</description>
 <pubDate>Mon, 17 Nov 2025 05:30:12 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - Azure NetApp Files: Neue Funktionen für mehr Leistung, Skalierung und Kontrolle</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/azure-netapp-files-neue-funktionen-fuer-mehr-leistung-skalierung-und-kontrolle.aspx</link>
+         <description>Azure NetApp Files erhält ein umfangreiches Update – mit deutlich größeren Volumes, höherem Durchsatz, besserer Datensicherung und neuen Optionen für Hybrid-Cloud- und KI-Workflows.
+
+Azure NetApp Files erhält ein umfangreiches Update mit größeren Volumes, höherem Durchsatz, verbesserter Datensicherung und neuen Optionen für Hybrid-Cloud- und KI-Workflows.</description>
+<pubDate>Mon, 17 Nov 2025 08:12:44 GMT</pubDate>
       </item></channel>
 </rss>
