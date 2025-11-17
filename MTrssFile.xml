@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:30:11 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -279,5 +279,12 @@ Azure Virtual Network Manager IP Address Management (IPAM) – Pool Association 
 
 BBVA reimaginiert die Arbeitsweise der Mitarbeiter durch die Einbettung von ChatGPT Enterprise in die täglichen Abläufe. Das Unternehmen hat pro Mitarbeiter mehrere Stunden pro Woche eingespart, über 20.000 Custom GPTs erstellt und Effizienzsteigerungen von bis zu 80 % erreicht.</description>
 <pubDate>Mon, 17 Nov 2025 05:30:10 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Introducing GPT-5.1 for developers</title>
+         <link>https://openai.com/index/gpt-5-1-for-developers</link>
+         <description>GPT-5.1 ist jetzt in der API verfügbar und bietet schnellere adaptive Schlussfolgerungen, erweitertes Prompt-Caching, verbesserte Programmierleistung sowie neue apply_patch- und Shell-Tools.
+
+GPT-5.1 bringt wichtige Verbesserungen für Entwickler, darunter schnellere adaptive Logik, erweitertes Prompt-Caching, verbesserte Leistung beim Codieren und neue Werkzeuge wie apply_patch und shell.</description>
+<pubDate>Mon, 17 Nov 2025 05:30:11 GMT</pubDate>
       </item></channel>
 </rss>
