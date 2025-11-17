@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:13:54 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -237,5 +237,12 @@ Azure Virtual Network Manager peering compliance ist jetzt allgemein verfügbar 
 
 Azure Firewall bietet jetzt DNS Flow Trace Logs, die end-to-end Sichtbarkeit in DNS-Traffic und Namensauflösungspfade gewähren. Damit können Nutzer ihre DNS-Daten besser überwachen, Fehler beheben und die Sicherheit verbessern.</description>
 <pubDate>Mon, 17 Nov 2025 05:13:52 GMT</pubDate>
+      </item><item>
+         <title>Azure - [In preview] Public Preview: Azure Database for PostgreSQL read replicas with Premium SSD v2</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=520710</link>
+         <description>Azure Database für PostgreSQL unterstützt jetzt Lese-Replikate mit Premium SSD v2 Speichertyp. Skalieren Sie leseintensive Workloads und verbessern Sie die Leistung.
+
+Azure Database for PostgreSQL flexible server unterstützt nun read replicas (in-region und geo-replicas) mit dem Premium SSD v2 Speichertyp, um leseintensive Workloads besser skalieren und die Performance verbessern zu können.</description>
+<pubDate>Mon, 17 Nov 2025 05:13:54 GMT</pubDate>
       </item></channel>
 </rss>
