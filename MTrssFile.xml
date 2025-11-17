@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:13:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -202,5 +202,12 @@ Erlebe Microsoft-Technologien in den kommenden Events zu den Themen Künstliche 
 
 Die Microsoft Ignite 2025 findet vom 18. bis 21. November 2025 statt. Sie zeigt neue Fortschritte in den Bereichen Künstliche Intelligenz, Cloud und Sicherheit, die Unternehmen bei ihren nächsten Schritten unterstützen. Die Veranstaltung ist sowohl live vor Ort als auch online erlebbar.</description>
 <pubDate>Mon, 17 Nov 2025 05:12:53 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: ExpressRoute resiliency insights</title>
+         <link>https://azure.microsoft.com/updates?id=525424</link>
+         <description>Bewertung der Netzwerkzuverlässigkeit für ExpressRoute Workloads mit dem Resiliency Index.
+
+Resiliency insights ist eine Bewertungsfunktion zur Messung der Zuverlässigkeit Ihres Netzwerks für ExpressRoute Workloads. Im Mittelpunkt steht der Resiliency Index, ein Prozentsatz, der basierend auf Faktoren wie Routensicherheit und Zonenausfallsicherung berechnet wird.</description>
+<pubDate>Mon, 17 Nov 2025 05:13:10 GMT</pubDate>
       </item></channel>
 </rss>
