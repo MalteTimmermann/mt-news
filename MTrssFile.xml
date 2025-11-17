@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:13:51 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -223,5 +223,12 @@ Der Azure Database for PostgreSQL Flexible Server ist nun generell in allen drei
 
 Die Object Replication Priority Replication ermöglicht es Nutzern, eine priorisierte Replikation von der Quell- zum Ziel-Speicherkonto einzurichten, was verbesserte Service Level Vereinbarungen bietet.</description>
 <pubDate>Mon, 17 Nov 2025 05:13:50 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: Azure Virtual Network Manager peering compliance</title>
+         <link>https://azure.microsoft.com/updates?id=526155</link>
+         <description>Azure Virtual Network Manager peering compliance ist jetzt allgemein verfügbar und bietet einen sicheren und konformen Mechanismus zum Schutz der Netzwerkkonnektivität, die durch Azure Virtual Network Manager verwaltet wird.
+
+Azure Virtual Network Manager peering compliance ist jetzt allgemein verfügbar und bietet einen sicheren und konformen Mechanismus zum Schutz der Netzwerkkonnektivität, die durch Azure Virtual Network Manager verwaltet wird. In groß angelegten Umgebungen ist es wichtig, unautorisierte Verbindungen zu verhindern.</description>
+<pubDate>Mon, 17 Nov 2025 05:13:51 GMT</pubDate>
       </item></channel>
 </rss>
