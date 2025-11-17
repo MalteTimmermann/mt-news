@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 05:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 05:14:17 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -251,5 +251,12 @@ Azure Database for PostgreSQL flexible server unterstützt nun read replicas (in
 
 eBPF host routing in ACNS for AKS is now available in public preview. As containerized applications scale across distributed environments, traditional networking approaches can introduce latency and reduce throughput. To address this, Azure CNI powered by</description>
 <pubDate>Mon, 17 Nov 2025 05:14:02 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure WAF JavaScript challenge on Azure Front Door</title>
+         <link>https://azure.microsoft.com/updates?id=513802</link>
+         <description>Allgemeine Verfügbarkeit der JavaScript Challenge Funktion für Azure Web Application Firewall (WAF) mit Azure Front Door zur Verbesserung der Bot-Abwehr.
+
+Azure WAF führt eine neue Sicherheitsfunktion ein: die JavaScript (JS) Challenge, die jetzt allgemein verfügbar ist. Diese Funktion stärkt die Bot-Mitigation-Strategien, indem sie eine JS Challenge einsetzt, um schädliche Bot-Aktivitäten im Azure Front Door Netzwerk zu vermindern.</description>
+<pubDate>Mon, 17 Nov 2025 05:14:17 GMT</pubDate>
       </item></channel>
 </rss>
