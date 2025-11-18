@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -321,5 +321,12 @@ Als Teil unserer Reise, Azure zur am meisten beobachtbaren Cloud zu machen, füg
 
 Visual Studio 2026 ist die nächste Evolution der weltweit vertrauten IDE, modernisiert mit KI tief integriert in alltägliche Arbeitsabläufe. Durch die nahtlose Integration von GitHub Copilot und agentenbasierten Workflows ermöglicht Visual Studio professionelle Entwickler, effizienter zu arbeiten.</description>
 <pubDate>Tue, 18 Nov 2025 16:13:19 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Support 5x churn in Azure Site Recovery</title>
+         <link>https://azure.microsoft.com/updates?id=530078</link>
+         <description>Azure Site Recovery jetzt mit Unterstützung von bis zu 5x Churn (500 MB/s pro VM), was eine robuste Notfallwiederherstellung auch für anspruchsvollste Anwendungen ermöglicht.
+
+Azure Site Recovery unterstützt nun bis zu 5x Churn (500 MB/s pro VM). Diese wichtige Verbesserung ermöglicht es Kunden, Workloads mit hoher IOPS-Leistung sicher mit Azure Site Recovery zu betreiben und gewährleistet eine robuste Notfallwiederherstellung für selbst anspruchsvollste Anwendungen.</description>
+<pubDate>Tue, 18 Nov 2025 16:13:21 GMT</pubDate>
       </item></channel>
 </rss>
