@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -342,5 +342,12 @@ Die Archivzugriffsstufe für Azure Blob Storage ist jetzt in der Region Taiwan N
 
 Der Breakthrough-Modus in Azure NetApp Files bietet eine hohe Leistung und Skalierbarkeit für rechenintensive Workloads wie HPC und EDA. Der Modus unterstützt große Speichervolumina bis zu 2 PiB und erreicht je nach Arbeitslast einen Durchsatz von bis zu 50 GiB pro Sekunde.</description>
 <pubDate>Tue, 18 Nov 2025 16:13:23 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: Capacity guidance for Azure Site Recovery</title>
+         <link>https://azure.microsoft.com/updates?id=530073</link>
+         <description>Azure Site Recovery bietet alternative VM-Größenempfehlungen bei Failover, um Kapazitätsengpässe zu vermeiden.
+
+Azure Site Recovery bietet nun alternative VM-Größenempfehlungen während eines ASR-Failovers, wenn die aktuelle Ziel-VM-Größe aufgrund von Kapazitätsbeschränkungen nur begrenzt verfügbar ist. Diese Funktion verbessert die Notfallwiederherstellung durch bessere Kapazitätsführung und Verfügbarkeitsoptimierung.</description>
+<pubDate>Tue, 18 Nov 2025 16:13:25 GMT</pubDate>
       </item></channel>
 </rss>
