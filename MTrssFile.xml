@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 08:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:00 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -300,5 +300,12 @@ OpenAI stellt U.S. Dienstmitgliedern und Veteranen, die sich innerhalb von 12 Mo
 
 Azure NetApp Files erhält ein umfangreiches Update mit größeren Volumes, höherem Durchsatz, verbesserter Datensicherung und neuen Optionen für Hybrid-Cloud- und KI-Workflows.</description>
 <pubDate>Mon, 17 Nov 2025 08:12:44 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - Großes Update für OpenAPI.NET</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/grosses-update-fuer-openapinet.aspx</link>
+         <description>Mit voller Unterstützung für OpenAPI 3.1 und 3.2, deutlich mehr Performance und erweiterten Modell- und Sicherheitsfunktionen bringen v2 und v3 die .NET-API-Welt spürbar nach vorn.
+
+Mit voller Unterstützung für OpenAPI 3.1 und 3.2, deutlicher Leistungssteigerung sowie erweiterten Modell- und Sicherheitsfunktionen bringen die Versionen 2 und 3 der OpenAPI.NET-Bibliothek die .NET-API-Entwicklung deutlich voran.</description>
+<pubDate>Tue, 18 Nov 2025 16:13:00 GMT</pubDate>
       </item></channel>
 </rss>
