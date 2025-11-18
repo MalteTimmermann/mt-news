@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:24 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -335,5 +335,12 @@ Azure Site Recovery unterstützt nun bis zu 5x Churn (500 MB/s pro VM). Diese wi
 
 Die Archivzugriffsstufe für Azure Blob Storage ist jetzt in der Region Taiwan North allgemein verfügbar. Kunden in Taiwan können damit selten genutzte Daten kosteneffizient im Archivspeicher ablegen und gleichzeitig Anforderungen an die Datenresidenz erfüllen.</description>
 <pubDate>Tue, 18 Nov 2025 16:13:22 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public preview: Support for large volume breakthrough mode</title>
+         <link>https://azure.microsoft.com/updates?id=516656</link>
+         <description>Breakthrough mode in Azure NetApp Files ermöglicht extreme Leistung und Skalierbarkeit für anspruchsvolle HPC- und EDA-Workloads, unterstützt große Volumina bis zu 2 PiB bei Durchsatz bis zu 50 GiB/s.
+
+Der Breakthrough-Modus in Azure NetApp Files bietet eine hohe Leistung und Skalierbarkeit für rechenintensive Workloads wie HPC und EDA. Der Modus unterstützt große Speichervolumina bis zu 2 PiB und erreicht je nach Arbeitslast einen Durchsatz von bis zu 50 GiB pro Sekunde.</description>
+<pubDate>Tue, 18 Nov 2025 16:13:23 GMT</pubDate>
       </item></channel>
 </rss>
