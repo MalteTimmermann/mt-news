@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:19 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -307,5 +307,12 @@ Azure NetApp Files erhält ein umfangreiches Update mit größeren Volumes, höh
 
 Mit voller Unterstützung für OpenAPI 3.1 und 3.2, deutlicher Leistungssteigerung sowie erweiterten Modell- und Sicherheitsfunktionen bringen die Versionen 2 und 3 der OpenAPI.NET-Bibliothek die .NET-API-Entwicklung deutlich voran.</description>
 <pubDate>Tue, 18 Nov 2025 16:13:00 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro</title>
+         <link>https://azure.microsoft.com/updates?id=529528</link>
+         <description>Neue Überwachungsmöglichkeit der Azure Monitor Application Insights-Datenerfassungspipeline zur Steigerung der Observability in Azure.
+
+Als Teil unserer Reise, Azure zur am meisten beobachtbaren Cloud zu machen, fügen wir eine neue Möglichkeit hinzu, Ihre Azure Monitor Application Insights-Datenerfassungspipeline zu überwachen. Einer der Hauptgründe, warum Kunden Supporttickets gegen Azure Monitor stellen...</description>
+<pubDate>Tue, 18 Nov 2025 16:13:18 GMT</pubDate>
       </item></channel>
 </rss>
