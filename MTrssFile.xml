@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:13:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -328,5 +328,12 @@ Visual Studio 2026 ist die nächste Evolution der weltweit vertrauten IDE, moder
 
 Azure Site Recovery unterstützt nun bis zu 5x Churn (500 MB/s pro VM). Diese wichtige Verbesserung ermöglicht es Kunden, Workloads mit hoher IOPS-Leistung sicher mit Azure Site Recovery zu betreiben und gewährleistet eine robuste Notfallwiederherstellung für selbst anspruchsvollste Anwendungen.</description>
 <pubDate>Tue, 18 Nov 2025 16:13:21 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: The Archive access tier for Azure Blob Storage is now generally available in the Taiwan North region</title>
+         <link>https://azure.microsoft.com/updates?id=527181</link>
+         <description>Archivzugriffsstufe für Azure Blob Storage jetzt allgemein verfügbar in der Taiwan North Region - kostengünstige Speicherung für selten genutzte Daten unter Einhaltung regionaler Datenschutzanforderungen.
+
+Die Archivzugriffsstufe für Azure Blob Storage ist jetzt in der Region Taiwan North allgemein verfügbar. Kunden in Taiwan können damit selten genutzte Daten kosteneffizient im Archivspeicher ablegen und gleichzeitig Anforderungen an die Datenresidenz erfüllen.</description>
+<pubDate>Tue, 18 Nov 2025 16:13:22 GMT</pubDate>
       </item></channel>
 </rss>
