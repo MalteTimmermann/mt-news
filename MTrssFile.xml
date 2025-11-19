@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:20 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -391,5 +391,12 @@ Die Public Preview von Dynamic data masking (DDM) in Azure Cosmos DB ermöglicht
 
 Sie können jetzt zuverlässige Produktionsreife KI-Agenten mit der durable Extension für das Microsoft Agent Framework erstellen und hosten. Diese Integration kombiniert das Microsoft Agent Framework mit den dauerhaften Fähigkeiten von Azure Functions, um bewährte Orchestrierung zu liefern.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:18 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure SQL Managed Instance Next-gen General Purpose service tier</title>
+         <link>https://azure.microsoft.com/updates?id=523125</link>
+         <description>Die Next-gen General Purpose Tier bietet deutliche Leistungsverbesserungen bei gleichzeitigen Kostenvorteilen für Azure SQL Managed Instance.
+
+Die neue Next-gen General Purpose Tier für Azure SQL Managed Instance liefert eine bedeutende Leistungssteigerung und erhält die Kostenvorteile, bietet mehr Leistung und Flexibilität bei den Compute-Ressourcen, während sie die vollständige PaaS-Erfahrung bewahrt.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:20 GMT</pubDate>
       </item></channel>
 </rss>
