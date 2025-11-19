@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -398,5 +398,12 @@ Sie können jetzt zuverlässige Produktionsreife KI-Agenten mit der durable Exte
 
 Die neue Next-gen General Purpose Tier für Azure SQL Managed Instance liefert eine bedeutende Leistungssteigerung und erhält die Kostenvorteile, bietet mehr Leistung und Flexibilität bei den Compute-Ressourcen, während sie die vollständige PaaS-Erfahrung bewahrt.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:20 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Custom error pages on Azure App Service jetzt allgemein verfügbar</title>
+         <link>https://azure.microsoft.com/updates?id=492303</link>
+         <description>Azure App Service ermöglicht nun die Konfiguration benutzerdefinierter Fehlerseiten. Anstelle der Standard-Fehlerseiten können eigene Fehlerseiten angezeigt werden.
+
+Benutzerdefinierte Fehlerseiten sind jetzt allgemein verfügbar auf App Service. Nutzer können ihre Apps konfigurieren, um eigene Fehlerseiten anzuzeigen, statt der Standard-Fehlerseiten. Dies verbessert die Nutzererfahrung bei Fehlern in der Anwendung.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:21 GMT</pubDate>
       </item></channel>
 </rss>
