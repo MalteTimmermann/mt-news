@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -370,5 +370,12 @@ Die Microsoft Ignite 2025 präsentiert die zukünftige Entwicklung von Microsoft
 
 Azure Boost confidential device ist jetzt in privater Vorschau. Es verlagert Virtualisierungsaufgaben wie Netzwerk, Speicher und Host-Management vom Hypervisor und Host-Betriebssystem auf dedizierte Hardware und Software.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:14 GMT</pubDate>
+      </item><item>
+         <title>Azure Microsoft - Public Preview: New integration and extensibility capabilities to Azure SRE Agent</title>
+         <link>https://azure.microsoft.com/updates?id=529944</link>
+         <description>Azure SRE Agent ist eine KI-gestützte Lösung, die operative Workflows in einer einzigen, promptbasierten Automatisierungsebene vereint – reduziert Komplexität und Overhead bei modernen Cloud-Operationen.
+
+Azure SRE Agent ist ein KI-getriebenes Tool, das operative Workflows vereinheitlicht und Automatisierung ohne klassische statische Lösungen ermöglicht. Die Public Preview bietet neue Integrations- und Erweiterungsfunktionen.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:16 GMT</pubDate>
       </item></channel>
 </rss>
