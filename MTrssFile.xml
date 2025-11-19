@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:43:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -356,5 +356,12 @@ Azure Site Recovery bietet nun alternative VM-Größenempfehlungen während eine
 
 OpenAI und Intuit haben eine mehrjährige Partnerschaft im Wert von über 100 Millionen Dollar gestartet, um Intuit-App-Erlebnisse in ChatGPT zu integrieren und die Nutzung von OpenAI-Modellen für personalisierte Finanztools auszuweiten.</description>
 <pubDate>Tue, 18 Nov 2025 16:30:27 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - Microsoft Ignite 2025: Die intelligente Cloud auf Microsoft Azure</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/microsoft-ignite-2025-die-intelligente-cloud-auf-microsoft-azure.aspx</link>
+         <description>Die Microsoft Ignite 2025 zeigt klar, wohin sich Azure entwickelt: hin zu einer Plattform, die KI-Agenten, Daten und Infrastruktur nahtlos verbindet.
+
+Die Microsoft Ignite 2025 präsentiert die zukünftige Entwicklung von Microsoft Azure als eine Plattform, die künstliche Intelligenz, Daten und Cloud-Infrastruktur intelligent und nahtlos integriert.</description>
+<pubDate>Wed, 19 Nov 2025 16:43:22 GMT</pubDate>
       </item></channel>
 </rss>
