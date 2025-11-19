@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:45:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -440,5 +440,12 @@ Mit Microsoft Defender for Cloud und GitHub Advanced Security schützen Sie clou
 
 Azure Cosmos DB für NoSQL bietet nun ein MCP Toolkit, das mit dem Microsoft Foundry Agent Service genutzt werden kann. Diese neue Integration erlaubt es, Microsoft Foundry Agents direkt mit Azure Cosmos DB Daten zu verbinden. Die Funktion ist ab sofort in der öffentlichen Vorschau verfügbar.</description>
 <pubDate>Wed, 19 Nov 2025 16:45:14 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters</title>
+         <link>https://azure.microsoft.com/updates?id=526227</link>
+         <description>Vorschau auf den Azure Kubernetes Fleet Manager, jetzt mit Support für Azure Arc-enabled Kubernetes zur einfachen Verwaltung von Kubernetes-Clustern in hybriden und Multi-Cloud-Umgebungen.
+
+Der Azure Kubernetes Fleet Manager unterstützt jetzt Azure Arc-enabled Kubernetes, um die Verwaltung von Kubernetes-Clustern über verschiedene Umgebungen hinweg zu vereinfachen und zu zentralisieren.</description>
+<pubDate>Wed, 19 Nov 2025 16:45:16 GMT</pubDate>
       </item></channel>
 </rss>
