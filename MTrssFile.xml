@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:45:36 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -468,5 +468,12 @@ Azure hat neue Funktionen in der Azure Monitor OpenTelemetry Distro eingeführt,
 
 Azure Cosmos DB unterstützt nun Float16-Datentyp für Vektorindizes. Dies erlaubt das Speichern und Abfragen von Vektoren mit halber Genauigkeit, was den Speicherverbrauch im Vergleich zu Float32 halbiert, dabei aber hohe Genauigkeit bewahrt.</description>
 <pubDate>Wed, 19 Nov 2025 16:45:21 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - [Launched] Generally Available: Azure Container Apps serverless GPUs in additional regions</title>
+         <link>https://azure.microsoft.com/updates?id=525460</link>
+         <description>Azure erweitert die Verfügbarkeit von serverlosen GPUs für Container Apps auf weitere Regionen, zur Unterstützung von GPU-basierten Workloads.
+
+Azure Container Apps serverless GPUs sind jetzt in zusätzlichen Regionen generell verfügbar. Diese Erweiterung unterstützt Entwickler bei der Ausführung von KI-Inferenz, Modelltraining und GPU-beschleunigten Workloads in einer serverlosen Umgebung.</description>
+<pubDate>Wed, 19 Nov 2025 16:45:36 GMT</pubDate>
       </item></channel>
 </rss>
