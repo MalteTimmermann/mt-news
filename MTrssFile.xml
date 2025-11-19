@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:31 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -419,5 +419,12 @@ Die Funktion "Bring Your Own AI Model Gateway" erlaubt es Unternehmen, eigene AI
 
 Azure kündigt die allgemeine Verfügbarkeit der mTLS Passthrough-Unterstützung im Application Gateway an. Diese ermöglicht Backend-Anwendungen, Clientzertifikate und Autorisierungsheader direkt zu validieren, während die Web Application Firewall weiterhin den Webverkehr inspiziert.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:29 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Premium Ingress in Azure Container Apps</title>
+         <link>https://azure.microsoft.com/updates?id=512813</link>
+         <description>Azure Container Apps unterstützen jetzt Premium Ingress allgemein verfügbar mit anpassbarer Ingress-Skalierung.
+
+Azure Container Apps unterstützen Premium Ingress nun allgemein verfügbar. Das Feature ermöglicht Umgebungs-weit einstellbare Ingress-Optionen, insbesondere die anpassbare Skalierung des Ingress.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:31 GMT</pubDate>
       </item></channel>
 </rss>
