@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:45:14 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -433,5 +433,12 @@ Azure Container Apps unterstützen Premium Ingress nun allgemein verfügbar. Das
 
 Mit Microsoft Defender for Cloud und GitHub Advanced Security schützen Sie cloud-native Anwendungen während des gesamten Anwendungslebenszyklus von Code bis Cloud. Diese nativ integrierte Lösung hilft dabei, Entwickler- und Sicherheitsteams in einem Workflow zu vereinen.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:34 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - Public Preview: Azure Cosmos DB MCP ToolKit for Microsoft Foundry Agent Service</title>
+         <link>https://azure.microsoft.com/updates?id=523814</link>
+         <description>Öffentliche Vorschau des MCP ToolKit für Azure Cosmos DB, integrierbar mit Microsoft Foundry Agent Service.
+
+Azure Cosmos DB für NoSQL bietet nun ein MCP Toolkit, das mit dem Microsoft Foundry Agent Service genutzt werden kann. Diese neue Integration erlaubt es, Microsoft Foundry Agents direkt mit Azure Cosmos DB Daten zu verbinden. Die Funktion ist ab sofort in der öffentlichen Vorschau verfügbar.</description>
+<pubDate>Wed, 19 Nov 2025 16:45:14 GMT</pubDate>
       </item></channel>
 </rss>
