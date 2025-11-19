@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:17 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -377,5 +377,12 @@ Azure Boost confidential device ist jetzt in privater Vorschau. Es verlagert Vir
 
 Azure SRE Agent ist ein KI-getriebenes Tool, das operative Workflows vereinheitlicht und Automatisierung ohne klassische statische Lösungen ermöglicht. Die Public Preview bietet neue Integrations- und Erweiterungsfunktionen.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:16 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Dynamic data masking with Azure Cosmos DB</title>
+         <link>https://azure.microsoft.com/updates?id=523726</link>
+         <description>DDM schützt sensible Daten in Azure Cosmos DB durch serverseitiges, dynamisches Maskieren für nicht-privilegierte Nutzer.
+
+Die Public Preview von Dynamic data masking (DDM) in Azure Cosmos DB ermöglicht den Schutz sensibler Daten vor unbefugtem Zugriff mittels einer serverseitigen, policy-basierten Sicherheitsfunktion, die Daten für nicht-privilegierte Benutzer dynamisch maskiert.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:17 GMT</pubDate>
       </item></channel>
 </rss>
