@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:45:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -461,5 +461,12 @@ Sie können jetzt Funktionen mit Java 25 lokal entwickeln und diese auf Azure Fu
 
 Azure hat neue Funktionen in der Azure Monitor OpenTelemetry Distro eingeführt, darunter ratenbegrenzte Stichprobenerfassung und spur-basierte Protokoll-Stichprobenerfassung. Diese erweitern die Möglichkeiten zur Sampling-Auswahl und Datenerfassung in Azure Monitor Application Insights und unterstützen so eine verbesserte Überwachung und Analyse von Anwendungen.</description>
 <pubDate>Wed, 19 Nov 2025 16:45:19 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Generally Available: Float16 data type for vector indexes in Azure Cosmos DB</title>
+         <link>https://azure.microsoft.com/updates?id=523796</link>
+         <description>Azure Cosmos DB unterstützt jetzt Float16-Datentyp für Vektorindizes zur effizienten Speicherung und Abfrage mit halber Genauigkeit.
+
+Azure Cosmos DB unterstützt nun Float16-Datentyp für Vektorindizes. Dies erlaubt das Speichern und Abfragen von Vektoren mit halber Genauigkeit, was den Speicherverbrauch im Vergleich zu Float32 halbiert, dabei aber hohe Genauigkeit bewahrt.</description>
+<pubDate>Wed, 19 Nov 2025 16:45:21 GMT</pubDate>
       </item></channel>
 </rss>
