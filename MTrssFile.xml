@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:45:19 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -454,5 +454,12 @@ Der Azure Kubernetes Fleet Manager unterstützt jetzt Azure Arc-enabled Kubernet
 
 Sie können jetzt Funktionen mit Java 25 lokal entwickeln und diese auf Azure Functions unter Windows und Linux bereitstellen. Durch das Upgrade profitieren Apps von verbesserter Sicherheit, längerer Unterstützung und anhaltender Kompatibilität.</description>
 <pubDate>Wed, 19 Nov 2025 16:45:17 GMT</pubDate>
+      </item><item>
+         <title>Azure - Generell verfügbar: Erweiterte Stichprobenerfassung und umfassendere Datenerfassung in Azure Monitor OpenTelemetry Distro</title>
+         <link>https://azure.microsoft.com/updates?id=529519</link>
+         <description>Azure hat neue Funktionen zur Azure Monitor OpenTelemetry Distro hinzugefügt, welche die Sampling-Methoden und die Datenerfassung verbessern.
+
+Azure hat neue Funktionen in der Azure Monitor OpenTelemetry Distro eingeführt, darunter ratenbegrenzte Stichprobenerfassung und spur-basierte Protokoll-Stichprobenerfassung. Diese erweitern die Möglichkeiten zur Sampling-Auswahl und Datenerfassung in Azure Monitor Application Insights und unterstützen so eine verbesserte Überwachung und Analyse von Anwendungen.</description>
+<pubDate>Wed, 19 Nov 2025 16:45:19 GMT</pubDate>
       </item></channel>
 </rss>
