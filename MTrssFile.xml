@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:34 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -426,5 +426,12 @@ Azure kündigt die allgemeine Verfügbarkeit der mTLS Passthrough-Unterstützung
 
 Azure Container Apps unterstützen Premium Ingress nun allgemein verfügbar. Das Feature ermöglicht Umgebungs-weit einstellbare Ingress-Optionen, insbesondere die anpassbare Skalierung des Ingress.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:31 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Microsoft Defender for Cloud + GitHub Advanced Security</title>
+         <link>https://azure.microsoft.com/updates?id=526876</link>
+         <description>Schützt cloud-native Anwendungen im gesamten Anwendungslebenszyklus mit Microsoft Defender for Cloud und GitHub Advanced Security.
+
+Mit Microsoft Defender for Cloud und GitHub Advanced Security schützen Sie cloud-native Anwendungen während des gesamten Anwendungslebenszyklus von Code bis Cloud. Diese nativ integrierte Lösung hilft dabei, Entwickler- und Sicherheitsteams in einem Workflow zu vereinen.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:34 GMT</pubDate>
       </item></channel>
 </rss>
