@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:14 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -363,5 +363,12 @@ OpenAI und Intuit haben eine mehrjährige Partnerschaft im Wert von über 100 Mi
 
 Die Microsoft Ignite 2025 präsentiert die zukünftige Entwicklung von Microsoft Azure als eine Plattform, die künstliche Intelligenz, Daten und Cloud-Infrastruktur intelligent und nahtlos integriert.</description>
 <pubDate>Wed, 19 Nov 2025 16:43:22 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - Private Preview: Azure Boost confidential device</title>
+         <link>https://azure.microsoft.com/updates?id=530661</link>
+         <description>Azure Boost ist ein Microsoft Azure System zur Auslagerung von Virtualisierungsaufgaben auf spezialisierte Hardware und Software. Derzeit in privater Vorschau.
+
+Azure Boost confidential device ist jetzt in privater Vorschau. Es verlagert Virtualisierungsaufgaben wie Netzwerk, Speicher und Host-Management vom Hypervisor und Host-Betriebssystem auf dedizierte Hardware und Software.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:14 GMT</pubDate>
       </item></channel>
 </rss>
