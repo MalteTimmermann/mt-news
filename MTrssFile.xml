@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:29 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -412,5 +412,12 @@ Benutzerdefinierte Fehlerseiten sind jetzt allgemein verfügbar auf App Service.
 
 Die Funktion "Bring Your Own AI Model Gateway" erlaubt es Unternehmen, eigene AI-Gateway-Dienste zu nutzen, um Foundry Agent Service mit Foundry-hosted Modellen zu integrieren. Dies umfasst die Unterstützung von vor- und nachgelagerten Hooks und Richtlinienmodelle.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:23 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: Azure Application Gateway mTLS passthrough support</title>
+         <link>https://azure.microsoft.com/updates?id=488990</link>
+         <description>Neue mTLS-Verbesserung in Azure Application Gateway für Backend-Anwendungen mit Clientzertifikat- und Autorisierungsheader-Validierung bei weiterhin aktivem WAF-Schutz.
+
+Azure kündigt die allgemeine Verfügbarkeit der mTLS Passthrough-Unterstützung im Application Gateway an. Diese ermöglicht Backend-Anwendungen, Clientzertifikate und Autorisierungsheader direkt zu validieren, während die Web Application Firewall weiterhin den Webverkehr inspiziert.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:29 GMT</pubDate>
       </item></channel>
 </rss>
