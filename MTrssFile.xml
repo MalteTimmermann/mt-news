@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 16:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:44:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -405,5 +405,12 @@ Die neue Next-gen General Purpose Tier für Azure SQL Managed Instance liefert e
 
 Benutzerdefinierte Fehlerseiten sind jetzt allgemein verfügbar auf App Service. Nutzer können ihre Apps konfigurieren, um eigene Fehlerseiten anzuzeigen, statt der Standard-Fehlerseiten. Dies verbessert die Nutzererfahrung bei Fehlern in der Anwendung.</description>
 <pubDate>Wed, 19 Nov 2025 16:44:21 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Bring Your Own AI Gateway to Foundry Agent Service</title>
+         <link>https://azure.microsoft.com/updates?id=525957</link>
+         <description>Das BYO AI Model Gateway ermöglicht es Unternehmen, Foundry-gehostete Modelle über beliebige AI-Gateway-Dienste wie Azure API Management, Mulesoft und Kong mit dem Foundry Agent Service zu verbinden.
+
+Die Funktion "Bring Your Own AI Model Gateway" erlaubt es Unternehmen, eigene AI-Gateway-Dienste zu nutzen, um Foundry Agent Service mit Foundry-hosted Modellen zu integrieren. Dies umfasst die Unterstützung von vor- und nachgelagerten Hooks und Richtlinienmodelle.</description>
+<pubDate>Wed, 19 Nov 2025 16:44:23 GMT</pubDate>
       </item></channel>
 </rss>
