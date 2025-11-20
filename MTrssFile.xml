@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:13:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -496,5 +496,12 @@ Der Azure NetApp Files migration assistant (mit SnapMirror) bietet eine effizien
 
 Azure Monitor liefert einen vollständigen Satz an Diensten zur Überwachung der Gesundheit und Leistung der Kubernetes-Infrastruktur und der abhängigen Anwendungen. Neu unterstützt werden Azure Arc-fähige Kubernetes-Cluster mit OpenShift und Azure Red Hat OpenShift.</description>
 <pubDate>Thu, 20 Nov 2025 17:13:21 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Auto-import for Azure Managed Lustre</title>
+         <link>https://azure.microsoft.com/updates?id=529342</link>
+         <description>Auto-import Feature für Azure Managed Lustre (AMLFS) jetzt in öffentlicher Vorschau. Policy-gesteuerte Synchronisation von Azure Blob Storage in AMLFS Clustern.
+
+Das Auto-import Feature für Azure Managed Lustre (AMLFS) ist jetzt in der öffentlichen Vorschau verfügbar. Es ermöglicht die automatische, richtlinienbasierte Synchronisierung von Daten aus Azure Blob Storage Containern in AMLFS Cluster und spiegelt automatisch neue und geänderte Daten wider.</description>
+<pubDate>Thu, 20 Nov 2025 17:13:22 GMT</pubDate>
       </item></channel>
 </rss>
