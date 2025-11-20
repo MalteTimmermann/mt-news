@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:13:24 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -510,5 +510,12 @@ Das Auto-import Feature für Azure Managed Lustre (AMLFS) ist jetzt in der öffe
 
 CSI Dynamic Provisioning für Azure Managed Lustre (AMLFS) ist jetzt allgemein verfügbar. Mit dieser Funktion können Kubernetes-Anwendungen AMLFS-unterstützte persistent Volumes bei Bedarf mit Standard StorageClass und PersistentVolumeClaim Objekten anfordern, ohne vorherige manuelle Provisionierung.</description>
 <pubDate>Thu, 20 Nov 2025 17:13:23 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Public Preview: Azure API Management adds support for A2A Agent APIs</title>
+         <link>https://azure.microsoft.com/updates?id=527635</link>
+         <description>Ankündigung der öffentlichen Vorschau der Unterstützung für A2A API in Azure API Management.
+
+Mit dieser neuen Funktion können Organisationen Agent APIs neben anderen API-Typen verwalten und steuern, darunter KI-Modell-APIs, Model Context Protocol (MCP)-Tools und traditionelle APIs.</description>
+<pubDate>Thu, 20 Nov 2025 17:13:24 GMT</pubDate>
       </item></channel>
 </rss>
