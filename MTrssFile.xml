@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:13:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -503,5 +503,12 @@ Azure Monitor liefert einen vollständigen Satz an Diensten zur Überwachung der
 
 Das Auto-import Feature für Azure Managed Lustre (AMLFS) ist jetzt in der öffentlichen Vorschau verfügbar. Es ermöglicht die automatische, richtlinienbasierte Synchronisierung von Daten aus Azure Blob Storage Containern in AMLFS Cluster und spiegelt automatisch neue und geänderte Daten wider.</description>
 <pubDate>Thu, 20 Nov 2025 17:13:22 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre</title>
+         <link>https://azure.microsoft.com/updates?id=529368</link>
+         <description>CSI Dynamic Provisioning für Azure Managed Lustre (AMLFS) ist jetzt allgemein verfügbar. Kubernetes Anwendungen können nun AMLFS-basierte persistent Volumes on demand anfordern.
+
+CSI Dynamic Provisioning für Azure Managed Lustre (AMLFS) ist jetzt allgemein verfügbar. Mit dieser Funktion können Kubernetes-Anwendungen AMLFS-unterstützte persistent Volumes bei Bedarf mit Standard StorageClass und PersistentVolumeClaim Objekten anfordern, ohne vorherige manuelle Provisionierung.</description>
+<pubDate>Thu, 20 Nov 2025 17:13:23 GMT</pubDate>
       </item></channel>
 </rss>
