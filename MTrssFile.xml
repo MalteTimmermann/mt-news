@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:13:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -489,5 +489,12 @@ OpenAI und Target arbeiten zusammen, um eine neue Target-App in ChatGPT anzubiet
 
 Der Azure NetApp Files migration assistant (mit SnapMirror) bietet eine effiziente und kostengünstige Datenmigration, indem er das eingebaute Replikationswerkzeug von ONTAP nutzt. Er erleichtert so den nahtlosen Übergang von lokalen Systemen oder anderen Cloud-Anbietern zu Azure NetApp Files (ANF).</description>
 <pubDate>Thu, 20 Nov 2025 17:13:18 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift</title>
+         <link>https://azure.microsoft.com/updates?id=530174</link>
+         <description>Azure Monitor bietet umfassende Überwachungsdienste für Kubernetes-Infrastrukturen, nun mit Unterstützung für Azure Arc-fähige Kubernetes und OpenShift.
+
+Azure Monitor liefert einen vollständigen Satz an Diensten zur Überwachung der Gesundheit und Leistung der Kubernetes-Infrastruktur und der abhängigen Anwendungen. Neu unterstützt werden Azure Arc-fähige Kubernetes-Cluster mit OpenShift und Azure Red Hat OpenShift.</description>
+<pubDate>Thu, 20 Nov 2025 17:13:21 GMT</pubDate>
       </item></channel>
 </rss>
