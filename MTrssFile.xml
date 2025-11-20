@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:43:19 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -531,5 +531,12 @@ OpenAI arbeitet mit DoorDash, SCORE und lokalen Organisationen zusammen, um 1.00
 
 OpenAI kooperiert mit Drittparteien, um die Sicherheit von KI-Modellen durch externe Tests zu verbessern, Schutzmaßnahmen zu validieren und die Transparenz bei der Risikobewertung zu erhöhen.</description>
 <pubDate>Thu, 20 Nov 2025 17:30:28 GMT</pubDate>
+      </item><item>
+         <title>Azure - [Launched] Generally Available: DNS security policy Threat Intelligence feed</title>
+         <link>https://azure.microsoft.com/updates?id=530183</link>
+         <description>Azure DNS security policy Threat Intelligence feed jetzt allgemein verfügbar. Schützt vor bekannten bösartigen Domains mit Microsofts verwaltetem Threat Intelligence Feed.
+
+Azure DNS security policy Threat Intelligence feed ist jetzt allgemein verfügbar. Schützen Sie sich vor bekannten bösartigen Domains mit dem von Microsoft verwalteten Threat Intelligence Feed. Fast alle Angriffe beginnen mit einer DNS-Abfrage.</description>
+<pubDate>Thu, 20 Nov 2025 17:43:19 GMT</pubDate>
       </item></channel>
 </rss>
