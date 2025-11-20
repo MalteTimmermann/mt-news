@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 17:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:13:18 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -482,5 +482,12 @@ Azure Container Apps serverless GPUs sind jetzt in zusätzlichen Regionen genere
 
 OpenAI und Target arbeiten zusammen, um eine neue Target-App in ChatGPT anzubieten, die personalisiertes Einkaufen und schnelleren Checkout ermöglicht. Target wird zudem seinen Einsatz von ChatGPT Enterprise zur Steigerung der Produktivität und der Kundenerfahrung ausbauen.</description>
 <pubDate>Wed, 19 Nov 2025 17:00:25 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Public Preview: Azure NetApp Files migration assistant (portal support)</title>
+         <link>https://azure.microsoft.com/updates?id=525620</link>
+         <description>Azure NetApp Files migration assistant (mit SnapMirror) ermöglicht effiziente und kostengünstige Datenmigration mit ONTAP-Replikationsmotor für nahtlosen Übergang zu Azure NetApp Files.
+
+Der Azure NetApp Files migration assistant (mit SnapMirror) bietet eine effiziente und kostengünstige Datenmigration, indem er das eingebaute Replikationswerkzeug von ONTAP nutzt. Er erleichtert so den nahtlosen Übergang von lokalen Systemen oder anderen Cloud-Anbietern zu Azure NetApp Files (ANF).</description>
+<pubDate>Thu, 20 Nov 2025 17:13:18 GMT</pubDate>
       </item></channel>
 </rss>
