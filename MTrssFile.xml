@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:30:28 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -524,5 +524,12 @@ Mit dieser neuen Funktion können Organisationen Agent APIs neben anderen API-Ty
 
 OpenAI arbeitet mit DoorDash, SCORE und lokalen Organisationen zusammen, um 1.000 Kleinunternehmen beim Aufbau mit KI zu unterstützen. Das Small Business AI Jam bietet Unternehmern praktische Werkzeuge und Schulungen, um wettbewerbsfähig zu bleiben und zu wachsen.</description>
 <pubDate>Thu, 20 Nov 2025 17:30:26 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Strengthening our safety ecosystem with external testing</title>
+         <link>https://openai.com/index/strengthening-safety-with-external-testing</link>
+         <description>OpenAI arbeitet mit unabhängigen Experten, um modernste KI-Systeme zu evaluieren. Externe Tests stärken die Sicherheit, validieren Schutzmechanismen und erhöhen die Transparenz bei der Bewertung von Modellfähigkeiten und Risiken.
+
+OpenAI kooperiert mit Drittparteien, um die Sicherheit von KI-Modellen durch externe Tests zu verbessern, Schutzmaßnahmen zu validieren und die Transparenz bei der Risikobewertung zu erhöhen.</description>
+<pubDate>Thu, 20 Nov 2025 17:30:28 GMT</pubDate>
       </item></channel>
 </rss>
