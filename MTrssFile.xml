@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:30:26 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -517,5 +517,12 @@ CSI Dynamic Provisioning für Azure Managed Lustre (AMLFS) ist jetzt allgemein v
 
 Mit dieser neuen Funktion können Organisationen Agent APIs neben anderen API-Typen verwalten und steuern, darunter KI-Modell-APIs, Model Context Protocol (MCP)-Tools und traditionelle APIs.</description>
 <pubDate>Thu, 20 Nov 2025 17:13:24 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Helping 1,000 small businesses build with AI</title>
+         <link>https://openai.com/index/small-business-ai-jam</link>
+         <description>OpenAI unterstützt 1.000 kleine Unternehmen dabei, KI zu nutzen. Zusammenarbeit mit DoorDash, SCORE und lokalen Organisationen.
+
+OpenAI arbeitet mit DoorDash, SCORE und lokalen Organisationen zusammen, um 1.000 Kleinunternehmen beim Aufbau mit KI zu unterstützen. Das Small Business AI Jam bietet Unternehmern praktische Werkzeuge und Schulungen, um wettbewerbsfähig zu bleiben und zu wachsen.</description>
+<pubDate>Thu, 20 Nov 2025 17:30:26 GMT</pubDate>
       </item></channel>
 </rss>
