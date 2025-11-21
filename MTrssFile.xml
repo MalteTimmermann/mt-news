@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 17:43:01 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -538,5 +538,12 @@ OpenAI kooperiert mit Drittparteien, um die Sicherheit von KI-Modellen durch ext
 
 Azure DNS security policy Threat Intelligence feed ist jetzt allgemein verfügbar. Schützen Sie sich vor bekannten bösartigen Domains mit dem von Microsoft verwalteten Threat Intelligence Feed. Fast alle Angriffe beginnen mit einer DNS-Abfrage.</description>
 <pubDate>Thu, 20 Nov 2025 17:43:19 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Die wichtigsten News der Microsoft Ignite 2025: Das ist neu bei Microsoft Fabric, SQL Server und Co.</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/die-wichtigsten-news-der-microsoft-ignite-2025-das-ist-neu-bei-microsoft-fabric-sql-server-und-co.aspx</link>
+         <description>Was hat sich auf der Microsoft Ignite für Developer und IT-Pros getan? Wichtigste Ankündigungen bei Fabric SQL Server, Azure SQL und Co.
+
+Anzeige der wichtigsten Neuerungen der Microsoft Ignite 2025, speziell zu Microsoft Fabric, SQL Server und weiteren relevanten Themen für Developer und IT-Professionals. Enthält zahlreiche Links und Informationen des TechWiese-Teams.</description>
+<pubDate>Fri, 21 Nov 2025 17:43:01 GMT</pubDate>
       </item></channel>
 </rss>
