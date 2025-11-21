@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:13:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -580,5 +580,12 @@ Azure Container Networking Services bietet nun die Layer 7 Policy als allgemein 
 
 Die öffentliche Vorschau der Filterung von Container-Netzwerkmetriken in Azure Container Networking Services (ACNS) ist verfügbar. Die Filterung hilft, übermäßige Netzwerkmetriken in containerisierten Umgebungen zu reduzieren, was zur Senkung der Speicherkosten und zur Verbesserung der Dashboard-Übersicht beiträgt.</description>
 <pubDate>Fri, 21 Nov 2025 18:13:21 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure NetApp Files single file restore from backup</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=522077</link>
+         <description>Verfügbar: Einzeldatei-Wiederherstellung aus Azure NetApp Files Backup. Ermöglicht das Wiederherstellen einzelner Dateien aus dem Backup-Tresor, ohne ein gesamtes Volumen wiederherstellen zu müssen.
+
+Mit der Funktion zur Einzeldatei-Wiederherstellung aus dem Azure NetApp Files Backup können Nutzer einzelne Dateien direkt aus dem Backup-Tresor wiederherstellen, ohne den Aufwand, ein komplettes Volumen zurückzuspielen. Dies spart Zeit und Kosten, da nur die benötigten Dateien wiederhergestellt werden.</description>
+<pubDate>Fri, 21 Nov 2025 18:13:25 GMT</pubDate>
       </item></channel>
 </rss>
