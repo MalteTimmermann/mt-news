@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 17:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 17:43:02 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -545,5 +545,12 @@ Azure DNS security policy Threat Intelligence feed ist jetzt allgemein verfügba
 
 Anzeige der wichtigsten Neuerungen der Microsoft Ignite 2025, speziell zu Microsoft Fabric, SQL Server und weiteren relevanten Themen für Developer und IT-Professionals. Enthält zahlreiche Links und Informationen des TechWiese-Teams.</description>
 <pubDate>Fri, 21 Nov 2025 17:43:01 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Die wichtigsten News der Microsoft Ignite 2025: Das ist neu bei Visual Studio und GitHub</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/die-wichtigsten-news-der-microsoft-ignite-2025-das-ist-neu-bei-visual-studio-und-github.aspx</link>
+         <description>Kurzinfo zu den wichtigsten Neuerungen auf der Microsoft Ignite 2025 für Developer und IT-Pros, insbesondere zu Visual Studio und GitHub Copilot.
+
+Was hat sich auf der Microsoft Ignite für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen zu Visual Studio und GitHub Copilot? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
+<pubDate>Fri, 21 Nov 2025 17:43:02 GMT</pubDate>
       </item></channel>
 </rss>
