@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:13:20 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -566,5 +566,12 @@ OpenAI und Foxconn arbeiten zusammen, um die nächste Generation von KI-Infrastr
 
 Die MCP-Unterstützung für das AI Toolchain Operator Add-on ist nun allgemein verfügbar. Das Add-on unterstützt KAITO Inference Workspaces mit integrierter Toolaufruf- und Model Context Protocol (MCP) Funktionalität und adressiert Herausforderungen bei dynamischen Modellen.</description>
 <pubDate>Fri, 21 Nov 2025 18:13:18 GMT</pubDate>
+      </item><item>
+         <title>Azure - [Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS</title>
+         <link>https://azure.microsoft.com/updates?id=523115</link>
+         <description>Verfügbarkeit der Layer 7 Policy mit Advanced Container Networking Services (ACNS) für Azure Kubernetes Service (AKS) zur granularen Verkehrssteuerung in Microservices-Architekturen.
+
+Azure Container Networking Services bietet nun die Layer 7 Policy als allgemein verfügbare Funktion an, die Kunden eine feingranulare Steuerung des Datenverkehrs ermöglicht.</description>
+<pubDate>Fri, 21 Nov 2025 18:13:20 GMT</pubDate>
       </item></channel>
 </rss>
