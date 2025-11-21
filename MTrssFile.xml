@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:13:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -573,5 +573,12 @@ Die MCP-Unterstützung für das AI Toolchain Operator Add-on ist nun allgemein v
 
 Azure Container Networking Services bietet nun die Layer 7 Policy als allgemein verfügbare Funktion an, die Kunden eine feingranulare Steuerung des Datenverkehrs ermöglicht.</description>
 <pubDate>Fri, 21 Nov 2025 18:13:20 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS</title>
+         <link>https://azure.microsoft.com/updates?id=523076</link>
+         <description>Öffentliche Vorschau der Filterung von Container-Netzwerkmetriken in Azure Container Networking Services (ACNS) für AKS
+
+Die öffentliche Vorschau der Filterung von Container-Netzwerkmetriken in Azure Container Networking Services (ACNS) ist verfügbar. Die Filterung hilft, übermäßige Netzwerkmetriken in containerisierten Umgebungen zu reduzieren, was zur Senkung der Speicherkosten und zur Verbesserung der Dashboard-Übersicht beiträgt.</description>
+<pubDate>Fri, 21 Nov 2025 18:13:21 GMT</pubDate>
       </item></channel>
 </rss>
