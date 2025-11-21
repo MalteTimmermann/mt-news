@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 20:08:56 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -587,5 +587,12 @@ Die öffentliche Vorschau der Filterung von Container-Netzwerkmetriken in Azure 
 
 Mit der Funktion zur Einzeldatei-Wiederherstellung aus dem Azure NetApp Files Backup können Nutzer einzelne Dateien direkt aus dem Backup-Tresor wiederherstellen, ohne den Aufwand, ein komplettes Volumen zurückzuspielen. Dies spart Zeit und Kosten, da nur die benötigten Dateien wiederhergestellt werden.</description>
 <pubDate>Fri, 21 Nov 2025 18:13:25 GMT</pubDate>
+      </item><item>
+         <title>newsletter@mail.whatdidimiss.io - WHAT DID I MISS? Issue #9 - November 21, 2025</title>
+         <link></link>
+         <description>Newsletter Ausgabe mit aktuellen Neuigkeiten aus Technologie, KI, Cloud, Business und Medien.
+
+Another spectacular week for AI enthusiasts with Google publishing a really impressive Gemini 3 model (and yet another AI Coding Editor) and OpenAI finally fixing their em-dash issue. Another stressful week for the cloud with the next major backbone of the internet, Cloudflare, going dark after Microsoft last week and AWS the week before. The issue covers Google Unveils Gemini 3, Europe Reevaluates Its Strict Approach to Regulating Big Tech, Anthropic's Claude Models Are Coming to Microsoft Foundry and Adopting Nvidia Architecture, Jeff Bezos Returns as Co-CEO of New AI Startup Project Prometheus, Cloudflare Outage Triggers Widespread Internet Error Messages, OpenAI Resolves ChatGPT's Em Dash Issue, Google Launches Antigravity AI Development Platform, Meta to Evaluate Employee Performance Based on AI Proficiency, iRobot Faces Bankruptcy Risk Amidst Sharp Sales Decline, Replicate Partners with Cloudflare to Enhance AI Model Management, Anthropic Valued at $350 Billion After Major Investments from Microsoft and Nvidia, Google Introduces AI-Powered Travel Planning and Flight Search Features, Resistance Against Data Centers Gains Momentum, AWS Launches Flat-Rate Pricing Plans with No Overage Fees, Cloudflare Post Mortem from CEO done right. The full newsletter content is included.</description>
+<pubDate>Fri, 21 Nov 2025 20:08:55 GMT</pubDate>
       </item></channel>
 </rss>
