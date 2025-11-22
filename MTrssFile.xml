@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 13:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 18:43:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -601,5 +601,12 @@ Another spectacular week for AI enthusiasts with Google publishing a really impr
 
 Microsoft hat auf Ignite 2025 die Foundry Control Plane vorgestellt, die es ermöglicht, alle Agenten an einem Ort zu verwalten, zu betreiben und zu steuern. Logic Apps Agent Loop-Implementierungen sind nun Teil dieses umfassenden Governance-Ansatzes, um Agenten sicher, ethisch und skalierbar zu betreiben. Kunden sehen ihre Agent Loop-Instanzen automatisch in der Foundry Control Plane und können diese dort verwalten.</description>
 <pubDate>Sat, 22 Nov 2025 13:15:06 GMT</pubDate>
+      </item><item>
+         <title>Azure - Retirement: Migrate to dedicated VM for your compute clusters</title>
+         <link>https://azure.microsoft.com/updates?id=501658</link>
+         <description>Ende der Low-Priority VM am 30. September 2025, Support für Azure Machine Learning bis 31. März 2026, Empfehlung zur Migration auf dedizierte VMs.
+
+Am 30. September 2025 endet die Low-Priority VM. Azure Machine Learning Support läuft bis 31. März 2026. Es wird empfohlen, auf dedizierte VMs umzusteigen, um automatische Skalierungen zu vermeiden.</description>
+<pubDate>Sat, 22 Nov 2025 18:43:21 GMT</pubDate>
       </item></channel>
 </rss>
