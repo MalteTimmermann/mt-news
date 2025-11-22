@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 18:43:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 18:43:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -608,5 +608,12 @@ Microsoft hat auf Ignite 2025 die Foundry Control Plane vorgestellt, die es erm�
 
 Am 30. September 2025 endet die Low-Priority VM. Azure Machine Learning Support l채uft bis 31. M채rz 2026. Es wird empfohlen, auf dedizierte VMs umzusteigen, um automatische Skalierungen zu vermeiden.</description>
 <pubDate>Sat, 22 Nov 2025 18:43:21 GMT</pubDate>
+      </item><item>
+         <title>Azure.com - Custom handler support in Azure Functions Flex consumption ist jetzt allgemein verf체gbar</title>
+         <link>https://azure.microsoft.com/updates?id=512413</link>
+         <description>Azure Functions unterst체tzt jetzt kundenspezifische Handler im Flex-Verbrauchsplan. Diese Handler sind leichte Webserver, die Ereignisse vom Functions-Host empfangen.
+
+Azure Functions unterst체tzt jetzt kundenspezifische Handler im Flex consumption Plan. Diese sind leichtgewichtige Webserver, die Events vom Functions-Host empfangen. Jede Sprache, die HTTP unterst체tzt, kann verwendet werden.</description>
+<pubDate>Sat, 22 Nov 2025 18:43:22 GMT</pubDate>
       </item></channel>
 </rss>
