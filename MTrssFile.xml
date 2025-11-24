@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 18:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 13:45:11 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -615,5 +615,12 @@ Am 30. September 2025 endet die Low-Priority VM. Azure Machine Learning Support 
 
 Azure Functions unterstützt jetzt kundenspezifische Handler im Flex consumption Plan. Diese sind leichtgewichtige Webserver, die Events vom Functions-Host empfangen. Jede Sprache, die HTTP unterstützt, kann verwendet werden.</description>
 <pubDate>Sat, 22 Nov 2025 18:43:22 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Tech Community - 🎉Announcing the HL7 connector for Azure Logic Apps Standard and Hybrid (Public Preview)</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%8E%89announcing-the-hl7-connector-for-azure-logic-apps-standard-and-hybrid-public-p/4470690</link>
+         <description>Ankündigung der Public Preview des HL7 Connectors für Azure Logic Apps zur nahtlosen Integration klinischer Anwendungen im Gesundheitswesen.
+
+Microsoft kündigt die Public Preview des HL7 Connectors für Azure Logic Apps Standard und Hybrid an. Der Connector ermöglicht Gesundheitsorganisationen die Integration klinischer Anwendungen und automatisiert den Datenaustausch mit HL7-Standardprotokollen. Wichtige Funktionen umfassen HL7-spezifische Adapter, automatisierte Kommunikationsprozesse und Unterstützung für typische Szenarien wie Aufnahme, Entlassung und Verlegung von Patienten. Zusätzlich wird ein MLLP-Adapter im Private Preview angeboten, der HL7-Kommunikation über das Minimal Lower Layer Protocol ermöglicht.</description>
+<pubDate>Mon, 24 Nov 2025 13:45:11 GMT</pubDate>
       </item></channel>
 </rss>
