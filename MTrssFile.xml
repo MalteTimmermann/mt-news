@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 13:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 18:13:05 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -622,5 +622,12 @@ Azure Functions unterstützt jetzt kundenspezifische Handler im Flex consumption
 
 Microsoft kündigt die Public Preview des HL7 Connectors für Azure Logic Apps Standard und Hybrid an. Der Connector ermöglicht Gesundheitsorganisationen die Integration klinischer Anwendungen und automatisiert den Datenaustausch mit HL7-Standardprotokollen. Wichtige Funktionen umfassen HL7-spezifische Adapter, automatisierte Kommunikationsprozesse und Unterstützung für typische Szenarien wie Aufnahme, Entlassung und Verlegung von Patienten. Zusätzlich wird ein MLLP-Adapter im Private Preview angeboten, der HL7-Kommunikation über das Minimal Lower Layer Protocol ermöglicht.</description>
 <pubDate>Mon, 24 Nov 2025 13:45:11 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - SQL Server 2025 ist da: Die wichtigsten Neuerungen im Überblick</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/sql-server-2025-ist-da-die-wichtigsten-neuerungen-im-ueberblick.aspx</link>
+         <description>SQL Server 2025 ist jetzt allgemein verfügbar – mit integrierter KI, großen Developer-Verbesserungen, stärkerer Sicherheit und spürbar mehr Performance.
+
+SQL Server 2025 ist jetzt allgemein verfügbar. Die neue Version bringt integrierte Künstliche Intelligenz, erhebliche Verbesserungen für Entwickler, erhöhte Sicherheit und eine deutlich bessere Performance.</description>
+<pubDate>Mon, 24 Nov 2025 18:13:05 GMT</pubDate>
       </item></channel>
 </rss>
