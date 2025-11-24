@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 18:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 18:30:33 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -629,5 +629,12 @@ Microsoft kündigt die Public Preview des HL7 Connectors für Azure Logic Apps S
 
 SQL Server 2025 ist jetzt allgemein verfügbar. Die neue Version bringt integrierte Künstliche Intelligenz, erhebliche Verbesserungen für Entwickler, erhöhte Sicherheit und eine deutlich bessere Performance.</description>
 <pubDate>Mon, 24 Nov 2025 18:13:05 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Introducing shopping research in ChatGPT</title>
+         <link>https://openai.com/index/chatgpt-shopping-research</link>
+         <description>Shopping research in ChatGPT hilft Ihnen, Produkte mit personalisierten Kaufratgebern zu erkunden, zu vergleichen und zu entdecken, was die Entscheidungsfindung vereinfacht.
+
+Shopping research in ChatGPT erleichtert die Produktsuche mit personalisierten Empfehlungen und Kaufratgebern, um die Entscheidungsfindung bei Einkäufen zu verbessern.</description>
+<pubDate>Mon, 24 Nov 2025 18:30:33 GMT</pubDate>
       </item></channel>
 </rss>
