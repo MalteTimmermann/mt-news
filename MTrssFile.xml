@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 19:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 19:13:24 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -643,5 +643,12 @@ Shopping research in ChatGPT erleichtert die Produktsuche mit personalisierten E
 
 Azure MCP Server unterstützt jetzt Azure Database for MySQL. KI-Agenten und Anwendungen können mit MySQL-Daten in natürlicher Sprache via Model Context Protocol (MCP) interagieren.</description>
 <pubDate>Mon, 24 Nov 2025 19:13:23 GMT</pubDate>
+      </item><item>
+         <title>Azure - [In preview] Public Preview: Entra ID support for RDP connections</title>
+         <link>https://azure.microsoft.com/updates?id=526018</link>
+         <description>Ankündigung der Unterstützung von Microsoft Entra ID für RDP-Verbindungen in Azure Bastion
+
+Azure Bastion unterstützt jetzt Microsoft Entra ID-Authentifizierung für RDP-Verbindungen zu Windows-VMs direkt im Portal. Dies erhöht die Sicherheit und verbessert die Benutzererfahrung für RDP-Nutzer.</description>
+<pubDate>Mon, 24 Nov 2025 19:13:24 GMT</pubDate>
       </item></channel>
 </rss>
