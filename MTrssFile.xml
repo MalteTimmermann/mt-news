@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 18:30:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 19:13:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -636,5 +636,12 @@ SQL Server 2025 ist jetzt allgemein verfügbar. Die neue Version bringt integrie
 
 Shopping research in ChatGPT erleichtert die Produktsuche mit personalisierten Empfehlungen und Kaufratgebern, um die Entscheidungsfindung bei Einkäufen zu verbessern.</description>
 <pubDate>Mon, 24 Nov 2025 18:30:33 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure MCP Server for Azure Database for MySQL</title>
+         <link>https://azure.microsoft.com/updates?id=532197</link>
+         <description>Azure MCP Server unterstützt nun Azure Database for MySQL. Interaktion mit MySQL-Daten in natürlicher Sprache über MCP.
+
+Azure MCP Server unterstützt jetzt Azure Database for MySQL. KI-Agenten und Anwendungen können mit MySQL-Daten in natürlicher Sprache via Model Context Protocol (MCP) interagieren.</description>
+<pubDate>Mon, 24 Nov 2025 19:13:23 GMT</pubDate>
       </item></channel>
 </rss>
