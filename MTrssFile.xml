@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 19:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 14:15:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -650,5 +650,12 @@ Azure MCP Server unterstützt jetzt Azure Database for MySQL. KI-Agenten und Anw
 
 Azure Bastion unterstützt jetzt Microsoft Entra ID-Authentifizierung für RDP-Verbindungen zu Windows-VMs direkt im Portal. Dies erhöht die Sicherheit und verbessert die Benutzererfahrung für RDP-Nutzer.</description>
 <pubDate>Mon, 24 Nov 2025 19:13:24 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Tech Community - 🎉Announcing the General Availability of the XML Parse and Compose Actions in Azure Logic Apps</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%8E%89announcing-the-general-availability-of-the-xml-parse-and-compose-actions-in-az/4470825</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit der XML Parse und Compose Aktionen in Azure Logic Apps mit neuen Features für XML-Operationen.
+
+Der Artikel beschreibt die neuen allgemeingültig verfügbaren XML Parse und Compose Aktionen im Azure Logic Apps XML Operations Connector. Diese Aktionen ermöglichen das Parsen und Erstellen von XML-Daten mit XSD-Schemaunterstützung, erleichtern die Token-Auswahl während der Entwurfszeit und verbessern die Zuverlässigkeit und Internationalisierungsunterstützung für XML in Workflows.</description>
+<pubDate>Tue, 25 Nov 2025 14:15:10 GMT</pubDate>
       </item></channel>
 </rss>
