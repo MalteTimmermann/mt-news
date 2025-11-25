@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 18:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 19:00:32 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -664,5 +664,12 @@ Der Artikel beschreibt die neuen allgemeingültig verfügbaren XML Parse und Com
 
 Microsoft bringt mit Agent 365 eine zentrale Steuerungs­ebene für KI-Agenten: Damit kannst du Agenten sicher verwalten, ihren Zugriff präzise steuern und ihre Leistung transparent überwachen.</description>
 <pubDate>Tue, 25 Nov 2025 18:43:07 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Expanding data residency access to business customers worldwide</title>
+         <link>https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide</link>
+         <description>OpenAI erweitert den Datenstandortzugriff für Geschäftskunden weltweit.
+
+OpenAI erweitert die Datenresidenz für ChatGPT Enterprise, ChatGPT Edu und die API-Plattform, sodass berechtigte Kunden Daten in der Region speichern können.</description>
+<pubDate>Tue, 25 Nov 2025 19:00:32 GMT</pubDate>
       </item></channel>
 </rss>
