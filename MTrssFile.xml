@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 19:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 19:43:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -671,5 +671,12 @@ Microsoft bringt mit Agent 365 eine zentrale Steuerungs­ebene für KI-Agenten: 
 
 OpenAI erweitert die Datenresidenz für ChatGPT Enterprise, ChatGPT Edu und die API-Plattform, sodass berechtigte Kunden Daten in der Region speichern können.</description>
 <pubDate>Tue, 25 Nov 2025 19:00:32 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Public Preview: Claude Opus 4.5 Available in Microsoft Foundry</title>
+         <link>https://azure.microsoft.com/updates?id=534541</link>
+         <description>Claude Opus 4.5 ist nun in der öffentlichen Vorschau auf Microsoft Foundry verfügbar und bringt erweiterte Funktionen für fortgeschrittene Programmierung, agentische Arbeitsabläufe und Unternehmensproduktivität für Azure-Kunden.
+
+Claude Opus 4.5 setzt einen neuen Maßstab für Leistung und Vielseitigkeit und übertrifft frühere Versionen.</description>
+<pubDate>Tue, 25 Nov 2025 19:43:25 GMT</pubDate>
       </item></channel>
 </rss>
