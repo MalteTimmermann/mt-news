@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 19:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 19:43:27 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -678,5 +678,12 @@ OpenAI erweitert die Datenresidenz für ChatGPT Enterprise, ChatGPT Edu und die 
 
 Claude Opus 4.5 setzt einen neuen Maßstab für Leistung und Vielseitigkeit und übertrifft frühere Versionen.</description>
 <pubDate>Tue, 25 Nov 2025 19:43:25 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture</title>
+         <link>https://azure.microsoft.com/updates?id=534482</link>
+         <description>VNET flow log erfasst IP-Verkehr in VNETs, Subnetzen und NICs zur Überwachung, Fehlerbehebung, Netzwerkoptimierung, Sicherheit und Compliance. Protokolle werden in Azure Storage gespeichert. Traffic Analytics nutzt VNET flow logs und aggregiert diese.
+
+Der Artikel beschreibt die Public Preview des Managed Identity Supports für Network Watcher VNET flow log, Traffic Analytics und Packet Capture zur besseren Überwachung, Fehlerbehebung, Netzwerkoptimierung und Sicherheit in Azure.</description>
+<pubDate>Tue, 25 Nov 2025 19:43:27 GMT</pubDate>
       </item></channel>
 </rss>
