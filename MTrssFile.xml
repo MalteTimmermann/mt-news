@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 14:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 18:43:07 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -657,5 +657,12 @@ Azure Bastion unterstützt jetzt Microsoft Entra ID-Authentifizierung für RDP-V
 
 Der Artikel beschreibt die neuen allgemeingültig verfügbaren XML Parse und Compose Aktionen im Azure Logic Apps XML Operations Connector. Diese Aktionen ermöglichen das Parsen und Erstellen von XML-Daten mit XSD-Schemaunterstützung, erleichtern die Token-Auswahl während der Entwurfszeit und verbessern die Zuverlässigkeit und Internationalisierungsunterstützung für XML in Workflows.</description>
 <pubDate>Tue, 25 Nov 2025 14:15:10 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - Microsoft Agent 365: Das neue Kontrollzentrum für KI-Agenten</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/microsoft-agent-365-das-neue-kontrollzentrum-fuer-ki-agenten.aspx</link>
+         <description>Microsoft bringt mit Agent 365 eine zentrale Steuerungs­ebene für KI-Agenten: Damit kannst du Agenten sicher verwalten, ihren Zugriff präzise steuern und ihre Leistung transparent überwachen.
+
+Microsoft bringt mit Agent 365 eine zentrale Steuerungs­ebene für KI-Agenten: Damit kannst du Agenten sicher verwalten, ihren Zugriff präzise steuern und ihre Leistung transparent überwachen.</description>
+<pubDate>Tue, 25 Nov 2025 18:43:07 GMT</pubDate>
       </item></channel>
 </rss>
