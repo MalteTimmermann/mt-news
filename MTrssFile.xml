@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 19:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 19:15:00 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -699,5 +699,12 @@ Microsoft hat auf Ignite 2025 die Foundry Tools vorgestellt, einen einheitlichen
 
 Die Microsoft Ignite 2025 präsentierte wichtige Innovationen und Strategien rund um KI-Agenten, Azure, Microsoft 365 sowie weitere Technologien. Der Artikel fasst die zentralen Highlights der Veranstaltung zusammen.</description>
 <pubDate>Wed, 26 Nov 2025 19:13:06 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Microsoft Ignite 2025: Das ist neu bei den Azure Container Apps</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/microsoft-ignite-2025-das-ist-neu-bei-den-azure-container-apps.aspx</link>
+         <description>Großes Update für die Azure Container Apps: sichere Sandboxes für KI-Workloads, Docker-Compose-Support für Agenten, neue GPU-Regionen, ein flexibles Workload-Profil und vieles mehr.
+
+Bei Microsoft Ignite 2025 wurden wichtige Neuerungen für Azure Container Apps präsentiert: sichere Sandboxes für KI-Workloads, Docker-Compose-Support für Agenten, neue GPU-Regionen und flexible Workload-Profile.</description>
+<pubDate>Wed, 26 Nov 2025 19:15:00 GMT</pubDate>
       </item></channel>
 </rss>
