@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 19:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 14:45:14 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -685,5 +685,12 @@ Claude Opus 4.5 setzt einen neuen Maßstab für Leistung und Vielseitigkeit und 
 
 Der Artikel beschreibt die Public Preview des Managed Identity Supports für Network Watcher VNET flow log, Traffic Analytics und Packet Capture zur besseren Überwachung, Fehlerbehebung, Netzwerkoptimierung und Sicherheit in Azure.</description>
 <pubDate>Tue, 25 Nov 2025 19:43:27 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Tech Community - 🎙️Public Preview: Azure Logic Apps Connectors as MCP Tools in Microsoft Foundry</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/%F0%9F%8E%99%EF%B8%8Fpublic-preview-azure-logic-apps-connectors-as-mcp-tools-in-microsoft-foundry/4473062</link>
+         <description>Preview: Azure Logic Apps Connectors als MCP Tools in Microsoft Foundry bieten Entwicklern sicheren und einfachen Zugriff auf Systeme ohne Authentifizierungscode.
+
+Microsoft hat auf Ignite 2025 die Foundry Tools vorgestellt, einen einheitlichen Katalog von Tools, Connectors und MCP-Servern. Azure Logic Apps Connectors sind nun als MCP Tools in Microsoft Foundry verfügbar, was Agenten ermöglicht, ohne Boilerplate-Code sicheren Zugriff auf verschiedene Systeme wie SAP, ServiceNow, Dynamics, Salesforce, SQL und GitHub zu erhalten. Der Artikel beschreibt die Schritte zur Auswahl, Konfiguration und Registrierung eines Logic Apps Connectors als MCP Tool, sowie zukünftige Verbesserungen und Roadmap.</description>
+<pubDate>Wed, 26 Nov 2025 14:45:14 GMT</pubDate>
       </item></channel>
 </rss>
