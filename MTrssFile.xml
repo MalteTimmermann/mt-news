@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 14:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 19:13:06 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -692,5 +692,12 @@ Der Artikel beschreibt die Public Preview des Managed Identity Supports für Net
 
 Microsoft hat auf Ignite 2025 die Foundry Tools vorgestellt, einen einheitlichen Katalog von Tools, Connectors und MCP-Servern. Azure Logic Apps Connectors sind nun als MCP Tools in Microsoft Foundry verfügbar, was Agenten ermöglicht, ohne Boilerplate-Code sicheren Zugriff auf verschiedene Systeme wie SAP, ServiceNow, Dynamics, Salesforce, SQL und GitHub zu erhalten. Der Artikel beschreibt die Schritte zur Auswahl, Konfiguration und Registrierung eines Logic Apps Connectors als MCP Tool, sowie zukünftige Verbesserungen und Roadmap.</description>
 <pubDate>Wed, 26 Nov 2025 14:45:14 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Die Highlights der Microsoft Ignite 2025: KI-Agenten, Azure, Microsoft 365 und mehr</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/die-highlights-der-microsoft-ignite-2025-ki-agenten-azure-microsoft-365-und-mehr.aspx</link>
+         <description>Innovation, Strategie und Technologie in Aktion – die Microsoft Ignite 2025 bot Einblicke in die Zukunft der Unternehmenssoftware. Die wichtigsten Ankündigungen im Überblick.
+
+Die Microsoft Ignite 2025 präsentierte wichtige Innovationen und Strategien rund um KI-Agenten, Azure, Microsoft 365 sowie weitere Technologien. Der Artikel fasst die zentralen Highlights der Veranstaltung zusammen.</description>
+<pubDate>Wed, 26 Nov 2025 19:13:06 GMT</pubDate>
       </item></channel>
 </rss>
