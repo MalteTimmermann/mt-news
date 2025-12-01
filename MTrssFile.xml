@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 20:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 20:13:27 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -727,5 +727,12 @@ Anthropic verbesserte Modellqualität und Preise mit Opus 4.5 und führte eine B
 
 Accenture und OpenAI arbeiten zusammen, um Unternehmen dabei zu unterstützen, agentische KI-Fähigkeiten in den Kern ihres Geschäfts zu integrieren und neue Wachstumspotenziale freizusetzen.</description>
 <pubDate>Mon, 01 Dec 2025 20:00:38 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: Perth - Azure Extended Zones</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=535363</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit der Perth Azure Extended Zone, einer kleinen Erweiterung von Azure für latenzarme und datenresidente Workloads.
+
+Die Perth Azure Extended Zone ist jetzt allgemein verfügbar. Azure Extended Zones sind kleine Azure-Erweiterungen in urbanen Gebieten oder speziellen Rechtsgebieten, die eine geringe Latenz und Datenhoheit gewährleisten.</description>
+<pubDate>Mon, 01 Dec 2025 20:13:27 GMT</pubDate>
       </item></channel>
 </rss>
