@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 20:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 15:15:17 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -741,5 +741,12 @@ Die Perth Azure Extended Zone ist jetzt allgemein verfügbar. Azure Extended Zon
 
 Azure Content Understanding ist ein neuer Service, der unstrukturierte Inhalte präzise analysiert, anreichert und für verschiedene Szenarien wie RAG, Suche und Agenten nutzbar macht.</description>
 <pubDate>Mon, 01 Dec 2025 20:43:10 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Logic Apps Aviators Newsletter - December 2025</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/logic-apps-aviators-newsletter---december-2025/4474048</link>
+         <description>Newsletter-Ausgabe Dezember 2025: Ace Aviator des Monats, Produktneuigkeiten, Community Playbook, Neuigkeiten aus der Community
+
+Der Newsletter enthält das Porträt des Ace Aviator des Monats Daniel Jonathan, aktuelle Nachrichten aus der Produktgruppe Logic Apps, eine Community Playbook Sektion sowie Neuigkeiten aus der Community. Es werden neue Features, Updates und Veranstaltungen rund um Azure Logic Apps vorgestellt, inklusive Videos und Artikeln von Mitgliedern der Microsoft-Community.</description>
+<pubDate>Tue, 02 Dec 2025 15:15:17 GMT</pubDate>
       </item></channel>
 </rss>
