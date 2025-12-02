@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 15:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 20:30:39 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -748,5 +748,12 @@ Azure Content Understanding ist ein neuer Service, der unstrukturierte Inhalte p
 
 Der Newsletter enthält das Porträt des Ace Aviator des Monats Daniel Jonathan, aktuelle Nachrichten aus der Produktgruppe Logic Apps, eine Community Playbook Sektion sowie Neuigkeiten aus der Community. Es werden neue Features, Updates und Veranstaltungen rund um Azure Logic Apps vorgestellt, inklusive Videos und Artikeln von Mitgliedern der Microsoft-Community.</description>
 <pubDate>Tue, 02 Dec 2025 15:15:17 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Funding grants for new research into AI and mental health</title>
+         <link>https://openai.com/index/ai-mental-health-research-grants</link>
+         <description>Förderung neuer Forschung im Bereich KI und psychische Gesundheit. Programm unterstützt Projekte zur Untersuchung von Risiken, Vorteilen und Anwendungen zur Verbesserung von Sicherheit und Wohlbefinden.
+
+OpenAI vergibt Fördermittel von bis zu 2 Millionen US-Dollar für Forschungsprojekte an der Schnittstelle von KI und psychischer Gesundheit. Das Programm unterstützt Projekte, die reale Risiken, Vorteile und Anwendungen untersuchen, um Sicherheit und Wohlbefinden zu verbessern.</description>
+<pubDate>Tue, 02 Dec 2025 20:30:39 GMT</pubDate>
       </item></channel>
 </rss>
