@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 20:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 20:43:42 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -769,5 +769,12 @@ Foundry führt Multi-Agent-Workflows ein, mit denen komplexe Prozesse visuell od
 
 Azure Load Balancer Bandbreitenmetriken (Byte, Paket, SYN Count) sind jetzt mit der neuen Dimension 'Protocol' im Azure-Portal verfügbar, die eine differenzierte Darstellung des Verkehrs nach Protokolltyp ermöglicht.</description>
 <pubDate>Wed, 03 Dec 2025 20:43:40 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central</title>
+         <link>https://azure.microsoft.com/updates?id=534523</link>
+         <description>Azure Database for PostgreSQL Flexible Server ist nun in der Azure-Region Belgien Central verfügbar. Der flexible Server bietet skalierbare und verwaltete PostgreSQL-Datenbanken für vielfältige Anwendungen.
+
+Microsoft hat die Verfügbarkeit des Azure Database for PostgreSQL Flexible Server in der Azure-Region Belgien Central bekanntgegeben. Diese Erweiterung ermöglicht es Kunden, skalierbare und flexible PostgreSQL-Datenbanken in Belgien zu betreiben, unterstützt durch Azure Infrastruktur und Managementtools.</description>
+<pubDate>Wed, 03 Dec 2025 20:43:42 GMT</pubDate>
       </item></channel>
 </rss>
