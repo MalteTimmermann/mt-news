@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 21:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 20:43:40 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -762,5 +762,12 @@ OpenAI vergibt Fördermittel von bis zu 2 Millionen US-Dollar für Forschungspro
 
 Foundry führt Multi-Agent-Workflows ein, mit denen komplexe Prozesse visuell oder per YAML orchestriert werden können. Es ermöglicht die Koordination mehrerer Agenten und bietet volle Beobachtbarkeit für bessere Kontrolle.</description>
 <pubDate>Tue, 02 Dec 2025 21:14:02 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension</title>
+         <link>https://azure.microsoft.com/updates?id=536747</link>
+         <description>Allgemeine Verfügbarkeit von Azure Load Balancer Bandbreitenmetriken mit Protokolldimension - TCP-Traffic wird als Protocol=6 angezeigt.
+
+Azure Load Balancer Bandbreitenmetriken (Byte, Paket, SYN Count) sind jetzt mit der neuen Dimension 'Protocol' im Azure-Portal verfügbar, die eine differenzierte Darstellung des Verkehrs nach Protokolltyp ermöglicht.</description>
+<pubDate>Wed, 03 Dec 2025 20:43:40 GMT</pubDate>
       </item></channel>
 </rss>
