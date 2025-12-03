@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 20:43:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 21:00:44 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -776,5 +776,12 @@ Azure Load Balancer Bandbreitenmetriken (Byte, Paket, SYN Count) sind jetzt mit 
 
 Microsoft hat die Verfügbarkeit des Azure Database for PostgreSQL Flexible Server in der Azure-Region Belgien Central bekanntgegeben. Diese Erweiterung ermöglicht es Kunden, skalierbare und flexible PostgreSQL-Datenbanken in Belgien zu betreiben, unterstützt durch Azure Infrastruktur und Managementtools.</description>
 <pubDate>Wed, 03 Dec 2025 20:43:42 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Announcing the initial People-First AI Fund grantees</title>
+         <link>https://openai.com/index/people-first-ai-fund-grantees</link>
+         <description>Die OpenAI Foundation gibt die ersten Empfänger des People-First AI Fund bekannt, der 40,5 Millionen US-Dollar an uneingeschränkten Fördergeldern an 208 gemeinnützige Organisationen vergibt, die Gemeinschaftsinnovationen und Chancen unterstützen.
+
+Die OpenAI Foundation hat die anfänglichen Empfänger des People-First AI Fund bekannt gegeben, der über 40,5 Millionen US-Dollar in Form von uneingeschränkten Zuschüssen an 208 gemeinnützige Organisationen verteilt, die Gemeinschaftsinitiativen und -möglichkeiten fördern.</description>
+<pubDate>Wed, 03 Dec 2025 21:00:44 GMT</pubDate>
       </item></channel>
 </rss>
