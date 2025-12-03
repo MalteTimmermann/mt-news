@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 21:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 21:43:18 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -783,5 +783,12 @@ Microsoft hat die Verfügbarkeit des Azure Database for PostgreSQL Flexible Serv
 
 Die OpenAI Foundation hat die anfänglichen Empfänger des People-First AI Fund bekannt gegeben, der über 40,5 Millionen US-Dollar in Form von uneingeschränkten Zuschüssen an 208 gemeinnützige Organisationen verteilt, die Gemeinschaftsinitiativen und -möglichkeiten fördern.</description>
 <pubDate>Wed, 03 Dec 2025 21:00:44 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Azure Networking: Neuerungen für mehr Sicherheit, Resilienz und Skalierung</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/azure-networking-neuerungen-fuer-mehr-sicherheit-resilienz-und-skalierung.aspx</link>
+         <description>Azure Networking erhält ein starkes Update-Paket: mehr Schutz, höhere Ausfallsicherheit und deutlich mehr Leistung für anspruchsvolle Cloud- und AI-Workloads.
+
+Azure Networking erhält ein starkes Update-Paket: mehr Schutz, höhere Ausfallsicherheit und deutlich mehr Leistung für anspruchsvolle Cloud- und AI-Workloads.</description>
+<pubDate>Wed, 03 Dec 2025 21:43:18 GMT</pubDate>
       </item></channel>
 </rss>
