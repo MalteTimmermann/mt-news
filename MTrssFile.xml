@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 21:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 21:13:40 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -797,5 +797,12 @@ Azure Networking erhält ein starkes Update-Paket: mehr Schutz, höhere Ausfalls
 
 Ankündigung der allgemeinen Verfügbarkeit von unterbrechbaren Uploads für Azure Storage Blob SFTP. Nutzer können bei einem teilweisen Übertragungsfehler die teilweise Datei öffnen und den Upload fortsetzen. Diese Funktion optimiert die Dateiuploads und erhöht die Zuverlässigkeit.</description>
 <pubDate>Thu, 04 Dec 2025 21:13:38 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Public Preview: Serverless workspaces in Azure Databricks</title>
+         <link>https://azure.microsoft.com/updates?id=536721</link>
+         <description>Serverless Workspaces in Azure Databricks sind jetzt in der Public Preview verfügbar und bieten eine vollständig verwaltete Workspace-Variante mit serverlosem Compute und Standard-Speicher.
+
+Die Serverless Workspaces in Azure Databricks befinden sich in der Public Preview und bieten eine vollständig verwaltete Workspace-Typ, der mit serverlosem Compute und Standardspeicher vorkonfiguriert ist, um ein unternehmensfertiges SaaS-Erlebnis mit minimaler Infrastruktur zu liefern.</description>
+<pubDate>Thu, 04 Dec 2025 21:13:40 GMT</pubDate>
       </item></channel>
 </rss>
