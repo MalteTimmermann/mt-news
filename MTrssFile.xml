@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 21:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 21:13:38 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -790,5 +790,12 @@ Die OpenAI Foundation hat die anfänglichen Empfänger des People-First AI Fund 
 
 Azure Networking erhält ein starkes Update-Paket: mehr Schutz, höhere Ausfallsicherheit und deutlich mehr Leistung für anspruchsvolle Cloud- und AI-Workloads.</description>
 <pubDate>Wed, 03 Dec 2025 21:43:18 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads</title>
+         <link>https://azure.microsoft.com/updates?id=499438</link>
+         <description>Allgemeine Verfügbarkeit von resumable uploads für Azure Storage Blob SFTP, zur Fortsetzung von unterbrochenen Dateiübertragungen.
+
+Ankündigung der allgemeinen Verfügbarkeit von unterbrechbaren Uploads für Azure Storage Blob SFTP. Nutzer können bei einem teilweisen Übertragungsfehler die teilweise Datei öffnen und den Upload fortsetzen. Diese Funktion optimiert die Dateiuploads und erhöht die Zuverlässigkeit.</description>
+<pubDate>Thu, 04 Dec 2025 21:13:38 GMT</pubDate>
       </item></channel>
 </rss>
