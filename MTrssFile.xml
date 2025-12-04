@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 21:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 22:13:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -804,5 +804,12 @@ Ankündigung der allgemeinen Verfügbarkeit von unterbrechbaren Uploads für Azu
 
 Die Serverless Workspaces in Azure Databricks befinden sich in der Public Preview und bieten eine vollständig verwaltete Workspace-Typ, der mit serverlosem Compute und Standardspeicher vorkonfiguriert ist, um ein unternehmensfertiges SaaS-Erlebnis mit minimaler Infrastruktur zu liefern.</description>
 <pubDate>Thu, 04 Dec 2025 21:13:40 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - GitHub Copilot: Custom Agents bringen neue Intelligenz in die Softwareentwicklung</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/github-copilot-custom-agents-bringen-neue-intelligenz-in-die-softwareentwicklung.aspx</link>
+         <description>Copilot entwickelt sich mit den neuen Custom Agents von einem punktuellen Helfer zu einem System, das wirklich versteht, wie dein Team Software baut.
+
+Copilot entwickelt sich mit den neuen Custom Agents von einem punktuellen Helfer zu einem System, das wirklich versteht, wie dein Team Software baut.</description>
+<pubDate>Thu, 04 Dec 2025 22:13:16 GMT</pubDate>
       </item></channel>
 </rss>
