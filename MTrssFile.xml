@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 21:30:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 21:43:41 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -818,5 +818,12 @@ Copilot entwickelt sich mit den neuen Custom Agents von einem punktuellen Helfer
 
 OpenAI launcht OpenAI für Australien mit dem Ziel, eine souveräne KI-Infrastruktur zu schaffen, über 1,5 Millionen Arbeitnehmer weiterzubilden und die Innovation im wachsenden KI-Ökosystem Australiens zu fördern.</description>
 <pubDate>Fri, 05 Dec 2025 21:30:45 GMT</pubDate>
+      </item><item>
+         <title>Azure Microsoft - Public Preview: Mistral Large 3 in Foundry</title>
+         <link>https://azure.microsoft.com/updates?id=536937</link>
+         <description>Mistral Large 3, ein Frontier-Class Open-Weight Modell mit Apache 2.0-Lizenzierung, jetzt verfügbar in Microsoft Foundry auf Azure, bietet Zuverlässigkeit, Kontextverständnis und multimodale Fähigkeiten.
+
+Mistral Large 3, ein frontier-class open-weight Modell mit Apache 2.0 Lizenz, ist jetzt in Microsoft Foundry auf Azure erhältlich. Das Modell liefert unternehmensgerechte Zuverlässigkeit, langanhaltendes Kontextverständnis und multimodale Schlussfolgerungen - ideal für produktive Anwendungen.</description>
+<pubDate>Fri, 05 Dec 2025 21:43:41 GMT</pubDate>
       </item></channel>
 </rss>
