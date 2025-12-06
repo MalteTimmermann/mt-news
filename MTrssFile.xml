@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 22:43:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 22:13:40 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -832,5 +832,12 @@ Mistral Large 3, ein frontier-class open-weight Modell mit Apache 2.0 Lizenz, is
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Fri, 05 Dec 2025 22:43:21 GMT</pubDate>
+      </item><item>
+         <title>Azure - [Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.</title>
+         <link>https://azure.microsoft.com/updates?id=541410</link>
+         <description>Zonal Placement für Azure Files Premium LRS ist jetzt in ausgewählten Regionen allgemein verfügbar. Diese Funktion ermöglicht Steuerung der Zonenzugehörigkeit durch Festlegen von Speicherkonten auf eine bestimmte Verfügbarkeitszone.
+
+Zonal Placement für Azure Files Premium LRS ist jetzt GA in ausgewählten Regionen. Diese Funktion gibt explizite Kontrolle über die Zonenzugehörigkeit, indem Speicherkonten eine spezifische Verfügbarkeitszone zugewiesen wird, was hohe Verfügbarkeit, Fehlerisolation und Vorhersagbarkeit ermöglicht.</description>
+<pubDate>Sat, 06 Dec 2025 22:13:40 GMT</pubDate>
       </item></channel>
 </rss>
