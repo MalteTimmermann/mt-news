@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 22:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 22:00:49 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -839,5 +839,12 @@ Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was ware
 
 Zonal Placement für Azure Files Premium LRS ist jetzt GA in ausgewählten Regionen. Diese Funktion gibt explizite Kontrolle über die Zonenzugehörigkeit, indem Speicherkonten eine spezifische Verfügbarkeitszone zugewiesen wird, was hohe Verfügbarkeit, Fehlerisolation und Vorhersagbarkeit ermöglicht.</description>
 <pubDate>Sat, 06 Dec 2025 22:13:40 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Instacart and OpenAI partner on AI shopping experiences</title>
+         <link>https://openai.com/index/instacart-partnership</link>
+         <description>Partnerschaft zwischen OpenAI und Instacart zur Einführung einer integrierten Einkaufs- und Bezahllösung in ChatGPT
+
+OpenAI und Instacart vertiefen ihre langjährige Partnerschaft durch die Einführung der ersten vollständig integrierten Lebensmittel-Shopping- und Instant-Checkout-Payment-App in ChatGPT.</description>
+<pubDate>Mon, 08 Dec 2025 22:00:49 GMT</pubDate>
       </item></channel>
 </rss>
