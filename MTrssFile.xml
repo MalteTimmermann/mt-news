@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 22:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 22:43:47 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -867,5 +867,12 @@ Der Data Mapper Test Executor bietet native Unterstützung für das Testen von X
 
 Denise Dresser ist als Chief Revenue Officer bei OpenAI eingestiegen. Sie übernimmt die Verantwortung für die globale Umsatzstrategie über Enterprise und Customer Success. Ziel ist es, mehr Unternehmen dabei zu unterstützen, KI im Tagesgeschäft zu integrieren, während OpenAI weiterhin wächst.</description>
 <pubDate>Tue, 09 Dec 2025 22:30:53 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: FIPS compliant mode for Application Gateway V2 SKUs</title>
+         <link>https://azure.microsoft.com/updates?id=536712</link>
+         <description>FIPS 140-2 ist ein US-Regierungsstandard für Sicherheitsanforderungen in kryptographischen Modulen. Azure Application Gateway V2 unterstützt jetzt den FIPS-Modus.
+
+Der Artikel informiert über die Verfügbarkeit des FIPS-kompatiblen Modus für Azure Application Gateway V2 SKUs, welcher den Sicherheitsstandard FIPS 140-2 erfüllt. Dies ist eine wichtige Neuerung für Kunden, die erhöhte Sicherheitsanforderungen erfüllen müssen.</description>
+<pubDate>Tue, 09 Dec 2025 22:43:47 GMT</pubDate>
       </item></channel>
 </rss>
