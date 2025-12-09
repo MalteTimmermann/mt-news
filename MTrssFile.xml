@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 23:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 15:45:27 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -853,5 +853,12 @@ OpenAI und Instacart vertiefen ihre langjährige Partnerschaft durch die Einfüh
 
 Microsoft baut Azure für kritische Umgebungen weiter aus: mehr Kontrolle durch Azure Local, neue IoT-Funktionen für Echtzeit-Analysen und vereinfachtes Management verteilter IT mit Azure Arc.</description>
 <pubDate>Mon, 08 Dec 2025 23:13:24 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Data Mapper Test Executor: A New Addition to Logic Apps Standard Test Framework</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/data-mapper-test-executor-a-new-addition-to-logic-apps-standard-test-framework/4472440</link>
+         <description>Ankündigung eines neuen Data Mapper Test Executors im Logic Apps Standard Test Framework für verbesserte Datenstruktur-Testunterstützung.
+
+Der Data Mapper Test Executor bietet native Unterstützung für das Testen von XSLT- und Logic Apps Data Mapper-Dateien direkt im Logic Apps Standard Automated Test Framework. Dies ermöglicht schnellere Feedbackschleifen, verbesserte Zuverlässigkeit und eine optimierte Entwicklererfahrung. Das Framework unterstützt Schemaskontrolle, Transformationsprüfungen und bietet Performance-Optimierungen. Die neuesten SDK-Versionen sind für die Integration erforderlich.</description>
+<pubDate>Tue, 09 Dec 2025 15:45:27 GMT</pubDate>
       </item></channel>
 </rss>
