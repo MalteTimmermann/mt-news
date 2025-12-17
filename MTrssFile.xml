@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 04:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:13:09 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -895,5 +895,12 @@ Unser TechWiese-Team hat jede Menge Links und Neuigkeiten für Developer und IT-
 
 Azure Databricks erweitert die Dashboard-Abonnements, sodass Insights jetzt direkt in Microsoft Teams bereitgestellt werden können. Dies bringt zeitnahe und handlungsorientierte Daten direkt in Teams-Workflows, was das wiederholte Nachschauen in Dashboards reduziert.</description>
 <pubDate>Wed, 17 Dec 2025 04:13:06 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Update: Das Auslaufdatum für den Standard-Ausgangszugriff wurde auf den 31. März 2026 verlängert.</title>
+         <link>https://azure.microsoft.com/updates?id=515484</link>
+         <description>Das Auslaufdatum für den Standard-Ausgangszugriff wurde auf den 31. März 2026 verlängert, entsprechend einem umfassenden Update des Azure Virtual Network (VNet).
+
+Die Verlängerung des Auslaufdatums für den Standard-Ausgangszugriff auf den 31. März 2026 ersetzt das zuvor festgelegte Datum vom 30. September 2025. Diese Änderung steht im Zusammenhang mit einem breiteren Update des Azure Virtual Network (VNet) und betrifft Azure-Kunden, die diese Funktionalität nutzen.</description>
+<pubDate>Wed, 17 Dec 2025 04:13:09 GMT</pubDate>
       </item></channel>
 </rss>
