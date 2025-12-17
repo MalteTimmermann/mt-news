@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 04:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:13:06 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -888,5 +888,12 @@ Azure Cosmos DB wird zur All-in-One-Lösung für KI-Anwendungen. Statt externe V
 
 Unser TechWiese-Team hat jede Menge Links und Neuigkeiten für Developer und IT-Professionals zu Microsoft Azure, KI und mehr in der Kalenderwoche 50/2025 gesammelt.</description>
 <pubDate>Wed, 17 Dec 2025 04:12:47 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams</title>
+         <link>https://azure.microsoft.com/updates?id=536907</link>
+         <description>Erweiterte Dashboard-Abonnement-Funktionalität in Azure Databricks ermöglicht Einblicke direkt in Microsoft Teams, um die Zusammenarbeit zu verbessern.
+
+Azure Databricks erweitert die Dashboard-Abonnements, sodass Insights jetzt direkt in Microsoft Teams bereitgestellt werden können. Dies bringt zeitnahe und handlungsorientierte Daten direkt in Teams-Workflows, was das wiederholte Nachschauen in Dashboards reduziert.</description>
+<pubDate>Wed, 17 Dec 2025 04:13:06 GMT</pubDate>
       </item></channel>
 </rss>
