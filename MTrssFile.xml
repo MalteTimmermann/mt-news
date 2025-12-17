@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 04:30:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 04:30:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -909,5 +909,12 @@ Die Verlängerung des Auslaufdatums für den Standard-Ausgangszugriff auf den 31
 
 OpenAI führt einen realen Bewertungsrahmen ein, um zu messen, wie KI die biologische Forschung im Nasslabor beschleunigen kann. Mit GPT-5 zur Optimierung eines molekularen Klonierungsprotokolls erforscht die Arbeit sowohl das Potenzial als auch die Risiken von KI-unterstützten Experimenten.</description>
 <pubDate>Wed, 17 Dec 2025 04:30:08 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Update to GPT-5 System Card: GPT-5.2</title>
+         <link>https://openai.com/index/gpt-5-system-card-update-gpt-5-2</link>
+         <description>GPT-5.2 ist die neueste Modellreihe in der GPT-5 Serie. Sicherheitsmaßnahmen entsprechen weitgehend den zuvor beschriebenen System Cards.
+
+GPT-5.2 Modelle wurden auf vielfältigen Datensätzen trainiert, einschließlich öffentlich zugänglicher Informationen, Partnerdaten und Nutzergenerierten Inhalten.</description>
+<pubDate>Wed, 17 Dec 2025 04:30:09 GMT</pubDate>
       </item></channel>
 </rss>
