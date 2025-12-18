@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 04:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 04:43:02 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -923,5 +923,12 @@ GPT-5.2 Modelle wurden auf vielfältigen Datensätzen trainiert, einschließlich
 
 Visual Studio Code 1.107 bringt neue Features wie Multi-Agent-Orchestrierung, eine verbesserte Chat-Integration, einen Language Models Editor und eine verbesserte Handhabung dynamischer Webinhalte.</description>
 <pubDate>Thu, 18 Dec 2025 04:42:45 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js</title>
+         <link>https://azure.microsoft.com/updates?id=541427</link>
+         <description>Kurze Beschreibung zu Azure Functions SDK Typ-Bindungen für Node.js im Public Preview Status.
+
+Azure Functions triggers and bindings enable you to easily integrate event and data sources with function applications. Now that SDK type bindings support for Azure Blob Storage is available, we’re also introducing support for Service Bus SDK type bindings.</description>
+<pubDate>Thu, 18 Dec 2025 04:43:02 GMT</pubDate>
       </item></channel>
 </rss>
