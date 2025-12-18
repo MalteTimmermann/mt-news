@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 04:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 04:43:05 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -930,5 +930,12 @@ Visual Studio Code 1.107 bringt neue Features wie Multi-Agent-Orchestrierung, ei
 
 Azure Functions triggers and bindings enable you to easily integrate event and data sources with function applications. Now that SDK type bindings support for Azure Blob Storage is available, we’re also introducing support for Service Bus SDK type bindings.</description>
 <pubDate>Thu, 18 Dec 2025 04:43:02 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB</title>
+         <link>https://azure.microsoft.com/updates?id=541813</link>
+         <description>Einführung des Azure Cosmos DB Site Reliability Engineering (SRE) Agent zur Vereinfachung der Diagnose und Problemlösung in Azure Cosmos DB Anwendungen.
+
+Die neue Funktion ermöglicht es, Probleme in Anwendungen, die Azure Cosmos DB verwenden, mit Hilfe des Azure Cosmos DB Site Reliability Engineering Agent schnell zu diagnostizieren und zu lösen. Der Agent basiert auf der Azure SRE Agent Plattform.</description>
+<pubDate>Thu, 18 Dec 2025 04:43:05 GMT</pubDate>
       </item></channel>
 </rss>
