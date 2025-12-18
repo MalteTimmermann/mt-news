@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 04:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 04:42:45 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -916,5 +916,12 @@ OpenAI führt einen realen Bewertungsrahmen ein, um zu messen, wie KI die biolog
 
 GPT-5.2 Modelle wurden auf vielfältigen Datensätzen trainiert, einschließlich öffentlich zugänglicher Informationen, Partnerdaten und Nutzergenerierten Inhalten.</description>
 <pubDate>Wed, 17 Dec 2025 04:30:09 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Visual Studio Code 1.107: Multi-Agent-Orchestrierung, verbesserte Chat-Integration und mehr</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/visual-studio-code-1107-multi-agent-orchestrierung-verbesserte-chat-integration-und-mehr.aspx</link>
+         <description>VS Code führt Multi-Agent-Orchestrierung ein. Dazu kommen u. a. ein überarbeiteter Chat, ein Language Models Editor und verbessertes Handling dynamischer Webinhalte.
+
+Visual Studio Code 1.107 bringt neue Features wie Multi-Agent-Orchestrierung, eine verbesserte Chat-Integration, einen Language Models Editor und eine verbesserte Handhabung dynamischer Webinhalte.</description>
+<pubDate>Thu, 18 Dec 2025 04:42:45 GMT</pubDate>
       </item></channel>
 </rss>
