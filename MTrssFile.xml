@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 04:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 05:00:12 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -937,5 +937,12 @@ Azure Functions triggers and bindings enable you to easily integrate event and d
 
 Die neue Funktion ermöglicht es, Probleme in Anwendungen, die Azure Cosmos DB verwenden, mit Hilfe des Azure Cosmos DB Site Reliability Engineering Agent schnell zu diagnostizieren und zu lösen. Der Agent basiert auf der Azure SRE Agent Plattform.</description>
 <pubDate>Thu, 18 Dec 2025 04:43:05 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Developers can now submit apps to ChatGPT</title>
+         <link>https://openai.com/index/developers-can-now-submit-apps-to-chatgpt</link>
+         <description>Entwickler können jetzt Apps zur Überprüfung und Veröffentlichung in ChatGPT einreichen. Genehmigte Apps erscheinen in einem neuen Verzeichnis im Produkt für eine einfache Entdeckung.
+
+Entwickler können nun Apps zur Überprüfung und Veröffentlichung in ChatGPT einreichen. Genehmigte Apps erscheinen in einem neuen Verzeichnis im Produkt für einfache Entdeckung. Aktualisierte Werkzeuge, Richtlinien und das Apps SDK helfen Entwicklern, leistungsstarke chat-native Erfahrungen zu erstellen, die realweltliche Aktionen in ChatGPT integrieren.</description>
+<pubDate>Thu, 18 Dec 2025 05:00:11 GMT</pubDate>
       </item></channel>
 </rss>
