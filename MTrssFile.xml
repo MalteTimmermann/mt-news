@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 05:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 05:12:45 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -944,5 +944,12 @@ Die neue Funktion ermöglicht es, Probleme in Anwendungen, die Azure Cosmos DB v
 
 Entwickler können nun Apps zur Überprüfung und Veröffentlichung in ChatGPT einreichen. Genehmigte Apps erscheinen in einem neuen Verzeichnis im Produkt für einfache Entdeckung. Aktualisierte Werkzeuge, Richtlinien und das Apps SDK helfen Entwicklern, leistungsstarke chat-native Erfahrungen zu erstellen, die realweltliche Aktionen in ChatGPT integrieren.</description>
 <pubDate>Thu, 18 Dec 2025 05:00:11 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Offiziell verfügbar: Geo-Replication bei Azure Service Bus Premium</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/offiziell-verfuegbar-geo-replication-bei-azure-service-bus-premium.aspx</link>
+         <description>Azure Service Bus Premium unterstützt jetzt Geo-Replication mit vollständiger Replikation von Metadaten und Nachrichten über Azure-Regionen hinweg.
+
+Azure Service Bus Premium unterstützt jetzt Geo-Replication mit vollständiger Replikation von Metadaten und Nachrichten über Azure-Regionen hinweg. Dies ermöglicht erhöhte Verfügbarkeit und Disaster-Recovery über verschiedene Azure-Regionen hinweg.</description>
+<pubDate>Fri, 19 Dec 2025 05:12:45 GMT</pubDate>
       </item></channel>
 </rss>
