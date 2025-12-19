@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 05:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 05:30:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -958,5 +958,12 @@ Azure Service Bus Premium unterstützt jetzt Geo-Replication mit vollständiger 
 
 Azure Storage Mover’s neue Azure Blob container-to-container Migrationsfunktion befindet sich jetzt in der öffentlichen Vorschau. Sie ermöglicht es Organisationen, Daten sicher zwischen zwei Blob-Containern innerhalb desselben oder verschiedener Speicherkonten, Abonnements oder Azure-Regionen zu verschieben.</description>
 <pubDate>Fri, 19 Dec 2025 05:13:04 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Introducing GPT-5.2-Codex</title>
+         <link>https://openai.com/index/introducing-gpt-5-2-codex</link>
+         <description>GPT-5.2-Codex ist OpenAIs fortschrittlichstes Codierungsmodell mit umfassenden Fähigkeiten.
+
+GPT-5.2-Codex ist OpenAIs fortschrittlichstes Codierungsmodell, das langes logisches Denken, großskalige Code-Transformationen und verbesserte Cybersicherheitsfunktionen bietet.</description>
+<pubDate>Fri, 19 Dec 2025 05:30:10 GMT</pubDate>
       </item></channel>
 </rss>
