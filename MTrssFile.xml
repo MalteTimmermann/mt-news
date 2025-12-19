@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 05:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 05:30:11 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -965,5 +965,12 @@ Azure Storage Mover’s neue Azure Blob container-to-container Migrationsfunktio
 
 GPT-5.2-Codex ist OpenAIs fortschrittlichstes Codierungsmodell, das langes logisches Denken, großskalige Code-Transformationen und verbesserte Cybersicherheitsfunktionen bietet.</description>
 <pubDate>Fri, 19 Dec 2025 05:30:10 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Addendum to GPT-5.2 System Card: GPT-5.2-Codex</title>
+         <link>https://openai.com/index/gpt-5-2-codex-system-card</link>
+         <description>Sicherheitsmaßnahmen für GPT-5.2-Codex, inklusive modell- und produktbezogener Schutzmechanismen.
+
+Diese Systemkarte beschreibt umfassende Sicherheitsmaßnahmen für GPT‑5.2-Codex, darunter modellbezogene Maßnahmen wie spezielles Sicherheitstraining gegen schädliche Aufgaben und Prompt-Injektionen sowie produktbezogene Maßnahmen wie Agenten-Sandboxing und konfigurierbaren Netzwerkzugang.</description>
+<pubDate>Fri, 19 Dec 2025 05:30:11 GMT</pubDate>
       </item></channel>
 </rss>
