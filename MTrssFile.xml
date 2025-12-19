@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 05:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 05:30:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -972,5 +972,12 @@ GPT-5.2-Codex ist OpenAIs fortschrittlichstes Codierungsmodell, das langes logis
 
 Diese Systemkarte beschreibt umfassende Sicherheitsmaßnahmen für GPT‑5.2-Codex, darunter modellbezogene Maßnahmen wie spezielles Sicherheitstraining gegen schädliche Aufgaben und Prompt-Injektionen sowie produktbezogene Maßnahmen wie Agenten-Sandboxing und konfigurierbaren Netzwerkzugang.</description>
 <pubDate>Fri, 19 Dec 2025 05:30:11 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Updating our Model Spec with teen protections</title>
+         <link>https://openai.com/index/updating-model-spec-with-teen-protections</link>
+         <description>OpenAI aktualisiert seine Modell-Spezifikation mit neuen Prinzipien für unter 18-Jährige, die ChatGPT helfen, Jugendliche sicher und altersgerecht zu unterstützen.
+
+OpenAI ergänzt seine Modell-Spezifikation um neue Prinzipien für Minderjährige, die sicherstellen, dass ChatGPT Teenagern altersgerechte und sichere Unterstützung bietet. Dies stärkt Schutzmechanismen und verbessert die Sicherheit von Jugendlichen.</description>
+<pubDate>Fri, 19 Dec 2025 05:30:22 GMT</pubDate>
       </item></channel>
 </rss>
