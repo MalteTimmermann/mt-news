@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 05:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:00:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -986,5 +986,12 @@ OpenAI ergänzt seine Modell-Spezifikation um neue Prinzipien für Minderjährig
 
 Im Januar und Februar 2026 bietet Microsoft spannende Events rund um Künstliche Intelligenz, Cloud-Technologien und moderne Softwareentwicklung. Teilnehmer erhalten Einblicke in Agentic AI, GitHub Copilot und weitere innovative Themen. Die Veranstaltungen finden sowohl vor Ort als auch online statt, um flexible Teilnahme zu ermöglichen.</description>
 <pubDate>Sat, 20 Dec 2025 05:42:46 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Continuously hardening ChatGPT Atlas against prompt injection</title>
+         <link>https://openai.com/index/hardening-atlas-against-prompt-injection</link>
+         <description>OpenAI stärkt ChatGPT Atlas gegen Prompt Injection Angriffe mit automatisiertem Red Teaming und Verstärkendem Lernen.
+
+OpenAI arbeitet kontinuierlich daran, ChatGPT Atlas gegen Prompt Injection-Angriffe zu härten, indem ein automatisierter Red Teaming-Prozess eingesetzt wird, der mit Verstärkendem Lernen trainiert wurde. Diese proaktive Entdeckungs- und Patch-Schleife hilft, neue Exploits frühzeitig zu erkennen und die Abwehrmechanismen des Browser-Agenten zu stärken, während KI immer mehr Agentenverhalten annimmt.</description>
+<pubDate>Tue, 23 Dec 2025 06:00:15 GMT</pubDate>
       </item></channel>
 </rss>
