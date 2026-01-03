@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 06:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:30:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1014,5 +1014,12 @@ Im Jahr 2026 wird Azure Resource Manager den Custom Resource Provider (CuRP) Die
 
 Azure Premium SSD v2, eine Blockspeicherlösung der nächsten Generation, bietet sub-millisekündliche Latenzen und hervorragende Preis-Leistung. Jetzt allgemein verfügbar in Austria East und Japan West (zweite Availability Zone).</description>
 <pubDate>Thu, 01 Jan 2026 06:13:15 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Announcing OpenAI Grove Cohort 2</title>
+         <link>https://openai.com/index/openai-grove</link>
+         <description>OpenAI Grove Cohort 2 ist ein 5-wöchiges Gründerprogramm mit $50K API-Credits und Mentorship.
+
+Die Bewerbungen für das OpenAI Grove Cohort 2 Programm sind jetzt geöffnet. Es handelt sich um ein 5-wöchiges Programm für Gründer in jeder Phase, von der Ideenfindung bis zum fertigen Produkt. Teilnehmer erhalten $50.000 an API-Credits, frühen Zugriff auf KI-Tools und praktische Betreuung durch das OpenAI-Team.</description>
+<pubDate>Sat, 03 Jan 2026 06:30:22 GMT</pubDate>
       </item></channel>
 </rss>
