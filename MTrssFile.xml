@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 07:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 07:00:30 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1035,5 +1035,12 @@ Dieser Praxisleitfaden von Microsoft bietet Unternehmen eine umfassende Unterst�
 
 ChatGPT Health ist eine dedizierte Erfahrung, die Ihre Gesundheitsdaten und Apps sicher verbindet, mit Datenschutzvorkehrungen und einem an Ärzten orientierten Design.</description>
 <pubDate>Thu, 08 Jan 2026 07:00:28 GMT</pubDate>
+      </item><item>
+         <title>openai.com - How Tolan builds voice-first AI with GPT-5.1</title>
+         <link>https://openai.com/index/tolan</link>
+         <description>Tolan baute einen sprachgesteuerten KI-Begleiter mit GPT-5.1, der niedrige Latenz, Echtzeit-Kontextrekonstruktion und gedächtnisgesteuerte Persönlichkeiten für natürliche Gespräche kombiniert.
+
+Tolan entwickelte eine KI, die speziell für Sprachsteuerung optimiert ist. Sie nutzt GPT-5.1, reagiert schnell, kann Kontext in Echtzeit rekonstruieren und verwendet Gedächtnis, um unterschiedliche Persönlichkeiten für flüssige und natürliche Gespräche zu kreieren.</description>
+<pubDate>Thu, 08 Jan 2026 07:00:30 GMT</pubDate>
       </item></channel>
 </rss>
