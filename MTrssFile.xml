@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 07:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 07:30:31 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1049,5 +1049,12 @@ Tolan entwickelte eine KI, die speziell für Sprachsteuerung optimiert ist. Sie 
 
 XAML Studio wird Open Source und öffnet damit die Tür für mehr Transparenz und Innovation im WinUI-Ökosystem. Erfahre, welche Möglichkeiten das für XAML-Developer bietet.</description>
 <pubDate>Fri, 09 Jan 2026 07:13:02 GMT</pubDate>
+      </item><item>
+         <title>openai.com - OpenAI for Healthcare</title>
+         <link>https://openai.com/index/openai-for-healthcare</link>
+         <description>OpenAI for Healthcare ermöglicht sichere, enterprise-taugliche KI, die HIPAA-Compliance unterstützt, administrative Belastungen reduziert und klinische Arbeitsabläufe fördert.
+
+OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.</description>
+<pubDate>Fri, 09 Jan 2026 07:30:31 GMT</pubDate>
       </item></channel>
 </rss>
