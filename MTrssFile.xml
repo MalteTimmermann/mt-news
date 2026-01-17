@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 05:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:13:09 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1084,5 +1084,12 @@ Beim virtuellen Microsoft Tech Brief am 22. Januar erfährst du, wie die Microso
 
 User delegation SAS (Shared Access Signature) wurde für Azure Tables, Azure Files und Azure Queues in Public Preview veröffentlicht. Diese Funktion erweitert die bereits für Blobs vorhandene Möglichkeit, Benutzerdelegation für den sicheren Zugriff zu verwenden.</description>
 <pubDate>Sat, 17 Jan 2026 05:13:06 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates (Microsoft) - [Launched] Generally Available: Ubuntu 24.04 support in AKS</title>
+         <link>https://azure.microsoft.com/updates?id=536550</link>
+         <description>Ubuntu 24.04 ist jetzt allgemein in AKS ab Kubernetes Version 1.32 verfügbar. Containerd 2.0 ist standardmäßig aktiviert. Ab Version 1.35 ist Ubuntu 24.04 der Standard bei OS-Sku `Ubuntu`.
+
+Ubuntu 24.04 ist nun allgemein verfügbar auf AKS in Kubernetes Version 1.32 und höher. Containerd 2.0 ist standardmäßig aktiviert. Ubuntu 24.04 ist ab Kubernetes Version 1.35 mit OS Sku `Ubuntu` standardmäßig und kann auf zwei Arten aktiviert werden.</description>
+<pubDate>Sat, 17 Jan 2026 05:13:09 GMT</pubDate>
       </item></channel>
 </rss>
