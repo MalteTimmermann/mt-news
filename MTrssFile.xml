@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 05:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:13:07 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1077,5 +1077,12 @@ Die Copilot Studio Extension für Visual Studio Code ermöglicht die Entwicklung
 
 Beim virtuellen Microsoft Tech Brief am 22. Januar erfährst du, wie die Microsoft Sovereign Cloud Unternehmen dabei unterstützt, Datenhoheit, Compliance und Innovationsfähigkeit in Einklang zu bringen.</description>
 <pubDate>Sat, 17 Jan 2026 05:12:49 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - [In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues</title>
+         <link>https://azure.microsoft.com/updates?id=548987</link>
+         <description>User delegation SAS für Azure Tables, Azure Files und Azure Queues ist jetzt in öffentlicher Vorschau verfügbar. Erweiterung der Unterstützung von User delegation SAS, die bereits für Blobs verfügbar ist.
+
+User delegation SAS (Shared Access Signature) wurde für Azure Tables, Azure Files und Azure Queues in Public Preview veröffentlicht. Diese Funktion erweitert die bereits für Blobs vorhandene Möglichkeit, Benutzerdelegation für den sicheren Zugriff zu verwenden.</description>
+<pubDate>Sat, 17 Jan 2026 05:13:06 GMT</pubDate>
       </item></channel>
 </rss>
