@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 07:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:12:47 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1063,5 +1063,12 @@ OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA co
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Fri, 09 Jan 2026 07:43:02 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Offiziell verfügbar: Copilot Studio Extension für Visual Studio Code</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/offiziell-verfuegbar-copilot-studio-extension-fuer-visual-studio-code.aspx</link>
+         <description>Mit der neuen Copilot Studio Extension für Visual Studio Code entwickelst du Copilot-Agents direkt in deinem gewohnten IDE-Workflow, inklusive Versionierung, Reviews u. v. m.
+
+Die Copilot Studio Extension für Visual Studio Code ermöglicht die Entwicklung von Copilot-Agents direkt im IDE-Workflow. Features umfassen Versionierung, Reviews und weitere Funktionen zur Verbesserung des Entwicklererlebnisses.</description>
+<pubDate>Sat, 17 Jan 2026 05:12:47 GMT</pubDate>
       </item></channel>
 </rss>
