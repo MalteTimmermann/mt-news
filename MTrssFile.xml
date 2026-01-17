@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 05:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:33:54 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1098,5 +1098,12 @@ Ubuntu 24.04 ist nun allgemein verfügbar auf AKS in Kubernetes Version 1.32 und
 
 OpenAI investiert in Merge Labs, um neue Gehirn-Computer-Schnittstellen zu fördern, die biologische und künstliche Intelligenz verbinden, um menschliche Fähigkeiten und Erfahrungen zu maximieren.</description>
 <pubDate>Sat, 17 Jan 2026 05:30:09 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Tech Community - Upcoming Agentic Azure Logic Apps Workshops</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/upcoming-agentic-azure-logic-apps-workshops/4484526</link>
+         <description>Kostenlose Workshops zu Logic Apps MCP Servers und dem Aufbau Agentic Business Processes mit Azure Logic Apps.
+
+In diesem Blog-Beitrag werden kostenlose Workshops vorgestellt, bei denen man lernen kann, wie man Logic Apps MCP Servers einsetzt und Agentic Business Processes mit Azure Logic Apps baut. Termine sind der 13. Januar 2026 und der 16. Januar 2026, jeweils mit Registrierung über LinkedIn.</description>
+<pubDate>Sat, 17 Jan 2026 05:33:54 GMT</pubDate>
       </item></channel>
 </rss>
