@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 05:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 05:30:09 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1091,5 +1091,12 @@ User delegation SAS (Shared Access Signature) wurde für Azure Tables, Azure Fil
 
 Ubuntu 24.04 ist nun allgemein verfügbar auf AKS in Kubernetes Version 1.32 und höher. Containerd 2.0 ist standardmäßig aktiviert. Ubuntu 24.04 ist ab Kubernetes Version 1.35 mit OS Sku `Ubuntu` standardmäßig und kann auf zwei Arten aktiviert werden.</description>
 <pubDate>Sat, 17 Jan 2026 05:13:09 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Investing in Merge Labs</title>
+         <link>https://openai.com/index/investing-in-merge-labs</link>
+         <description>OpenAI investiert in Merge Labs für Gehirn-Computer-Schnittstellen zur Verbindung biologischer und künstlicher Intelligenz.
+
+OpenAI investiert in Merge Labs, um neue Gehirn-Computer-Schnittstellen zu fördern, die biologische und künstliche Intelligenz verbinden, um menschliche Fähigkeiten und Erfahrungen zu maximieren.</description>
+<pubDate>Sat, 17 Jan 2026 05:30:09 GMT</pubDate>
       </item></channel>
 </rss>
