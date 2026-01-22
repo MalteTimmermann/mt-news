@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 05:43:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 05:43:08 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1133,5 +1133,12 @@ Stargate Community plant einen gemeinschaftsorientierten Ansatz für KI-Infrastr
 
 Azure Load Testing capability in Azure App Testing ist jetzt allgemein verfügbar in Switzerland North. Kunden können Azure Load Testing verwenden, um hohe Lasten zu generieren, Simulationen durchzuführen und Leistungsprobleme zu identifizieren.</description>
 <pubDate>Thu, 22 Jan 2026 05:43:06 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: Ubuntu 24.04 support in AKS</title>
+         <link>https://azure.microsoft.com/updates?id=548096</link>
+         <description>Ubuntu 24.04 ist jetzt allgemein verfügbar in AKS mit Kubernetes Version 1.32, containerd 2.0 standardmäßig aktiviert.
+
+Kunden, die AKS-Cluster upgraden, benötigen oft einen klaren und flexiblen Pfad, um neue OS-Versionen einzuführen, ohne Arbeitslasten zu unterbrechen. Ubuntu 24.04 ist jetzt allgemein verfügbar in AKS ab Kubernetes Version 1.32, mit containerd 2.0 als Standard.</description>
+<pubDate>Thu, 22 Jan 2026 05:43:08 GMT</pubDate>
       </item></channel>
 </rss>
