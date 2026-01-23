@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 06:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 07:12:51 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1161,5 +1161,12 @@ Die Berichterstattungsfunktionen sind jetzt in Playwright Workspaces verfügbar.
 
 Der Artikel beschreibt die allgemeine Verfügbarkeit (GA) der StandardV2 NAT Gateway SKU bei Azure. Diese bietet verbesserte Ausfallsicherheit, höhere Leistung und Dual-Stack-Konnektivität. Zusätzlich sind die StandardV2 Public IP-Adressen und Präfixe ebenfalls allgemein verfügbar. Das Ganze wird zum gleichen Preis wie die vorherige Standard SKU angeboten.</description>
 <pubDate>Fri, 23 Jan 2026 06:13:15 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Microsoft Foundry für VS Code: Update verbessert Workflows und Agenten-Handling</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/microsoft-foundry-fuer-vs-code-update-verbessert-workflows-und-agenten-handling.aspx</link>
+         <description>Das Januar-Update bringt mehr Übersicht und Kontrolle in die Entwicklung von KI-Workflows, u. a. neue Visualisierungsfunktionen, interaktive Tests für Prompt Agents und besser einsehbarer Code.
+
+Das Januar-Update von Microsoft Foundry für VS Code verbessert die Entwicklung von KI-Workflows durch neue Visualisierungsfunktionen, interaktive Tests für Prompt Agents und eine verbesserte Einsicht in den Code. Dies ermöglicht eine bessere Übersicht und Kontrolle beim Arbeiten mit Agenten.</description>
+<pubDate>Fri, 23 Jan 2026 07:12:51 GMT</pubDate>
       </item></channel>
 </rss>
