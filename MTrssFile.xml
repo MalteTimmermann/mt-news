@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 06:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:13:15 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1154,5 +1154,12 @@ Higgsfield wandelt einfache Ideen in kinoreife Social-Videos um, indem es fortsc
 
 Die Berichterstattungsfunktionen sind jetzt in Playwright Workspaces verfügbar. Diese aktualisierte Funktion ermöglicht eine verbesserte Erfahrung zur Fehlersuche und Zusammenarbeit, um Testprozesse in Playwright Workspaces zu optimieren.</description>
 <pubDate>Fri, 23 Jan 2026 06:13:10 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs</title>
+         <link>https://azure.microsoft.com/updates?id=547772</link>
+         <description>StandardV2 SKU NAT Gateway ist jetzt allgemein verfügbar und bietet verbesserte Zuverlässigkeit, Leistung und Dual-Stack-Konnektivität zu gleichen Preisen wie die Standard-SKU. StandardV2 Public IP-Adressen sind ebenfalls allgemein verfügbar.
+
+Der Artikel beschreibt die allgemeine Verfügbarkeit (GA) der StandardV2 NAT Gateway SKU bei Azure. Diese bietet verbesserte Ausfallsicherheit, höhere Leistung und Dual-Stack-Konnektivität. Zusätzlich sind die StandardV2 Public IP-Adressen und Präfixe ebenfalls allgemein verfügbar. Das Ganze wird zum gleichen Preis wie die vorherige Standard SKU angeboten.</description>
+<pubDate>Fri, 23 Jan 2026 06:13:15 GMT</pubDate>
       </item></channel>
 </rss>
