@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 07:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 06:13:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1147,5 +1147,12 @@ Kunden, die AKS-Cluster upgraden, benötigen oft einen klaren und flexiblen Pfad
 
 Higgsfield wandelt einfache Ideen in kinoreife Social-Videos um, indem es fortschrittliche KI-Technologien von OpenAI GPT-4.1, GPT-5 und Sora 2 verwendet, um Content-Erstellern die Produktion hochwertiger Videos zu erleichtern.</description>
 <pubDate>Thu, 22 Jan 2026 07:00:14 GMT</pubDate>
+      </item><item>
+         <title>Azure - [Launched] Generally Available: Reporting in Playwright Workspaces (part of Azure App Testing)</title>
+         <link>https://azure.microsoft.com/updates?id=550379</link>
+         <description>Reporting capabilities are now live in Playwright Workspaces. Die neueste Aktualisierung bietet ein integriertes, flexibles und kollaboratives Berichtserlebnis, das das Debuggen von Tests in Playwright Workspaces einfacher, schneller und effizienter macht.
+
+Die Berichterstattungsfunktionen sind jetzt in Playwright Workspaces verfügbar. Diese aktualisierte Funktion ermöglicht eine verbesserte Erfahrung zur Fehlersuche und Zusammenarbeit, um Testprozesse in Playwright Workspaces zu optimieren.</description>
+<pubDate>Fri, 23 Jan 2026 06:13:10 GMT</pubDate>
       </item></channel>
 </rss>
