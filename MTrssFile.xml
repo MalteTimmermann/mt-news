@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 07:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 07:30:18 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1168,5 +1168,12 @@ Der Artikel beschreibt die allgemeine Verfügbarkeit (GA) der StandardV2 NAT Gat
 
 Das Januar-Update von Microsoft Foundry für VS Code verbessert die Entwicklung von KI-Workflows durch neue Visualisierungsfunktionen, interaktive Tests für Prompt Agents und eine verbesserte Einsicht in den Code. Dies ermöglicht eine bessere Übersicht und Kontrolle beim Arbeiten mit Agenten.</description>
 <pubDate>Fri, 23 Jan 2026 07:12:51 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Inside Praktika's conversational approach to language learning</title>
+         <link>https://openai.com/index/praktika</link>
+         <description>Praktika verwendet GPT-4.1 und GPT-5.2, um adaptive KI-Tutoren zu erstellen, die personalisierte Lektionen anbieten, Fortschritte verfolgen und Lernenden helfen, echte Sprachkompetenz zu erreichen.
+
+Praktika setzt auf die fortschrittlichen KI-Modelle GPT-4.1 und GPT-5.2, um interaktive Sprachlerntutoren zu entwickeln. Diese Tutorensysteme passen sich an den Lernfortschritt der Nutzer an, personalisieren den Unterricht und unterstützen die Erreichung echter Sprachfertigkeiten.</description>
+<pubDate>Fri, 23 Jan 2026 07:30:18 GMT</pubDate>
       </item></channel>
 </rss>
