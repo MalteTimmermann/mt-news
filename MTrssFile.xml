@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 07:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:12:55 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1182,5 +1182,12 @@ Praktika setzt auf die fortschrittlichen KI-Modelle GPT-4.1 und GPT-5.2, um inte
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Sat, 24 Jan 2026 07:42:51 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Azure Cosmos DB Agent Kit: Mehr Know-how für deinen KI-Coding-Assistenten</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/azure-cosmos-db-agent-kit-mehr-know-how-fuer-deinen-ki-coding-assistenten.aspx</link>
+         <description>Das Azure Cosmos DB Agent Kit erweitert deinen KI-Coding-Assistenten um tiefes Praxiswissen zu Datenmodellierung, Partitionierung und Performance.
+
+Das Azure Cosmos DB Agent Kit erweitert deinen KI-Coding-Assistenten um tiefes Praxiswissen zu Datenmodellierung, Partitionierung und Performance.</description>
+<pubDate>Tue, 27 Jan 2026 08:12:55 GMT</pubDate>
       </item></channel>
 </rss>
