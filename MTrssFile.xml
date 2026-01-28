@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 08:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 06:43:14 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1196,5 +1196,12 @@ Das Azure Cosmos DB Agent Kit erweitert deinen KI-Coding-Assistenten um tiefes P
 
 Indeed’s CRO Maggie Hulce teilt Einblicke, wie KI die Jobsuche, das Recruiting und die Talentakquise für Arbeitgeber und Arbeitssuchende transformiert.</description>
 <pubDate>Tue, 27 Jan 2026 08:30:21 GMT</pubDate>
+      </item><item>
+         <title>Azure - Public Preview: Azure Command Launcher for Java</title>
+         <link>https://azure.microsoft.com/updates?id=543994</link>
+         <description>Ankündigung der öffentlichen Vorschau von Azure Command Launcher für Java, einem neuen JVM-Launcher speziell für Azure optimiert.
+
+Auf der Microsoft Ignite 2025 wurde die öffentliche Vorschau des Azure Command Launcher für Java vorgestellt. Dieses neue Tool bietet eine verbesserte Ergonomie für Java-Anwendungen, die in Containern und virtuellen Maschinen auf Azure ausgeführt werden.</description>
+<pubDate>Wed, 28 Jan 2026 06:43:14 GMT</pubDate>
       </item></channel>
 </rss>
