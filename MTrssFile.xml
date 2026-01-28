@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 06:43:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 08:42:56 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1203,5 +1203,12 @@ Indeed’s CRO Maggie Hulce teilt Einblicke, wie KI die Jobsuche, das Recruiting
 
 Auf der Microsoft Ignite 2025 wurde die öffentliche Vorschau des Azure Command Launcher für Java vorgestellt. Dieses neue Tool bietet eine verbesserte Ergonomie für Java-Anwendungen, die in Containern und virtuellen Maschinen auf Azure ausgeführt werden.</description>
 <pubDate>Wed, 28 Jan 2026 06:43:14 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Agent Skills: Kontext gezielt nutzen für spezialisierte KI-Agenten</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/agent-skills-kontext-gezielt-nutzen-fuer-spezialisierte-ki-agenten.aspx</link>
+         <description>Mit Agent Skills kannst du deine KI-Coding-Agenten gezielt auf Microsoft Foundry und Azure spezialisieren. Statt alles zu laden, gibst du nur das Wissen mit, das wirklich zählt.
+
+Mit Agent Skills können KI-Coding-Agenten gezielt und spezialisiert auf Microsoft Foundry und Azure eingesetzt werden, indem nur relevantes Wissen in den Kontext gegeben wird. Dies optimiert die Nutzung der KI-Agenten für spezifische Aufgaben.</description>
+<pubDate>Wed, 28 Jan 2026 08:42:56 GMT</pubDate>
       </item></channel>
 </rss>
