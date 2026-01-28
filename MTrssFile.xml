@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 08:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:00:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1210,5 +1210,12 @@ Auf der Microsoft Ignite 2025 wurde die öffentliche Vorschau des Azure Command 
 
 Mit Agent Skills können KI-Coding-Agenten gezielt und spezialisiert auf Microsoft Foundry und Azure eingesetzt werden, indem nur relevantes Wissen in den Kontext gegeben wird. Dies optimiert die Nutzung der KI-Agenten für spezifische Aufgaben.</description>
 <pubDate>Wed, 28 Jan 2026 08:42:56 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - PVH reimagines the future of fashion with OpenAI</title>
+         <link>https://openai.com/index/pvh-future-of-fashion</link>
+         <description>PVH Corp., Muttergesellschaft von Calvin Klein und Tommy Hilfiger, nutzt ChatGPT Enterprise, um KI in Modedesign, Lieferkette und Kundenbindung zu integrieren.
+
+PVH Corp., Eigentümer von Calvin Klein und Tommy Hilfiger, implementiert ChatGPT Enterprise, um KI-Technologien in den Bereichen Modedesign, Lieferkettenmanagement und Kundeninteraktion einzusetzen und damit die Zukunft der Mode neu zu gestalten.</description>
+<pubDate>Wed, 28 Jan 2026 09:00:23 GMT</pubDate>
       </item></channel>
 </rss>
