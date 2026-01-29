@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 07:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:13:15 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1231,5 +1231,12 @@ Der Artikel stellt Unit Test Agent Profiles vor, die bei der Entdeckung von Work
 
 Die general purpose Dasv7 und Dalsv7, memory-optimized Easv7, und compute-optimized Fasv7, Falsv7, Famsv7 VMs sind jetzt allgemein verfügbar. Diese neuen VM-Serien sind in verschiedenen Azure-Regionen wie Australia East und Central für den produktiven Einsatz verfügbar.</description>
 <pubDate>Thu, 29 Jan 2026 07:13:13 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13</title>
+         <link>https://azure.microsoft.com/updates?id=545771</link>
+         <description>Support für Python 3.10 in Azure Functions endet am 1. Oktober 2026. Apps laufen weiter, aber keine Sicherheitsupdates und Leistungsverbesserungen mehr. Aktualisieren Sie auf Python 3.13.
+
+Am 1. Oktober 2026 endet der Support für Python 3.10 in Azure Functions entsprechend dem Ende der Community-Unterstützung. Ihre Apps, die auf Azure Functions ausgeführt werden, laufen weiter, aber Sicherheitsupdates und Leistungsoptimierungen sind nicht mehr verfügbar. Es wird empfohlen, die Azure Functions Apps auf Python 3.13 zu aktualisieren.</description>
+<pubDate>Thu, 29 Jan 2026 07:13:15 GMT</pubDate>
       </item></channel>
 </rss>
