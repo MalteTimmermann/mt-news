@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 09:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:04:18 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1217,5 +1217,12 @@ Mit Agent Skills können KI-Coding-Agenten gezielt und spezialisiert auf Microso
 
 PVH Corp., Eigentümer von Calvin Klein und Tommy Hilfiger, implementiert ChatGPT Enterprise, um KI-Technologien in den Bereichen Modedesign, Lieferkettenmanagement und Kundeninteraktion einzusetzen und damit die Zukunft der Mode neu zu gestalten.</description>
 <pubDate>Wed, 28 Jan 2026 09:00:23 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Introducing Unit Test Agent Profiles for Logic Apps and Data Maps</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/introducing-unit-test-agent-profiles-for-logic-apps--data-maps/4490216</link>
+         <description>Ankuendigung zu Unit Test Agent Profiles fuer Logic Apps Standard Workflows und Data Maps. Diese Agenten helfen bei der Erstellung von Unit Tests mit MSTest.
+
+Der Artikel stellt Unit Test Agent Profiles vor, die bei der Entdeckung von Workflows und Maps, beim Schreiben von wiederverwendbaren Spezifikationen, der Generierung typisierter Mocks und der Implementierung von MSTest Suiten fuer Azure Logic Apps Standard Projekte helfen. Es gibt spezialisierte Agenten fuer Logic Apps Workflow Unit Tests und Data Map Unit Tests, die einen spezifikationsgetriebenen Ansatz foerdern und die Testautomatisierung erleichtern.</description>
+<pubDate>Thu, 29 Jan 2026 06:04:18 GMT</pubDate>
       </item></channel>
 </rss>
