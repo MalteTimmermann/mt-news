@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 06:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:13:13 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1224,5 +1224,12 @@ PVH Corp., Eigentümer von Calvin Klein und Tommy Hilfiger, implementiert ChatGP
 
 Der Artikel stellt Unit Test Agent Profiles vor, die bei der Entdeckung von Workflows und Maps, beim Schreiben von wiederverwendbaren Spezifikationen, der Generierung typisierter Mocks und der Implementierung von MSTest Suiten fuer Azure Logic Apps Standard Projekte helfen. Es gibt spezialisierte Agenten fuer Logic Apps Workflow Unit Tests und Data Map Unit Tests, die einen spezifikationsgetriebenen Ansatz foerdern und die Testautomatisierung erleichtern.</description>
 <pubDate>Thu, 29 Jan 2026 06:04:18 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Azure AMD Turin Dasv7, Easv7 und Fasv7-Serie Virtuelle Maschinen veröffentlicht</title>
+         <link>https://azure.microsoft.com/updates?id=552318</link>
+         <description>Allgemeine Verfügbarkeit von Azure AMD Turin-Dasv7-, Easv7- und Fasv7-Serien VM, mit und ohne lokale Laufwerksunterstützung, in mehreren Azure-Regionen.
+
+Die general purpose Dasv7 und Dalsv7, memory-optimized Easv7, und compute-optimized Fasv7, Falsv7, Famsv7 VMs sind jetzt allgemein verfügbar. Diese neuen VM-Serien sind in verschiedenen Azure-Regionen wie Australia East und Central für den produktiven Einsatz verfügbar.</description>
+<pubDate>Thu, 29 Jan 2026 07:13:13 GMT</pubDate>
       </item></channel>
 </rss>
