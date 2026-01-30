@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 07:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 09:30:24 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1245,5 +1245,12 @@ Am 1. Oktober 2026 endet der Support für Python 3.10 in Azure Functions entspre
 
 Die neuesten Minor-Versionen von PostgreSQL (18.1, 17.7, 16.11, 15.15, 14.20 und 13.23) werden ab sofort vom Azure Database for PostgreSQL – Flexible Server unterstützt. Diese Upgrades erfolgen automatisch im Rahmen der monatlichen geplanten Wartung in Azure.</description>
 <pubDate>Thu, 29 Jan 2026 07:13:17 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Taisei Corporation shapes the next generation of talent with ChatGPT</title>
+         <link>https://openai.com/index/taisei</link>
+         <description>Taisei Corporation nutzt ChatGPT Enterprise zur Unterstützung der Personalentwicklung und zur Skalierung generativer KI im globalen Baugeschäft.
+
+Taisei Corporation setzt ChatGPT Enterprise ein, um die talentorientierte Entwicklung durch HR zu fördern und generative KI-Technologien weltweit im Bauwesen zu implementieren.</description>
+<pubDate>Fri, 30 Jan 2026 09:30:24 GMT</pubDate>
       </item></channel>
 </rss>
