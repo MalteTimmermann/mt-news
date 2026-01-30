@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 09:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 09:30:30 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1252,5 +1252,12 @@ Die neuesten Minor-Versionen von PostgreSQL (18.1, 17.7, 16.11, 15.15, 14.20 und
 
 Taisei Corporation setzt ChatGPT Enterprise ein, um die talentorientierte Entwicklung durch HR zu fördern und generative KI-Technologien weltweit im Bauwesen zu implementieren.</description>
 <pubDate>Fri, 30 Jan 2026 09:30:24 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</title>
+         <link>https://openai.com/index/retiring-gpt-4o-and-older-models</link>
+         <description>OpenAI kündigt an, dass am 13. Februar 2026 die Modelle GPT-4o, GPT-4.1, GPT-4.1 mini und OpenAI o4-mini in ChatGPT aus dem Service entfernt werden. In der API gibt es aktuell keine Änderungen.
+
+Am 13. Februar 2026 wird OpenAI neben der bereits angekündigten Einstellung von GPT-5 (Instant, Thinking und Pro) auch die Modelle GPT-4o, GPT-4.1, GPT-4.1 mini und OpenAI o4-mini in ChatGPT zurückziehen. Für die API sollen zum jetzigen Zeitpunkt keine Änderungen erfolgen.</description>
+<pubDate>Fri, 30 Jan 2026 09:30:30 GMT</pubDate>
       </item></channel>
 </rss>
