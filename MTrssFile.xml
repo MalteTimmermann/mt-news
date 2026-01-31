@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 09:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 07:43:17 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1266,5 +1266,12 @@ Am 13. Februar 2026 wird OpenAI neben der bereits angekündigten Einstellung von
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Fri, 30 Jan 2026 09:43:02 GMT</pubDate>
+      </item><item>
+         <title>Azure - Retirement: Send data to Event Hubs and Storage Preview retiring July 31, 2026</title>
+         <link>https://azure.microsoft.com/updates?id=551523</link>
+         <description>Einstellung des Preview-Features 'Send virtual machine client data to Event Hubs and Storage' zum 31.07.2026.
+
+Zum 31. Juli 2026 wird das Vorschau-Feature 'Send virtual machine client data to Event Hubs and Storage Preview' eingestellt. Es werden keine neuen Regeln zur Datensammlung mit diesem Feature mehr erstellt.</description>
+<pubDate>Sat, 31 Jan 2026 07:43:17 GMT</pubDate>
       </item></channel>
 </rss>
