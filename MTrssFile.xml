@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 07:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 10:13:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1273,5 +1273,12 @@ Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was ware
 
 Zum 31. Juli 2026 wird das Vorschau-Feature 'Send virtual machine client data to Event Hubs and Storage Preview' eingestellt. Es werden keine neuen Regeln zur Datensammlung mit diesem Feature mehr erstellt.</description>
 <pubDate>Sat, 31 Jan 2026 07:43:17 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - winapp: Neue CLI vereinfacht die Windows-App-Entwicklung</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/winapp-neue-cli-vereinfacht-die-windows-app-entwicklung.aspx</link>
+         <description>Die neue CLI vereinfacht die Windows-App-Entwicklung deutlich, von der Einrichtung der Umgebung über Debugging bis zum Packaging.
+
+Die neue CLI ermöglicht eine deutliche Vereinfachung der Windows-App-Entwicklung. Sie unterstützt Entwickler von der Einrichtung der Entwicklungsumgebung über Debugging-Funktionen bis hin zum Packaging der Apps. Dies soll den Entwicklungsprozess effizienter und schneller machen.</description>
+<pubDate>Mon, 02 Feb 2026 10:13:10 GMT</pubDate>
       </item></channel>
 </rss>
