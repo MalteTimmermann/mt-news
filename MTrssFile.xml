@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 10:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 06:34:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1280,5 +1280,12 @@ Zum 31. Juli 2026 wird das Vorschau-Feature 'Send virtual machine client data to
 
 Die neue CLI ermöglicht eine deutliche Vereinfachung der Windows-App-Entwicklung. Sie unterstützt Entwickler von der Einrichtung der Entwicklungsumgebung über Debugging-Funktionen bis hin zum Packaging der Apps. Dies soll den Entwicklungsprozess effizienter und schneller machen.</description>
 <pubDate>Mon, 02 Feb 2026 10:13:10 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Logic Apps Aviators Newsletter - February 2026</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/logic-apps-aviators-newsletter---february-2026/4491309</link>
+         <description>Newsletter mit Neuigkeiten und Highlights zu Logic Apps, inklusive Ace Aviator des Monats, Produktneuigkeiten und Community-News.
+
+Der Logic Apps Aviators Newsletter für Februar 2026 präsentiert Camilla Bielk als Ace Aviator des Monats, Neuigkeiten aus der Produktentwicklung, anstehende Workshops und wertvolle Beiträge aus der Community zu Azure Logic Apps und Integrationstechnologien.</description>
+<pubDate>Tue, 03 Feb 2026 06:34:16 GMT</pubDate>
       </item></channel>
 </rss>
