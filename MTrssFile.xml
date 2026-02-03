@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 08:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:00:31 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1294,5 +1294,12 @@ Der Logic Apps Aviators Newsletter für Februar 2026 präsentiert Camilla Bielk 
 
 Azure Databricks hat serverlose Arbeitsbereiche allgemein verfügbar gemacht, die eine SaaS-Erfahrung mit null Infrastruktur bieten. Diese Arbeitsbereiche sind vorab mit serverlosem Compute und Standard-Storage konfiguriert und eignen sich für Unternehmen.</description>
 <pubDate>Tue, 03 Feb 2026 08:13:23 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Introducing the Codex app</title>
+         <link>https://openai.com/index/introducing-the-codex-app</link>
+         <description>Einführung der Codex-App für macOS als Kommandozentrale für KI-Codierung und Softwareentwicklung mit mehreren Agenten, parallelen Workflows und lang laufenden Aufgaben.
+
+Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.</description>
+<pubDate>Tue, 03 Feb 2026 10:00:31 GMT</pubDate>
       </item></channel>
 </rss>
