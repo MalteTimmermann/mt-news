@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 10:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:00:32 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1301,5 +1301,12 @@ Azure Databricks hat serverlose Arbeitsbereiche allgemein verfügbar gemacht, di
 
 Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.</description>
 <pubDate>Tue, 03 Feb 2026 10:00:31 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Snowflake and OpenAI partner to bring frontier intelligence to enterprise data</title>
+         <link>https://openai.com/index/snowflake-partnership</link>
+         <description>Partnerschaft zwischen OpenAI und Snowflake zur Integration fortschrittlicher Intelligenz in Unternehmensdaten mit Fokus auf KI-Agenten und Insights.
+
+OpenAI und Snowflake schließen eine Partnerschaft im Wert von 200 Millionen Dollar, um fortschrittliche Intelligenz direkt in Unternehmensdaten zu integrieren. Dies ermöglicht KI-Agenten und Einsichten direkt in der Snowflake-Plattform.</description>
+<pubDate>Tue, 03 Feb 2026 10:00:32 GMT</pubDate>
       </item></channel>
 </rss>
