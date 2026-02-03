@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 06:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 08:13:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1287,5 +1287,12 @@ Die neue CLI ermöglicht eine deutliche Vereinfachung der Windows-App-Entwicklun
 
 Der Logic Apps Aviators Newsletter für Februar 2026 präsentiert Camilla Bielk als Ace Aviator des Monats, Neuigkeiten aus der Produktentwicklung, anstehende Workshops und wertvolle Beiträge aus der Community zu Azure Logic Apps und Integrationstechnologien.</description>
 <pubDate>Tue, 03 Feb 2026 06:34:16 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Serverless workspaces in Azure Databricks</title>
+         <link>https://azure.microsoft.com/updates?id=550845</link>
+         <description>Serverless workspaces in Azure Databricks sind jetzt allgemein verfügbar und bieten einen vollständig verwalteten Workspace-Typ mit serverlosem Compute und Standardspeicher.
+
+Azure Databricks hat serverlose Arbeitsbereiche allgemein verfügbar gemacht, die eine SaaS-Erfahrung mit null Infrastruktur bieten. Diese Arbeitsbereiche sind vorab mit serverlosem Compute und Standard-Storage konfiguriert und eignen sich für Unternehmen.</description>
+<pubDate>Tue, 03 Feb 2026 08:13:23 GMT</pubDate>
       </item></channel>
 </rss>
