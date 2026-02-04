@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 10:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:43:20 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1308,5 +1308,12 @@ Introducing the Codex app for macOS—a command center for AI coding and softwar
 
 OpenAI und Snowflake schließen eine Partnerschaft im Wert von 200 Millionen Dollar, um fortschrittliche Intelligenz direkt in Unternehmensdaten zu integrieren. Dies ermöglicht KI-Agenten und Einsichten direkt in der Snowflake-Plattform.</description>
 <pubDate>Tue, 03 Feb 2026 10:00:32 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Public Preview: Azure Kubernetes Fleet Manager namespace-scoped resource placement</title>
+         <link>https://azure.microsoft.com/updates?id=548198</link>
+         <description>Feine Steuerung der Platzierung und Verbreitung von namespace-bezogenen Ressourcen über mehrere Cluster hinweg, jetzt in der Public Preview bei Azure Kubernetes Fleet Manager.
+
+Namespace-scoped resource placement, jetzt in der Public Preview für Azure Kubernetes Fleet Manager, erlaubt die feine Kontrolle der Auswahl und Verbreitung einzelner namespace-bezogener Ressourcen über mehrere Cluster hinweg. Diese neue Fähigkeit bedeutet...</description>
+<pubDate>Wed, 04 Feb 2026 08:43:20 GMT</pubDate>
       </item></channel>
 </rss>
