@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 08:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:43:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1315,5 +1315,12 @@ OpenAI und Snowflake schließen eine Partnerschaft im Wert von 200 Millionen Dol
 
 Namespace-scoped resource placement, jetzt in der Public Preview für Azure Kubernetes Fleet Manager, erlaubt die feine Kontrolle der Auswahl und Verbreitung einzelner namespace-bezogener Ressourcen über mehrere Cluster hinweg. Diese neue Fähigkeit bedeutet...</description>
 <pubDate>Wed, 04 Feb 2026 08:43:20 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Azure Container Storage v2.1.0 ist jetzt allgemein verfügbar mit Elastic SAN-Integration und bedarfsorientierter Installation</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=553917</link>
+         <description>Veröffentlichung von Azure Container Storage v2.1.0 mit nativer Elastic SAN-Unterstützung und einem neuen, leichtgewichtigen Installationsmodell für Kubernetes-Workloads auf Azure.
+
+Azure Container Storage v2.1.0 wird jetzt allgemein verfügbar gemacht. Diese Version erweitert Azure Container Storage um native Unterstützung für Elastic SAN und führt ein bedarfsorientiertes, leichtgewichtiges Installationsmodell ein, das die Bereitstellung und den Betrieb von Kubernetes-Workloads auf Azure vereinfacht.</description>
+<pubDate>Wed, 04 Feb 2026 08:43:22 GMT</pubDate>
       </item></channel>
 </rss>
