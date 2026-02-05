@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 11:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:00:36 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1343,5 +1343,12 @@ Azure NetApp Files Elastic zone-redundant storage (ANF Elastic ZRS) ist ein fort
 
 In diesem Artikel erfahren Sie, wie der Codex Agent mit dem Codex App Server eingebettet wird, einer zweiseitigen JSON-RPC-API, die Streaming-Fortschritt, Werkzeugnutzung, Genehmigungen und Unterschiede unterstützt.</description>
 <pubDate>Thu, 05 Feb 2026 11:00:34 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Navigating health questions with ChatGPT</title>
+         <link>https://openai.com/index/navigating-health-questions</link>
+         <description>Ein Erfahrungsbericht über die Unterstützung von ChatGPT bei kritischen Krebsbehandlungsentscheidungen.
+
+Eine Familie berichtet, wie ChatGPT ihnen half, sich auf wichtige Entscheidungen in der Krebsbehandlung ihres Sohnes vorzubereiten, in Kombination mit der fachlichen Beratung durch seine Ärzte.</description>
+<pubDate>Thu, 05 Feb 2026 11:00:36 GMT</pubDate>
       </item></channel>
 </rss>
