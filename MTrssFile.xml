@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 10:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 09:13:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1329,5 +1329,12 @@ Azure Container Storage v2.1.0 wird jetzt allgemein verfügbar gemacht. Diese Ve
 
 Entdecken Sie die Sora feed philosophy – gebaut, um Kreativität zu entfachen, Verbindungen zu fördern und Erfahrungen sicher zu halten durch personalisierte Empfehlungen, Kindersicherungen und robuste Schutzmaßnahmen.</description>
 <pubDate>Wed, 04 Feb 2026 10:30:34 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level</title>
+         <link>https://azure.microsoft.com/updates?id=550863</link>
+         <description>Azure NetApp Files Elastic zone-redundant storage (ANF Elastic ZRS) ist ein fortschrittlicher Hochverfügbarkeits-Service-Level für Azure NetApp Files, der kontinuierlichen Datenzugriff mit Null-Datenverlust bietet, selbst wenn eine gesamte Azure-Verfügbarkeitszone offline geht.
+
+Azure NetApp Files Elastic zone-redundant storage (ANF Elastic ZRS) ist ein fortschrittlicher Hochverfügbarkeits-Service-Level für Azure NetApp Files, der kontinuierlichen Datenzugriff und Null-Datenverlust ermöglicht, selbst bei Ausfall einer gesamten Azure-Verfügbarkeitszone.</description>
+<pubDate>Thu, 05 Feb 2026 09:13:25 GMT</pubDate>
       </item></channel>
 </rss>
