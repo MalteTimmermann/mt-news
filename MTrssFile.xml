@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 09:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:00:34 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1336,5 +1336,12 @@ Entdecken Sie die Sora feed philosophy – gebaut, um Kreativität zu entfachen,
 
 Azure NetApp Files Elastic zone-redundant storage (ANF Elastic ZRS) ist ein fortschrittlicher Hochverfügbarkeits-Service-Level für Azure NetApp Files, der kontinuierlichen Datenzugriff und Null-Datenverlust ermöglicht, selbst bei Ausfall einer gesamten Azure-Verfügbarkeitszone.</description>
 <pubDate>Thu, 05 Feb 2026 09:13:25 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Unlocking the Codex harness: how we built the App Server</title>
+         <link>https://openai.com/index/unlocking-the-codex-harness</link>
+         <description>Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs. Kategorie: Engineering, veröffentlicht am 2026-02-04
+
+In diesem Artikel erfahren Sie, wie der Codex Agent mit dem Codex App Server eingebettet wird, einer zweiseitigen JSON-RPC-API, die Streaming-Fortschritt, Werkzeugnutzung, Genehmigungen und Unterschiede unterstützt.</description>
+<pubDate>Thu, 05 Feb 2026 11:00:34 GMT</pubDate>
       </item></channel>
 </rss>
