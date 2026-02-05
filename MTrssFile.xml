@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 11:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:13:08 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1350,5 +1350,12 @@ In diesem Artikel erfahren Sie, wie der Codex Agent mit dem Codex App Server ein
 
 Eine Familie berichtet, wie ChatGPT ihnen half, sich auf wichtige Entscheidungen in der Krebsbehandlung ihres Sohnes vorzubereiten, in Kombination mit der fachlichen Beratung durch seine Ärzte.</description>
 <pubDate>Thu, 05 Feb 2026 11:00:36 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - .NET AI Essentials: Die zentralen Bausteine für KI-Anwendungen</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/net-ai-essentials-die-zentralen-bausteine-fuer-ki-anwendungen.aspx</link>
+         <description>.NET AI Essentials bündelt die wichtigsten KI-Bausteine für .NET: eine einheitliche API für KI-Modelle, strukturierte Ausgaben, Middleware-Unterstützung und Multi-Modal-Funktionen.
+
+.NET AI Essentials stellt die zentralen Komponenten für KI-Anwendungen in .NET bereit, inklusive einer einheitlichen API für KI-Modelle, Unterstützung für die Ausgabe strukturierter Daten, Middleware und Multi-Modal-Funktionalität.</description>
+<pubDate>Thu, 05 Feb 2026 11:13:08 GMT</pubDate>
       </item></channel>
 </rss>
