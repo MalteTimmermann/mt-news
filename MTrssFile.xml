@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 09:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 09:43:28 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1364,5 +1364,12 @@ Eine Familie berichtet, wie ChatGPT ihnen half, sich auf wichtige Entscheidungen
 
 DCa/ECa v6 Serie AMD-basierte vertrauliche virtuelle Maschinen sind jetzt allgemein verfügbar in 11 neuen Regionen: Kanada Zentrum, Kanada Ost, Norwegen Ost, Norwegen West, Italien Nord, Deutschland Nord, Frankreich Süd, Australien Ost, West US, West US 3, Deutschland West Zent.</description>
 <pubDate>Fri, 06 Feb 2026 09:43:26 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Azure virtual network routing appliance</title>
+         <link>https://azure.microsoft.com/updates?id=555944</link>
+         <description>Azure Virtual Network Routing Appliance bietet private Konnektivität für Workloads über virtuelle Netzwerke hinweg. Spezialisierte Hardware ermöglicht niedrige Latenz, hohe Durchsatzraten und optimale Performance im Vergleich zu virtuellen Maschinen.
+
+Azure Virtual Network routing appliance offers private connectivity for workloads across virtual networks. Using specialized hardware, it delivers low latency and high throughput, and optimal performance compared to virtual machines. Deployed into private networks, this appliance is now in public preview</description>
+<pubDate>Fri, 06 Feb 2026 09:43:28 GMT</pubDate>
       </item></channel>
 </rss>
