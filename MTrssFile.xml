@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 11:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 09:43:26 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1357,5 +1357,12 @@ Eine Familie berichtet, wie ChatGPT ihnen half, sich auf wichtige Entscheidungen
 
 .NET AI Essentials stellt die zentralen Komponenten für KI-Anwendungen in .NET bereit, inklusive einer einheitlichen API für KI-Modelle, Unterstützung für die Ausgabe strukturierter Daten, Middleware und Multi-Modal-Funktionalität.</description>
 <pubDate>Thu, 05 Feb 2026 11:13:08 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026</title>
+         <link>https://azure.microsoft.com/updates?id=553966</link>
+         <description>Verfügbarkeit der AMD v6 vertraulichen virtuellen Maschinen in 11 neuen Regionen im Januar 2026
+
+DCa/ECa v6 Serie AMD-basierte vertrauliche virtuelle Maschinen sind jetzt allgemein verfügbar in 11 neuen Regionen: Kanada Zentrum, Kanada Ost, Norwegen Ost, Norwegen West, Italien Nord, Deutschland Nord, Frankreich Süd, Australien Ost, West US, West US 3, Deutschland West Zent.</description>
+<pubDate>Fri, 06 Feb 2026 09:43:26 GMT</pubDate>
       </item></channel>
 </rss>
