@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 09:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:30:35 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1371,5 +1371,12 @@ DCa/ECa v6 Serie AMD-basierte vertrauliche virtuelle Maschinen sind jetzt allgem
 
 Azure Virtual Network routing appliance offers private connectivity for workloads across virtual networks. Using specialized hardware, it delivers low latency and high throughput, and optimal performance compared to virtual machines. Deployed into private networks, this appliance is now in public preview</description>
 <pubDate>Fri, 06 Feb 2026 09:43:28 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Introducing OpenAI Frontier</title>
+         <link>https://openai.com/index/introducing-openai-frontier</link>
+         <description>OpenAI Frontier ist eine Unternehmensplattform für den Aufbau, die Bereitstellung und Verwaltung von KI-Agenten mit gemeinsamem Kontext, Onboarding, Berechtigungen und Governance.
+
+OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.</description>
+<pubDate>Fri, 06 Feb 2026 11:30:35 GMT</pubDate>
       </item></channel>
 </rss>
