@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 10:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 12:00:37 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1399,5 +1399,12 @@ Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was ware
 
 Azure Databricks bietet jetzt Unterstützung für Anthropic Claude Opus 4.6, das durch Mosaic AI Model Serving verfügbar gemacht wird. Claude Opus 4.6 liefert erstklassige Leistung bei agentenbasiertem Programmieren, komplexem Denken und wissensbasierten Aufgaben.</description>
 <pubDate>Sat, 07 Feb 2026 10:13:27 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Making AI work for everyone, everywhere: our approach to localization</title>
+         <link>https://openai.com/index/our-approach-to-localization</link>
+         <description>OpenAI teilt seinen Ansatz zur KI-Lokalisierung, um globale Modelle an lokale Sprachen, Gesetze und Kulturen anzupassen, ohne die Sicherheit zu beeinträchtigen.
+
+OpenAI zeigt, wie global geteilte frontier-Modelle auf lokale Sprachen, Gesetze und Kulturen zugeschnitten werden können, ohne Kompromisse bei der Sicherheit einzugehen.</description>
+<pubDate>Sat, 07 Feb 2026 12:00:37 GMT</pubDate>
       </item></channel>
 </rss>
