@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 11:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 10:13:27 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1392,5 +1392,12 @@ Ein autonomes Labor, das OpenAI's GPT-5 mit der Cloud-Automation von Ginkgo Biow
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Fri, 06 Feb 2026 11:43:10 GMT</pubDate>
+      </item><item>
+         <title>Azure Microsoft - Launched: Claude Opus 4.6 jetzt allgemein verfügbar auf Azure Databricks</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=555981</link>
+         <description>Azure Databricks unterstützt nun das Anthropic Claude Opus 4.6 Modell über Mosaic AI Model Serving. Dieses Modell ist Anthropic's fortschrittlichstes Modell für komplexe Aufgaben.
+
+Azure Databricks bietet jetzt Unterstützung für Anthropic Claude Opus 4.6, das durch Mosaic AI Model Serving verfügbar gemacht wird. Claude Opus 4.6 liefert erstklassige Leistung bei agentenbasiertem Programmieren, komplexem Denken und wissensbasierten Aufgaben.</description>
+<pubDate>Sat, 07 Feb 2026 10:13:27 GMT</pubDate>
       </item></channel>
 </rss>
