@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 12:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 12:13:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1406,5 +1406,12 @@ Azure Databricks bietet jetzt Unterstützung für Anthropic Claude Opus 4.6, das
 
 OpenAI zeigt, wie global geteilte frontier-Modelle auf lokale Sprachen, Gesetze und Kulturen zugeschnitten werden können, ohne Kompromisse bei der Sicherheit einzugehen.</description>
 <pubDate>Sat, 07 Feb 2026 12:00:37 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Multi-Agenten-Entwicklung: Neue Möglichkeiten in Visual Studio Code</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/multi-agenten-entwicklung-neue-moeglichkeiten-in-visual-studio-code.aspx</link>
+         <description>Visual Studio Code macht dich zum Dirigenten deiner Agenten: Mit der neuen Version kannst du unter anderem Claude, Codex und GitHub Copilot parallel nutzen.
+
+Visual Studio Code ermöglicht in der neuen Version die parallele Nutzung von KI-Agenten wie Claude, Codex und GitHub Copilot und erweitert damit die Möglichkeiten der Multi-Agenten-Entwicklung.</description>
+<pubDate>Mon, 09 Feb 2026 12:13:10 GMT</pubDate>
       </item></channel>
 </rss>
