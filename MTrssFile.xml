@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 07:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 10:43:29 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1420,5 +1420,12 @@ Visual Studio Code ermöglicht in der neuen Version die parallele Nutzung von KI
 
 Der Artikel beschreibt ein neues Azure Arc Jumpstart Template, mit dem eine hybride Bereitstellung von Azure Logic Apps (Standard) auf einem Azure Arc-aktivierten AKS-Cluster mit nur einem Befehl möglich ist. Das Template automatisiert die Einrichtung einer kompletten Testumgebung, inklusive AKS-Cluster, Azure Arc, Azure SQL Server und Storage Account, und vereinfacht somit den komplexen Setup-Prozess für unternehmenskritische Integrationsszenarien.</description>
 <pubDate>Tue, 10 Feb 2026 07:04:19 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Public Preview: Application Gateway for Containers - AKS managed add-on</title>
+         <link>https://azure.microsoft.com/updates?id=555603</link>
+         <description>Öffentliche Vorschau eines AKS Managed Add-ons zur Vereinfachung der Bereitstellung und Verwaltung von Application Gateway für Container.
+
+Wir kündigen die öffentliche Vorschau eines AKS Managed Add-ons an, das die Bereitstellung und das Lifecycle-Management von Application Gateway für Container und dessen ALB Controller vereinfacht. Mit dem verwalteten AKS Add-on können Sie Application Gateway für Container aktivieren.</description>
+<pubDate>Tue, 10 Feb 2026 10:43:29 GMT</pubDate>
       </item></channel>
 </rss>
