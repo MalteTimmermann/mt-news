@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 10:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:30:39 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1427,5 +1427,12 @@ Der Artikel beschreibt ein neues Azure Arc Jumpstart Template, mit dem eine hybr
 
 Wir kündigen die öffentliche Vorschau eines AKS Managed Add-ons an, das die Bereitstellung und das Lifecycle-Management von Application Gateway für Container und dessen ALB Controller vereinfacht. Mit dem verwalteten AKS Add-on können Sie Application Gateway für Container aktivieren.</description>
 <pubDate>Tue, 10 Feb 2026 10:43:29 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Testing ads in ChatGPT</title>
+         <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+         <description>OpenAI beginnt mit dem Testen von Werbung in ChatGPT, um den kostenlosen Zugang zu unterstützen, mit klarer Kennzeichnung, Unabhängigkeit der Antworten, starken Datenschutzmaßnahmen und Benutzerkontrolle.
+
+OpenAI testet Werbung in ChatGPT, die deutlich gekennzeichnet ist. Die Antworten bleiben unabhängig, der Datenschutz wird stark beachtet und Nutzer haben Kontrolle über die Werbung.</description>
+<pubDate>Tue, 10 Feb 2026 12:30:39 GMT</pubDate>
       </item></channel>
 </rss>
