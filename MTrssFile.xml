@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 12:30:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:43:13 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1434,5 +1434,12 @@ Wir kündigen die öffentliche Vorschau eines AKS Managed Add-ons an, das die Be
 
 OpenAI testet Werbung in ChatGPT, die deutlich gekennzeichnet ist. Die Antworten bleiben unabhängig, der Datenschutz wird stark beachtet und Nutzer haben Kontrolle über die Werbung.</description>
 <pubDate>Tue, 10 Feb 2026 12:30:39 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - DevX EMEA: Zwei Tage praktische KI-Entwicklung für Developer</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/devx-emea-zwei-tage-praktische-ki-entwicklung-fuer-developer.aspx</link>
+         <description>Virtuelle Live-Sessions, Demos und Hands-on-Labs zu produktiven KI-Anwendungen mit Azure, GitHub und Co.
+
+In virtuellen Live-Sessions, Demos und Hands-on-Labs lernst du, wie moderne KI-Anwendungen wirklich produktiv gehen – auf Basis von Azure, GitHub und Co..</description>
+<pubDate>Tue, 10 Feb 2026 12:43:13 GMT</pubDate>
       </item></channel>
 </rss>
