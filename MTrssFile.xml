@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 12:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:04:19 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1413,5 +1413,12 @@ OpenAI zeigt, wie global geteilte frontier-Modelle auf lokale Sprachen, Gesetze 
 
 Visual Studio Code ermöglicht in der neuen Version die parallele Nutzung von KI-Agenten wie Claude, Codex und GitHub Copilot und erweitert damit die Möglichkeiten der Multi-Agenten-Entwicklung.</description>
 <pubDate>Mon, 09 Feb 2026 12:13:10 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Tech Community - Azure Arc Jumpstart Template for Hybrid Logic Apps Deployment</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-arc-jumpstart-template-for-hybrid-logic-apps-deployment/4493996</link>
+         <description>Vorstellung eines neuen Azure Arc Jumpstart Templates zur Bereitstellung hybrider Azure Logic Apps (Standard) auf einem Azure Arc-fähigen AKS-Cluster mit einem einzigen Befehl.
+
+Der Artikel beschreibt ein neues Azure Arc Jumpstart Template, mit dem eine hybride Bereitstellung von Azure Logic Apps (Standard) auf einem Azure Arc-aktivierten AKS-Cluster mit nur einem Befehl möglich ist. Das Template automatisiert die Einrichtung einer kompletten Testumgebung, inklusive AKS-Cluster, Azure Arc, Azure SQL Server und Storage Account, und vereinfacht somit den komplexen Setup-Prozess für unternehmenskritische Integrationsszenarien.</description>
+<pubDate>Tue, 10 Feb 2026 07:04:19 GMT</pubDate>
       </item></channel>
 </rss>
