@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 02:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:12:38 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1448,5 +1448,12 @@ In virtuellen Live-Sessions, Demos und Hands-on-Labs lernst du, wie moderne KI-A
 
 Kubernetes Version 1.34 ist jetzt allgemein verfügbar für AKS. Das Release umfasst 58 Verbesserungen, darunter 23 stabile Features, 22 Beta-Features und 13 Alpha-Features, die helfen, Cluster-Operationen zu verbessern.</description>
 <pubDate>Tue, 17 Feb 2026 02:54:09 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Die wichtigsten News der Kalenderwoche 7/2026: Microsoft Azure, KI und mehr</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/die-wichtigsten-news-der-kalenderwoche-72026-microsoft-azure-ki-und-mehr.aspx</link>
+         <description>Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Wichtigste Ankündigungen, neue Lernressourcen.
+
+Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt zu den wichtigsten Neuigkeiten der Kalenderwoche 7/2026, inkl. Microsoft Azure, KI und mehr.</description>
+<pubDate>Tue, 17 Feb 2026 04:12:38 GMT</pubDate>
       </item></channel>
 </rss>
