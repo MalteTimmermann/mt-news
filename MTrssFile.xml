@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 04:30:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:33:54 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1462,5 +1462,12 @@ Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt zu den wich
 
 Ein neues Preprint zeigt, dass GPT-5.2 eine neue Formel für eine Gluon-Amplitude vorschlägt, die später von OpenAI und akademischen Partnern formal bewiesen und verifiziert wurde.</description>
 <pubDate>Tue, 17 Feb 2026 04:30:09 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - A BizTalk Migration Tool: From Orchestrations to Logic Apps Workflows</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/a-biztalk-migration-tool-from-orchestrations-to-logic-apps-workflows/4494876</link>
+         <description>Ein Open-Source-Werkzeug zur Migration von Microsoft BizTalk Server Anwendungen zu Azure Logic Apps Workflows, das Business-Logik und Integrationsmuster erhält.
+
+Der Blogbeitrag beschreibt das BizTalk Migration Starter Toolkit, ein Open-Source-Projekt zur Modernisierung von BizTalk Server Anwendungen durch Konvertierung von Orchestrierungen zu Azure Logic Apps Workflows. Es umfasst Werkzeuge zur Umwandlung von BizTalk Maps, Orchestrierungen und Pipelines in Logic Apps-äquivalente Komponenten und bietet Funktionen zum Erhalt der Geschäftslogik, Connector-Konfigurationen und detaillierten Migrationsberichten.</description>
+<pubDate>Tue, 17 Feb 2026 04:33:54 GMT</pubDate>
       </item></channel>
 </rss>
