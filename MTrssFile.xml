@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 05:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 05:04:03 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1483,5 +1483,12 @@ Microsoft Azure hat die allgemeine Verfügbarkeit der Funktion für den sofortig
 
 Dieser Artikel ist der erste Teil einer zweiteiligen Serie, die eine End-to-End-Implementierung von Azure Logic Apps zur Integration mit SAP vorstellt. Er behandelt die Grundlagen der SAP-Integration, insbesondere den Umgang mit CSV-Daten, Fehlerbehandlung und die stabile Gestaltung von RFC-Verträgen. Es wird gezeigt, wie Workflow-Fehler zuverlässig an SAP zurückgegeben werden können und wie ein stabiler Datenaustausch zwischen SAP und Azure Logic Apps aussehen kann. Die Infrastruktur wird detailliert beschrieben, einschließlich Trigger, Transformation, Validierung und Fehlerbehandlung. Der Einsatz von SAP-IDocs zur Behandlung fehlerhafter Datensätze wird ebenfalls erläutert. Der Artikel ist ein praxisnahes Startermuster zur Verbesserung der Datenqualität und Fehlerpropagation in SAP-Logik-Apps-Integrationen.</description>
 <pubDate>Wed, 18 Feb 2026 05:03:59 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Agentic Logic Apps Integration with SAP - Part 1: Infrastructure</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/logic-apps-agentic-workflows-with-sap---part-1-infrastructure/4491906</link>
+         <description>Ein Ankündigungsartikel über die Integration von Azure Logic Apps mit SAP, Teil 1 fokussiert auf die Infrastruktur und wie Datenbewegung und Fehlerausbreitung funktionieren.
+
+Dieser Artikel erläutert eine End-to-End-Implementierung von Azure Logic Apps, die SAP mittels eingebautem Connector integriert. Teil 1 beschreibt die Infrastruktur, einschließlich der Mechanik der Integration, wie Daten zwischen SAP und Logic Apps fließen, Fehler propagiert werden und Validierungen durchgeführt werden. Insbesondere wird ein Workflow gezeigt, der CSV-Dokumente an SAP sendet und strukturierte Analyseergebnisse zurückerhält. Die Komplexität der Validierung wird besonders hervorgehoben, da sie entscheidend für die Datenqualität ist. Weiterhin werden Fehlerbehandlungsmuster, die SAP/Logic Apps Vertragsgestaltung und optionale Persistierung von fehlerhaften Datensätzen als IDocs behandelt. Anwendungsfälle umfassen stabilisierte Integration, präzise Fehlerberichterstattung und intelligente Datenvalidierung mit zukünftiger AI-Erweiterung.</description>
+<pubDate>Wed, 18 Feb 2026 05:04:03 GMT</pubDate>
       </item></channel>
 </rss>
