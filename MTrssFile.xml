@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 04:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:24:10 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1469,5 +1469,12 @@ Ein neues Preprint zeigt, dass GPT-5.2 eine neue Formel für eine Gluon-Amplitud
 
 Der Blogbeitrag beschreibt das BizTalk Migration Starter Toolkit, ein Open-Source-Projekt zur Modernisierung von BizTalk Server Anwendungen durch Konvertierung von Orchestrierungen zu Azure Logic Apps Workflows. Es umfasst Werkzeuge zur Umwandlung von BizTalk Maps, Orchestrierungen und Pipelines in Logic Apps-äquivalente Komponenten und bietet Funktionen zum Erhalt der Geschäftslogik, Connector-Konfigurationen und detaillierten Migrationsberichten.</description>
 <pubDate>Tue, 17 Feb 2026 04:33:54 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - Allgemeine Verfügbarkeit: Sofortiger Zugriff auf inkrementelle Snapshots von Azure Premium SSD v2 und Ultra Disk</title>
+         <link>https://azure.microsoft.com/updates?id=545784</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit des sofortigen Zugriffs auf inkrementelle Snapshots von Premium SSD v2 (Pv2) und Ultra Disk, die schnelle Wiederherstellung neuer Festplatten ermöglicht.
+
+Microsoft Azure hat die allgemeine Verfügbarkeit der Funktion für den sofortigen Zugriff auf inkrementelle Snapshots von Premium SSD v2 und Ultra Disk bekanntgegeben. Diese Neuerung erlaubt es, neu erstellte Festplatten direkt nach dem Snapshot wiederherzustellen, was die Verwaltung und Wiederherstellung von Daten wesentlich beschleunigt.</description>
+<pubDate>Wed, 18 Feb 2026 03:24:10 GMT</pubDate>
       </item></channel>
 </rss>
