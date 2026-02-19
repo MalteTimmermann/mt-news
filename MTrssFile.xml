@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 05:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 03:54:08 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1490,5 +1490,12 @@ Dieser Artikel ist der erste Teil einer zweiteiligen Serie, die eine End-to-End-
 
 Dieser Artikel erläutert eine End-to-End-Implementierung von Azure Logic Apps, die SAP mittels eingebautem Connector integriert. Teil 1 beschreibt die Infrastruktur, einschließlich der Mechanik der Integration, wie Daten zwischen SAP und Logic Apps fließen, Fehler propagiert werden und Validierungen durchgeführt werden. Insbesondere wird ein Workflow gezeigt, der CSV-Dokumente an SAP sendet und strukturierte Analyseergebnisse zurückerhält. Die Komplexität der Validierung wird besonders hervorgehoben, da sie entscheidend für die Datenqualität ist. Weiterhin werden Fehlerbehandlungsmuster, die SAP/Logic Apps Vertragsgestaltung und optionale Persistierung von fehlerhaften Datensätzen als IDocs behandelt. Anwendungsfälle umfassen stabilisierte Integration, präzise Fehlerberichterstattung und intelligente Datenvalidierung mit zukünftiger AI-Erweiterung.</description>
 <pubDate>Wed, 18 Feb 2026 05:04:03 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [Launched] Generally Available: Quota and deployment troubleshooting tools for Azure Functions Flex Consumption</title>
+         <link>https://azure.microsoft.com/updates?id=556008</link>
+         <description>Azure Functions Flex Consumption führt neue integrierte Tools zur Fehlerbehebung bei Kontingenten und Bereitstellungen ein, die Einblick in Kontingentverfügbarkeit und Bereitstellungsverhalten bieten.
+
+Azure Functions Flex Consumption führt neue plattformintegrierte Tools ein, die klare Einblicke in Kontingentverfügbarkeiten und Bereitstellungsverhalten geben. Das Fehlerbehebungserlebnis für Kontingente hebt Kontingentgrenzen und damit zusammenhängende Einschränkungen hervor.</description>
+<pubDate>Thu, 19 Feb 2026 03:54:08 GMT</pubDate>
       </item></channel>
 </rss>
