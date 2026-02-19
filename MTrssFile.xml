@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 03:54:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 05:00:11 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1511,5 +1511,12 @@ Kunden konnten zuvor LocalDNS nicht auf AKS-Clustern mit Node-Auto-Provisionieru
 
 Node Auto-Provisioning in AKS unterstützt jetzt Verschlüsselung auf Host- und Datenträgerverschlüsselungssätzen. Dies ermöglicht Nutzern mit besonderen Sicherheitsanforderungen, diese Funktion zu nutzen.</description>
 <pubDate>Thu, 19 Feb 2026 03:54:14 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Introducing OpenAI for India</title>
+         <link>https://openai.com/index/openai-for-india</link>
+         <description>OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.
+
+OpenAI erweitert den Zugang zu KI in Indien durch Aufbau lokaler Infrastruktur, Unterstützung von Unternehmen und Verbesserung der Kompetenzen der Arbeitskräfte.</description>
+<pubDate>Thu, 19 Feb 2026 05:00:11 GMT</pubDate>
       </item></channel>
 </rss>
