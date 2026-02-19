@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 05:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 05:12:41 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1518,5 +1518,12 @@ Node Auto-Provisioning in AKS unterstützt jetzt Verschlüsselung auf Host- und 
 
 OpenAI erweitert den Zugang zu KI in Indien durch Aufbau lokaler Infrastruktur, Unterstützung von Unternehmen und Verbesserung der Kompetenzen der Arbeitskräfte.</description>
 <pubDate>Thu, 19 Feb 2026 05:00:11 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Claude Opus 4.6 jetzt in Microsoft Foundry: Mehr Autonomie für Coding, Analyse und Agenten</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/claude-opus-46-jetzt-in-microsoft-foundry-mehr-autonomie-fuer-coding-analyse-und-agenten.aspx</link>
+         <description>Mit Claude Opus 4.6 in Microsoft Foundry kannst du KI-Systeme aufbauen, die nicht nur reagieren, sondern eigenständig handeln, über Abteilungs-, Daten- und Systemgrenzen hinweg.
+
+Claude Opus 4.6 ist in Microsoft Foundry integriert und ermöglicht mehr Autonomie für KI-Systeme beim Coding, der Analyse und im Agentenbetrieb. Diese Innovation unterstützt eigenständiges Handeln und überwindet Grenzen zwischen Abteilungen, Datenquellen und Systemen.</description>
+<pubDate>Thu, 19 Feb 2026 05:12:41 GMT</pubDate>
       </item></channel>
 </rss>
