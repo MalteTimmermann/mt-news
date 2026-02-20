@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 05:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 05:30:13 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1525,5 +1525,12 @@ OpenAI erweitert den Zugang zu KI in Indien durch Aufbau lokaler Infrastruktur, 
 
 Claude Opus 4.6 ist in Microsoft Foundry integriert und ermöglicht mehr Autonomie für KI-Systeme beim Coding, der Analyse und im Agentenbetrieb. Diese Innovation unterstützt eigenständiges Handeln und überwindet Grenzen zwischen Abteilungen, Datenquellen und Systemen.</description>
 <pubDate>Thu, 19 Feb 2026 05:12:41 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Advancing independent research on AI alignment</title>
+         <link>https://openai.com/index/advancing-independent-research-ai-alignment</link>
+         <description>OpenAI committe $7.5M zur Förderung unabhängiger Forschung zur AI-Ausrichtung, um globale Bemühungen zur Bewältigung von Risiken im Zusammenhang mit AGI-Sicherheit zu stärken.
+
+OpenAI stellt 7,5 Millionen US-Dollar für The Alignment Project bereit, um unabhängige Forschung zur Ausrichtung von KI zu fördern. Dies soll die weltweiten Maßnahmen zur Bewältigung von Sicherheits- und Risikoaspekten im Zusammenhang mit allgemeiner KI (AGI) stärken.</description>
+<pubDate>Fri, 20 Feb 2026 05:30:13 GMT</pubDate>
       </item></channel>
 </rss>
