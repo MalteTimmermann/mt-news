@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 05:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 04:24:12 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1532,5 +1532,12 @@ Claude Opus 4.6 ist in Microsoft Foundry integriert und ermöglicht mehr Autonom
 
 OpenAI stellt 7,5 Millionen US-Dollar für The Alignment Project bereit, um unabhängige Forschung zur Ausrichtung von KI zu fördern. Dies soll die weltweiten Maßnahmen zur Bewältigung von Sicherheits- und Risikoaspekten im Zusammenhang mit allgemeiner KI (AGI) stärken.</description>
 <pubDate>Fri, 20 Feb 2026 05:30:13 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Azure - [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Brazil Southeast, and in a third Availability Zone in Malaysia West and Indonesia Central</title>
+         <link>https://azure.microsoft.com/updates?id=557623</link>
+         <description>Azure Premium SSD v2 Disk ist jetzt in Brasilien Südost sowie in Malaysia West und Indonesien Zentral verfügbar.
+
+Azure Premium SSD v2 ist eine nächste Generation von Blockspeicher für allgemeine Zwecke. Es ist jetzt in Brasilien Südost (eine Region ohne Verfügbarkeitszone) und in einer dritten Verfügbarkeitszone in Malaysia West und Indonesien Zentral verfügbar.</description>
+<pubDate>Sat, 21 Feb 2026 04:24:12 GMT</pubDate>
       </item></channel>
 </rss>
