@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 06:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:42:45 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1567,5 +1567,12 @@ Azure kündigt die öffentliche Vorschau der WAF Insights für das Application G
 
 OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.</description>
 <pubDate>Tue, 24 Feb 2026 06:30:17 GMT</pubDate>
+      </item><item>
+         <title>Microsoft Techwiese - Visual Studio Code: Zentrale Verwaltung für Python-Umgebungen</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/visual-studio-code-zentrale-verwaltung-fuer-python-umgebungen.aspx</link>
+         <description>Mit der neuen Python Environments Extension bündelt Visual Studio Code die Steuerung von Interpretern und Paketen in einer einheitlichen Oberfläche.
+
+Visual Studio Code hat mit der Python Environments Extension eine neue Funktion eingeführt, die die Verwaltung von Python-Interpretern und Paketen zentralisiert.</description>
+<pubDate>Tue, 24 Feb 2026 06:42:45 GMT</pubDate>
       </item></channel>
 </rss>
