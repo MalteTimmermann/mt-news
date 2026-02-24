@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 06:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:12:47 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1574,5 +1574,12 @@ OpenAI announces Frontier Alliance Partners to help enterprises move from AI pil
 
 Visual Studio Code hat mit der Python Environments Extension eine neue Funktion eingeführt, die die Verwaltung von Python-Interpretern und Paketen zentralisiert.</description>
 <pubDate>Tue, 24 Feb 2026 06:42:45 GMT</pubDate>
+      </item><item>
+         <title>Microsoft - Microsoft Foundry: Umfassende Updates für Modelle, Agents und Plattform</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/microsoft-foundry-umfassende-updates-fuer-modelle-agents-und-plattform.aspx</link>
+         <description>Microsoft Foundry kündigt GPT-5.2, autonome Coding-Modelle und eine vereinheitlichte Agent-Infrastruktur mit Langzeitgedächtnis an.
+
+Microsoft Foundry bringt umfassende Updates, darunter GPT-5.2, autonome Modelle zur Codierung und eine einheitliche Agentenplattform mit Langzeitgedächtnis.</description>
+<pubDate>Tue, 24 Feb 2026 07:12:47 GMT</pubDate>
       </item></channel>
 </rss>
