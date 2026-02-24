@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 06:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 04:54:15 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1553,5 +1553,12 @@ Wir teilen die Beweisversuche unseres KI-Modells für die First Proof Mathe-Chal
 
 In diesem Artikel werden die wichtigsten Neuigkeiten der Kalenderwoche 8 im Jahr 2026 rund um Microsoft Azure, Künstliche Intelligenz und weitere Themen für Entwickler und technische Fachleute zusammengefasst.</description>
 <pubDate>Sat, 21 Feb 2026 06:12:42 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Public Preview: WAF Insights für Application Gateway</title>
+         <link>https://azure.microsoft.com/updates?id=557416</link>
+         <description>Öffentliche Vorschau der WAF Insights für Azure Application Gateway mit interaktiver Ansicht von Protokollen und Metriken.
+
+Azure kündigt die öffentliche Vorschau der WAF Insights für das Application Gateway an. Diese Funktion ermöglicht eine interaktive Ansicht von Logs und Metriken der Web Application Firewall (WAF), um blockierte Anfragen schnell zu untersuchen und Angriffe zu analysieren.</description>
+<pubDate>Tue, 24 Feb 2026 04:54:15 GMT</pubDate>
       </item></channel>
 </rss>
