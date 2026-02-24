@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 04:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:30:17 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1560,5 +1560,12 @@ In diesem Artikel werden die wichtigsten Neuigkeiten der Kalenderwoche 8 im Jahr
 
 Azure kündigt die öffentliche Vorschau der WAF Insights für das Application Gateway an. Diese Funktion ermöglicht eine interaktive Ansicht von Logs und Metriken der Web Application Firewall (WAF), um blockierte Anfragen schnell zu untersuchen und Angriffe zu analysieren.</description>
 <pubDate>Tue, 24 Feb 2026 04:54:15 GMT</pubDate>
+      </item><item>
+         <title>openai.com - OpenAI announces Frontier Alliance Partners</title>
+         <link>https://openai.com/index/frontier-alliance-partners</link>
+         <description>OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.
+
+OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.</description>
+<pubDate>Tue, 24 Feb 2026 06:30:17 GMT</pubDate>
       </item></channel>
 </rss>
