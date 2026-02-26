@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 07:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:24:19 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1588,5 +1588,12 @@ Microsoft Foundry bringt umfassende Updates, darunter GPT-5.2, autonome Modelle 
 
 OpenAI hat Arvind KC zum Chief People Officer ernannt. In dieser Rolle wird er das Unternehmen beim Wachstum unterstützen, die Unternehmenskultur stärken und die Entwicklung der Arbeitswelt im Zeitalter der KI anführen.</description>
 <pubDate>Wed, 25 Feb 2026 07:00:20 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline</title>
+         <link>https://azure.microsoft.com/updates?id=552808</link>
+         <description>Ankündigung mehrerer Funktionen in der öffentlichen Vorschau mit Azure Monitor Pipeline, einschließlich sicherer Ingress von externen Endpunkten mit TLS/mTLS und BYOC.
+
+Wir kündigen mehrere Fähigkeiten in der öffentlichen Vorschau an: Sicherer Import in die Azure Monitor Pipeline von externen Endpunkten über TLS/mTLS mit der Möglichkeit, eigene Zertifikate (BYOC) zu verwenden, um Unternehmen mehr Kontrolle zu geben.</description>
+<pubDate>Thu, 26 Feb 2026 05:24:19 GMT</pubDate>
       </item></channel>
 </rss>
