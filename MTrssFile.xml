@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 05:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:34:04 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1609,5 +1609,12 @@ Ende Februar 2026 wurden folgende Updates und Verbesserungen an Azure SQL vorgen
 
 Der Artikel beschreibt, wie man in Azure Logic Apps auf einen von Kollegen geteilten OneDrive-Ordner zugreifen kann. Es wird erklärt, dass die OneDrive for Business-Connectoren standardmäßig nur auf den eigenen OneDrive-Speicher zugreifen und geteilte Ordner nicht angezeigt werden. Es werden zwei Methoden vorgestellt: die Nutzung der Microsoft Graph API zur direkten Abfrage und die manuelle Konfiguration des Connectors mithilfe von Metadaten, die über den Graph Explorer ermittelt werden können. Zudem werden Schritte zum Konfigurieren der Logik-App und Troubleshooting-Tipps gegeben.</description>
 <pubDate>Thu, 26 Feb 2026 05:34:02 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Stop Writing Plumbing! Use the New Logic Apps MCP Server Wizard</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/stop-writing-plumbing-use-the-new-logic-apps-mcp-server-wizard/4496702</link>
+         <description>Vorstellung des neuen Konfigurationsassistenten für Logic Apps MCP Server, der die Erstellung und Verwaltung erleichtert.
+
+Microsoft stellt eine neue Logik in Azure Logic Apps Standard vor: den MCP Server Wizard. Er ermöglicht es, Standard-Logik-Apps schnell in voll funktionsfähige MCP-Server zu verwandeln. Der Assistent bietet eine intuitive Oberfläche zur Konfiguration, Authentifizierung (API-Schlüssel oder OAuth) und Verwaltung von MCP-Servern. Entwickler können dadurch sich auf wichtige Funktionen konzentrieren statt auf technische Details des Protokolls. Es gibt Optionen zum Erstellen neuer Workflows mit Konnektoren wie Salesforce oder zur Nutzung vorhandener Workflows mit HTTP-Triggern und HTTP-Response-Aktionen. Die Authentifizierung kann per API-Schlüssel oder OAuth erfolgen. Der Artikel enthält auch Hinweise zur Fehlerbehebung und Verlinkungen zu Video-Inhalten.</description>
+<pubDate>Thu, 26 Feb 2026 05:34:03 GMT</pubDate>
       </item></channel>
 </rss>
