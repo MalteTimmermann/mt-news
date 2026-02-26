@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 05:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:24:22 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1595,5 +1595,12 @@ OpenAI hat Arvind KC zum Chief People Officer ernannt. In dieser Rolle wird er d
 
 Wir kündigen mehrere Fähigkeiten in der öffentlichen Vorschau an: Sicherer Import in die Azure Monitor Pipeline von externen Endpunkten über TLS/mTLS mit der Möglichkeit, eigene Zertifikate (BYOC) zu verwenden, um Unternehmen mehr Kontrolle zu geben.</description>
 <pubDate>Thu, 26 Feb 2026 05:24:19 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - [In Vorschau] Öffentliche Vorschau: Azure SQL-Updates für Ende Februar 2026</title>
+         <link>https://azure.microsoft.com/updates?id=557522</link>
+         <description>Updates und Verbesserungen an Azure SQL Ende Februar 2026, u.a. Verwaltung der Datenbanken über Dialog und Import von Flat Files.
+
+Ende Februar 2026 wurden folgende Updates und Verbesserungen an Azure SQL vorgenommen: Verwalten Sie Ihre Datenbanken direkt im Dialog mit Aktionen wie Name, Umbenennen und Löschen. Importieren Sie eine Flat File in Ihre Datenbank in der MSSQL Extension.</description>
+<pubDate>Thu, 26 Feb 2026 05:24:22 GMT</pubDate>
       </item></channel>
 </rss>
