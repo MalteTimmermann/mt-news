@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 05:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:42:49 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1616,5 +1616,12 @@ Der Artikel beschreibt, wie man in Azure Logic Apps auf einen von Kollegen getei
 
 Microsoft stellt eine neue Logik in Azure Logic Apps Standard vor: den MCP Server Wizard. Er ermöglicht es, Standard-Logik-Apps schnell in voll funktionsfähige MCP-Server zu verwandeln. Der Assistent bietet eine intuitive Oberfläche zur Konfiguration, Authentifizierung (API-Schlüssel oder OAuth) und Verwaltung von MCP-Servern. Entwickler können dadurch sich auf wichtige Funktionen konzentrieren statt auf technische Details des Protokolls. Es gibt Optionen zum Erstellen neuer Workflows mit Konnektoren wie Salesforce oder zur Nutzung vorhandener Workflows mit HTTP-Triggern und HTTP-Response-Aktionen. Die Authentifizierung kann per API-Schlüssel oder OAuth erfolgen. Der Artikel enthält auch Hinweise zur Fehlerbehebung und Verlinkungen zu Video-Inhalten.</description>
 <pubDate>Thu, 26 Feb 2026 05:34:03 GMT</pubDate>
+      </item><item>
+         <title>Microsoft TechWiese - Azure Migrate: Unterstützung für Premium SSD v2, Ultra Disk und ZRS</title>
+         <link>https://www.microsoft.com/de-de/techwiese/news/azure-migrate-unterstuetzung-fuer-premium-ssd-v2-ultra-disk-und-zrs.aspx</link>
+         <description>Azure Migrate erweitert die Zieloptionen für Assessments und Migrationen um hochperformante und zonentolerante Speichertypen.
+
+Azure Migrate erweitert die Zieloptionen für Assessments und Migrationen um hochperformante und zonentolerante Speichertypen.</description>
+<pubDate>Thu, 26 Feb 2026 07:42:49 GMT</pubDate>
       </item></channel>
 </rss>
