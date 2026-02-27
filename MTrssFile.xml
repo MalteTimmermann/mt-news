@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 07:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:54:26 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1623,5 +1623,12 @@ Microsoft stellt eine neue Logik in Azure Logic Apps Standard vor: den MCP Serve
 
 Azure Migrate erweitert die Zieloptionen für Assessments und Migrationen um hochperformante und zonentolerante Speichertypen.</description>
 <pubDate>Thu, 26 Feb 2026 07:42:49 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity</title>
+         <link>https://azure.microsoft.com/updates?id=557694</link>
+         <description>Erweiterte sichere Authentifizierung in Azure Storage durch user-delegation SAS und Entra ID in Vorschau
+
+Azure kündigt die öffentliche Vorschau für die Einschränkung der Nutzung von user delegation SAS auf eine Entra ID Identität an. Diese neue Funktion kombiniert die Flexibilität der user-delegation SAS mit benutzergebundenem Zugriff über Entra ID und bietet so verbesserte Sicherheit in Azure Storage.</description>
+<pubDate>Fri, 27 Feb 2026 05:54:26 GMT</pubDate>
       </item></channel>
 </rss>
