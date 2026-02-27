@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 08:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:00:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1637,5 +1637,12 @@ Azure kündigt die öffentliche Vorschau für die Einschränkung der Nutzung von
 
 OpenAI und Figma haben eine neue Codex-Integration gelauncht, die eine nahtlose Verbindung zwischen Code und Design ermöglicht. Diese Integration erlaubt es Teams, schnell zwischen der Implementierung und der Gestaltung in Figma zu wechseln, um den Entwicklungsprozess zu beschleunigen.</description>
 <pubDate>Fri, 27 Feb 2026 08:00:21 GMT</pubDate>
+      </item><item>
+         <title>OpenAI.com - Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting</title>
+         <link>https://openai.com/index/pacific-northwest-national-laboratory</link>
+         <description>OpenAI und Pacific Northwest National Laboratory führen DraftNEPABench ein, einen neuen Benchmark, der die Beschleunigung der bundesstaatlichen Genehmigungen durch KI-Codierungsagenten evaluiert.
+
+OpenAI und das Pacific Northwest National Laboratory führen DraftNEPABench ein, einen neuen Benchmark, der zeigt, wie KI-Codierungsagenten die Erstellung von NEPA-Dokumenten um bis zu 15 % beschleunigen und die Infrastrukturprüfungen modernisieren können.</description>
+<pubDate>Fri, 27 Feb 2026 08:00:23 GMT</pubDate>
       </item></channel>
 </rss>
