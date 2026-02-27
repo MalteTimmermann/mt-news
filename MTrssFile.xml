@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 05:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:00:21 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1630,5 +1630,12 @@ Azure Migrate erweitert die Zieloptionen für Assessments und Migrationen um hoc
 
 Azure kündigt die öffentliche Vorschau für die Einschränkung der Nutzung von user delegation SAS auf eine Entra ID Identität an. Diese neue Funktion kombiniert die Flexibilität der user-delegation SAS mit benutzergebundenem Zugriff über Entra ID und bietet so verbesserte Sicherheit in Azure Storage.</description>
 <pubDate>Fri, 27 Feb 2026 05:54:26 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - OpenAI Codex and Figma launch seamless code-to-design experience</title>
+         <link>https://openai.com/index/figma-partnership</link>
+         <description>OpenAI und Figma starten eine neue Codex-Integration, die Code und Design verbindet und Teams ermöglicht, zwischen Umsetzung und der Figma-Leinwand zu wechseln, um schneller zu iterieren und auszuliefern.
+
+OpenAI und Figma haben eine neue Codex-Integration gelauncht, die eine nahtlose Verbindung zwischen Code und Design ermöglicht. Diese Integration erlaubt es Teams, schnell zwischen der Implementierung und der Gestaltung in Figma zu wechseln, um den Entwicklungsprozess zu beschleunigen.</description>
+<pubDate>Fri, 27 Feb 2026 08:00:21 GMT</pubDate>
       </item></channel>
 </rss>
