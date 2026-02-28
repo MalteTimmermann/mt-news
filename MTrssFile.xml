@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 06:24:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:30:23 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1672,5 +1672,12 @@ Azure Red Hat OpenShift ist jetzt in Malaysia West, Neuseeland North und Mexiko 
 
 Azure hat die Verfügbarkeit der Premium SSD v2 Disk Storage auf eine dritte Verfügbarkeitszone in New Zealand North ausgeweitet. Diese Speichervariante bietet eine leistungsstarke und kosteneffiziente Speicherlösung mit sehr niedrigen Latenzen für virtuelle Maschinen in Azure.</description>
 <pubDate>Sat, 28 Feb 2026 06:24:29 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock</title>
+         <link>https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock</link>
+         <description>Stateful Runtime für Agenten in Amazon Bedrock bringt persistente Orchestrierung, Speicher und sichere Ausführung für mehrstufige KI-Workflows, unterstützt von OpenAI.
+
+Amazon Bedrock führt eine Stateful Runtime für Agenten ein, die eine persistente Orchestrierung, Speicher und sichere Ausführung in mehrstufigen KI-Workflows ermöglicht, um leistungsfähigere und effizientere KI-Lösungen mit OpenAI-Modellen zu schaffen.</description>
+<pubDate>Sat, 28 Feb 2026 08:30:23 GMT</pubDate>
       </item></channel>
 </rss>
