@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 08:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:24:26 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1651,5 +1651,12 @@ OpenAI und das Pacific Northwest National Laboratory führen DraftNEPABench ein,
 
 Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was waren die wichtigsten Ankündigungen? Gab es neue Lernressourcen? Unser TechWiese-Team hat jede Menge Links für dich zusammengestellt.</description>
 <pubDate>Fri, 27 Feb 2026 08:12:51 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: DCesv6, DCedsv6, ECesv6, and ECedsv6 confidential VMs</title>
+         <link>https://azure.microsoft.com/updates?id=558051</link>
+         <description>Die DCesv6, DCedsv6, ECesv6 und ECedsv6 Serien sind Azure’s nächste Generation von vertraulichen virtuellen Maschinen basierend auf Intel Xeon Prozessoren mit Intel TDX.
+
+Diese neuen vertraulichen VMs helfen Organisationen dabei, sensible Daten in der Cloud sicher zu verarbeiten und zu schützen. Sie basieren auf 5. Gen Intel Xeon Prozessoren mit Intel Trust Domain Extensions (Intel TDX).</description>
+<pubDate>Sat, 28 Feb 2026 06:24:25 GMT</pubDate>
       </item></channel>
 </rss>
