@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 06:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:24:29 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1665,5 +1665,12 @@ Diese neuen vertraulichen VMs helfen Organisationen dabei, sensible Daten in der
 
 Azure Red Hat OpenShift ist jetzt in Malaysia West, Neuseeland North und Mexiko Central allgemein verfügbar. Diese Erweiterung stärkt die Präsenz von Azure Red Hat OpenShift in Asien-Pazifik und Lateinamerika und ermöglicht Kunden den Zugang in diesen Regionen.</description>
 <pubDate>Sat, 28 Feb 2026 06:24:27 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Azure Premium SSD v2 Disk Storage jetzt in dritter Verfügbarkeitszone in New Zealand North verfügbar</title>
+         <link>https://azure.microsoft.com/updates?id=558078</link>
+         <description>Azure Premium SSD v2, eine nächste Generation von allgemeinem Blockspeicher für Azure-VMs, bietet sub-millisecond Latenzen und herausragendes Preis-Leistungs-Verhältnis. Jetzt in dritter Verfügbarkeitszone in New Zealand North erhältlich.
+
+Azure hat die Verfügbarkeit der Premium SSD v2 Disk Storage auf eine dritte Verfügbarkeitszone in New Zealand North ausgeweitet. Diese Speichervariante bietet eine leistungsstarke und kosteneffiziente Speicherlösung mit sehr niedrigen Latenzen für virtuelle Maschinen in Azure.</description>
+<pubDate>Sat, 28 Feb 2026 06:24:29 GMT</pubDate>
       </item></channel>
 </rss>
