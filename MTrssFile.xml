@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 08:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:30:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1679,5 +1679,12 @@ Azure hat die Verfügbarkeit der Premium SSD v2 Disk Storage auf eine dritte Ver
 
 Amazon Bedrock führt eine Stateful Runtime für Agenten ein, die eine persistente Orchestrierung, Speicher und sichere Ausführung in mehrstufigen KI-Workflows ermöglicht, um leistungsfähigere und effizientere KI-Lösungen mit OpenAI-Modellen zu schaffen.</description>
 <pubDate>Sat, 28 Feb 2026 08:30:23 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - OpenAI and Amazon announce strategic partnership</title>
+         <link>https://openai.com/index/amazon-partnership</link>
+         <description>OpenAI und Amazon kündigen eine strategische Partnerschaft an, die OpenAI's Frontier Plattform auf AWS bringt, mit Erweiterungen bei KI-Infrastruktur, individuellen Modellen und Unternehmens-KI-Agenten.
+
+OpenAI und Amazon geben eine strategische Zusammenarbeit bekannt, die OpenAI's Frontier Plattform auf AWS integriert und die KI-Infrastruktur, kundenspezifische Modelle sowie KI-Agenten für Unternehmen erweitert.</description>
+<pubDate>Sat, 28 Feb 2026 08:30:25 GMT</pubDate>
       </item></channel>
 </rss>
