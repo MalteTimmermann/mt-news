@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 06:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:24:27 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1658,5 +1658,12 @@ Was hat sich in der vergangenen Woche für Developer und IT-Pros getan? Was ware
 
 Diese neuen vertraulichen VMs helfen Organisationen dabei, sensible Daten in der Cloud sicher zu verarbeiten und zu schützen. Sie basieren auf 5. Gen Intel Xeon Prozessoren mit Intel Trust Domain Extensions (Intel TDX).</description>
 <pubDate>Sat, 28 Feb 2026 06:24:25 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - [Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central</title>
+         <link>https://azure.microsoft.com/updates?id=557897</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit von Azure Red Hat OpenShift in den Regionen Malaysia West, Neuseeland North und Mexiko Central.
+
+Azure Red Hat OpenShift ist jetzt in Malaysia West, Neuseeland North und Mexiko Central allgemein verfügbar. Diese Erweiterung stärkt die Präsenz von Azure Red Hat OpenShift in Asien-Pazifik und Lateinamerika und ermöglicht Kunden den Zugang in diesen Regionen.</description>
+<pubDate>Sat, 28 Feb 2026 06:24:27 GMT</pubDate>
       </item></channel>
 </rss>
