@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 08:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 09:00:25 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1686,5 +1686,12 @@ Amazon Bedrock führt eine Stateful Runtime für Agenten ein, die eine persisten
 
 OpenAI und Amazon geben eine strategische Zusammenarbeit bekannt, die OpenAI's Frontier Plattform auf AWS integriert und die KI-Infrastruktur, kundenspezifische Modelle sowie KI-Agenten für Unternehmen erweitert.</description>
 <pubDate>Sat, 28 Feb 2026 08:30:25 GMT</pubDate>
+      </item><item>
+         <title>openai.com - Our agreement with the Department of War</title>
+         <link>https://openai.com/index/our-agreement-with-the-department-of-war</link>
+         <description>Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+
+Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.</description>
+<pubDate>Sun, 01 Mar 2026 09:00:25 GMT</pubDate>
       </item></channel>
 </rss>
