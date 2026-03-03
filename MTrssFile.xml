@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 06:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:54:26 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1707,5 +1707,12 @@ Erweiterte Modellwahl, automatisierte Code-Reviews und integrierte Security-Scan
 
 Der Newsletter März 2026 stellt Lilan Sameera als 'Ace Aviator of the Month' vor und bietet Neuigkeiten aus der Produktgruppe und der Community rund um Logic Apps. Themen sind unter anderem neue Service-Limits für Azure API Management, Möglichkeiten zum Zugriff auf geteilte OneDrive-Ordner in Logic Apps, sowie Insights zu agent-gesteuerten Workflows, AI-Integration und Migration von BizTalk zu Logic Apps. Der Artikel enthält zudem Links zu weiterführenden Ressourcen und Community-Beiträgen.</description>
 <pubDate>Tue, 03 Mar 2026 06:04:06 GMT</pubDate>
+      </item><item>
+         <title>azure.microsoft.com - Generally Available: Azure Databricks update workspace network configuration</title>
+         <link>https://azure.microsoft.com/updates?id=558060</link>
+         <description>Update zur allgemeinen Verfügbarkeit der Funktion, die Netzwerk-Konfiguration von Azure Databricks Workspaces zu aktualisieren.
+
+Azure Databricks Workspaces verfügen über zwei Netzwerk-Konfigurationen: Azure Databricks-managed VNet und VNet Injection. Nun ist die Aktualisierung dieser Netzwerk-Konfigurationen allgemein verfügbar, was eine größere Flexibilität ermöglicht.</description>
+<pubDate>Tue, 03 Mar 2026 06:54:26 GMT</pubDate>
       </item></channel>
 </rss>
