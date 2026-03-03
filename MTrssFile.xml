@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 06:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:54:28 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1714,5 +1714,12 @@ Der Newsletter März 2026 stellt Lilan Sameera als 'Ace Aviator of the Month' vo
 
 Azure Databricks Workspaces verfügen über zwei Netzwerk-Konfigurationen: Azure Databricks-managed VNet und VNet Injection. Nun ist die Aktualisierung dieser Netzwerk-Konfigurationen allgemein verfügbar, was eine größere Flexibilität ermöglicht.</description>
 <pubDate>Tue, 03 Mar 2026 06:54:26 GMT</pubDate>
+      </item><item>
+         <title>Azure Microsoft - Generally Available: Azure Databricks Lakebase</title>
+         <link>https://azure.microsoft.com/en-us/updates?id=557991</link>
+         <description>Ankündigung der allgemeinen Verfügbarkeit von Azure Databricks Lakebase, einem verwalteten PostgreSQL-Umfeld mit moderner Speicher- und Rechenleistungstrennung für OLTP.
+
+Azure Databricks Lakebase ist ein verwaltetes PostgreSQL-Umfeld mit moderner Trennung von Speicher und Rechenleistung für OLTP, das sofortige Verfügbarkeit, sofortige Klone und Scale-to-Zero bietet.</description>
+<pubDate>Tue, 03 Mar 2026 06:54:28 GMT</pubDate>
       </item></channel>
 </rss>
