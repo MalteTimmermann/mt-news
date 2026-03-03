@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 08:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:04:06 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1700,5 +1700,12 @@ Details on OpenAI’s contract with the Department of War, outlining safety red 
 
 Erweiterte Modellwahl, automatisierte Code-Reviews und integrierte Security-Scans optimieren deinen KI-gestützten Entwicklungsworkflow.</description>
 <pubDate>Mon, 02 Mar 2026 08:42:56 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Logic Apps Aviators Newsletter - March 2026</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/logic-apps-aviators-newsletter---march-2026/4498260</link>
+         <description>Newsletter mit Updates und Nachrichten zu Logic Apps im März 2026, inklusive Highlights wie 'Ace Aviator of the Month' und News aus Produktgruppen und Community.
+
+Der Newsletter März 2026 stellt Lilan Sameera als 'Ace Aviator of the Month' vor und bietet Neuigkeiten aus der Produktgruppe und der Community rund um Logic Apps. Themen sind unter anderem neue Service-Limits für Azure API Management, Möglichkeiten zum Zugriff auf geteilte OneDrive-Ordner in Logic Apps, sowie Insights zu agent-gesteuerten Workflows, AI-Integration und Migration von BizTalk zu Logic Apps. Der Artikel enthält zudem Links zu weiterführenden Ressourcen und Community-Beiträgen.</description>
+<pubDate>Tue, 03 Mar 2026 06:04:06 GMT</pubDate>
       </item></channel>
 </rss>
