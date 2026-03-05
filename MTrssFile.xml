@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 07:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 10:00:30 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1735,5 +1735,12 @@ Die Konsolidierung der Netzwerkkonnektivität auf wenige Endpunkte vereinfacht d
 
 Der Azure Policy Dienst wurde verbessert, um die Durchsetzung von Richtlinienzuweisungen und Updates für den Resource Manager-Modus innerhalb von 5 Minuten zu ermöglichen. Der bisherige Login/Logout-Workaround wird eingestellt, da die neue Lösung schneller und effizienter ist.</description>
 <pubDate>Thu, 05 Mar 2026 07:24:33 GMT</pubDate>
+      </item><item>
+         <title>OpenAI - Understanding AI and learning outcomes</title>
+         <link>https://openai.com/index/understanding-ai-and-learning-outcomes</link>
+         <description>OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.
+
+OpenAI stellt die Learning Outcomes Measurement Suite vor, eine Lösung zur Messung der Auswirkungen von KI auf Lernleistungen von Schülern in verschiedenen Bildungskontexten über die Zeit.</description>
+<pubDate>Thu, 05 Mar 2026 10:00:30 GMT</pubDate>
       </item></channel>
 </rss>
