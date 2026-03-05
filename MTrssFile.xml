@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 09:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:24:33 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1728,5 +1728,12 @@ Azure Databricks Lakebase ist ein verwaltetes PostgreSQL-Umfeld mit moderner Tre
 
 Die Konsolidierung der Netzwerkkonnektivität auf wenige Endpunkte vereinfacht die Anbindung von Kubernetes-Clustern hinter Proxys und Firewalls erheblich.</description>
 <pubDate>Wed, 04 Mar 2026 09:42:59 GMT</pubDate>
+      </item><item>
+         <title>Azure Updates - Retirement: Azure Policy faster enforcement and retirement of login/logout workaround</title>
+         <link>https://azure.microsoft.com/updates?id=558102</link>
+         <description>Azure verbessert die Durchsetzungszeit von Azure Policy auf etwa 5 Minuten und stellt den Login/Logout-Workaround ein.
+
+Der Azure Policy Dienst wurde verbessert, um die Durchsetzung von Richtlinienzuweisungen und Updates für den Resource Manager-Modus innerhalb von 5 Minuten zu ermöglichen. Der bisherige Login/Logout-Workaround wird eingestellt, da die neue Lösung schneller und effizienter ist.</description>
+<pubDate>Thu, 05 Mar 2026 07:24:33 GMT</pubDate>
       </item></channel>
 </rss>
