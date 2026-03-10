@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 06:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 11:30:38 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1777,5 +1777,12 @@ Descript verwendet OpenAI-Modelle, um mehrsprachiges Video-Dubbing zu skalieren.
 
 Der Artikel beschreibt, wie das BizTalk Server Aggregator Pattern mit CorrelationId auf Azure Logic Apps Standard migriert oder neu implementiert werden kann. Er stellt ein produktionstaugliches, öffentlich verfügbares Workflow-Template im Azure-Portal vor, das ohne Refactoring direkt einsatzbereit ist. Das Template nutzt Azure Service Bus für Nachrichtenaggregation und verwendet bestehende BizTalk XSD-Schemas ohne Änderungen. Außerdem erklärt der Text wesentliche Unterschiede zwischen BizTalk Orchestrations und Logic Apps Workflows und bietet eine Anleitung zur Bereitstellung des Templates im Azure-Portal.</description>
 <pubDate>Tue, 10 Mar 2026 06:34:16 GMT</pubDate>
+      </item><item>
+         <title>openai.com - OpenAI to acquire Promptfoo</title>
+         <link>https://openai.com/index/openai-to-acquire-promptfoo</link>
+         <description>OpenAI übernimmt Promptfoo, eine KI-Sicherheitsplattform, die Unternehmen dabei unterstützt, Schwachstellen in KI-Systemen während der Entwicklung zu erkennen und zu beheben.
+
+OpenAI erwirbt Promptfoo, um die Sicherheit von KI-Systemen zu verbessern, indem Schwachstellen frühzeitig erkannt und behoben werden können. Dies hilft Unternehmen, ihre KI-Anwendungen sicherer zu gestalten.</description>
+<pubDate>Tue, 10 Mar 2026 11:30:38 GMT</pubDate>
       </item></channel>
 </rss>
