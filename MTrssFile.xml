@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 11:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:34:16 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1770,5 +1770,12 @@ Das TechWiese-Team hat die relevantesten News der Kalenderwoche 10/2026 rund um 
 
 Descript verwendet OpenAI-Modelle, um mehrsprachiges Video-Dubbing zu skalieren. Dabei werden Übersetzungen sowohl hinsichtlich Bedeutung als auch Timing optimiert, sodass vertonte Sprache in verschiedenen Sprachen natürlich klingt.</description>
 <pubDate>Sat, 07 Mar 2026 11:00:32 GMT</pubDate>
+      </item><item>
+         <title>Tech Community Microsoft - Implementing / Migrating the BizTalk Server Aggregator Pattern to Azure Logic Apps Standard</title>
+         <link>https://techcommunity.microsoft.com/blog/integrationsonazureblog/implementing--migrating-the-biztalk-server-aggregator-pattern-to-azure-logic-app/4495107</link>
+         <description>Ankündigung zur Migration des BizTalk Server Aggregator Patterns zu Azure Logic Apps Standard mit einem bereitgestellten Workflow-Template.
+
+Der Artikel beschreibt, wie das BizTalk Server Aggregator Pattern mit CorrelationId auf Azure Logic Apps Standard migriert oder neu implementiert werden kann. Er stellt ein produktionstaugliches, öffentlich verfügbares Workflow-Template im Azure-Portal vor, das ohne Refactoring direkt einsatzbereit ist. Das Template nutzt Azure Service Bus für Nachrichtenaggregation und verwendet bestehende BizTalk XSD-Schemas ohne Änderungen. Außerdem erklärt der Text wesentliche Unterschiede zwischen BizTalk Orchestrations und Logic Apps Workflows und bietet eine Anleitung zur Bereitstellung des Templates im Azure-Portal.</description>
+<pubDate>Tue, 10 Mar 2026 06:34:16 GMT</pubDate>
       </item></channel>
 </rss>
