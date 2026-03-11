@@ -11,7 +11,7 @@
     </image>
     <language>de-DE</language>
     <generator>MT</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 11:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:00:40 GMT</lastBuildDate>
 
     <item>
          <title>[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover</title>
@@ -1791,5 +1791,12 @@ OpenAI erwirbt Promptfoo, um die Sicherheit von KI-Systemen zu verbessern, indem
 
 Das Februar-Update von Visual Studio Code bringt neue Debugging-Tools, ermöglicht persistente Sitzungen und erweitert die Browser-Automatisierung, um die Agent-Steuerung zu optimieren.</description>
 <pubDate>Tue, 10 Mar 2026 11:43:05 GMT</pubDate>
+      </item><item>
+         <title>openai.com - New ways to learn math and science in ChatGPT</title>
+         <link>https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt</link>
+         <description>ChatGPT führt interaktive visuelle Erklärungen für Mathematik und Naturwissenschaften ein, um Schülern zu helfen, Formeln, Variablen und Konzepte in Echtzeit zu erkunden.
+
+ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.</description>
+<pubDate>Wed, 11 Mar 2026 12:00:40 GMT</pubDate>
       </item></channel>
 </rss>
